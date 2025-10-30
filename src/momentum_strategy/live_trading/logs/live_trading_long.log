@@ -1,0 +1,1374 @@
+2025-08-22 18:16:35,274 [INFO] [Combined WS] Connected to 224 streams
+2025-08-22 18:30:00,826 [INFO] [2025-08-22 15:30:00 UTC] ETHFIUSDT LONG BUY at ~1.2158
+2025-08-22 18:30:00,826 [INFO] [2025-08-22 15:30:00 UTC] WIFUSDT LONG BUY at ~0.8985
+2025-08-22 18:30:00,827 [INFO] [2025-08-22 15:30:00 UTC] WIFUSDT LONG BUY at ~0.8985
+2025-08-22 18:30:00,827 [INFO] [2025-08-22 15:30:00 UTC] BROCCOLIF3BUSDT LONG BUY at ~0.011612
+2025-08-22 18:30:00,827 [INFO] [2025-08-22 15:30:00 UTC] BSWUSDT LONG BUY at ~0.02805
+2025-08-22 18:30:01,039 [INFO] [2025-08-22 15:30:00 UTC] CKBUSDT LONG BUY at ~0.005066
+2025-08-22 18:30:01,041 [INFO] [2025-08-22 15:30:00 UTC] MOODENGUSDT LONG BUY at ~0.15327
+2025-08-22 18:30:01,041 [INFO] [2025-08-22 15:30:00 UTC] XRPUSDT LONG BUY at ~3.0191
+2025-08-22 18:30:01,042 [INFO] [2025-08-22 15:30:00 UTC] BNBUSDT LONG BUY at ~879.2
+2025-08-22 18:30:01,042 [INFO] [2025-08-22 15:30:00 UTC] ENAUSDT LONG BUY at ~0.7266
+2025-08-22 18:30:01,268 [INFO] [2025-08-22 15:30:00 UTC] DOGEUSDT LONG BUY at ~0.23174
+2025-08-22 18:30:01,268 [INFO] [2025-08-22 15:30:00 UTC] TAOUSDT LONG BUY at ~355.91
+2025-08-22 18:30:01,269 [INFO] [2025-08-22 15:30:00 UTC] 1000BONKUSDT LONG BUY at ~0.023039
+2025-08-22 18:30:01,269 [INFO] [2025-08-22 15:30:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012898
+2025-08-22 18:30:01,270 [INFO] [2025-08-22 15:30:00 UTC] 1000BONKUSDT LONG BUY at ~0.023039
+2025-08-22 18:30:01,270 [INFO] [2025-08-22 15:30:00 UTC] IPUSDT LONG BUY at ~5.98255
+2025-08-22 18:30:01,270 [INFO] [2025-08-22 15:30:00 UTC] FXSUSDT LONG BUY at ~2.8811
+2025-08-22 18:30:01,465 [INFO] [2025-08-22 15:30:00 UTC] ONDOUSDT LONG BUY at ~0.9843
+2025-08-22 18:30:01,466 [INFO] [2025-08-22 15:30:00 UTC] SEIUSDT LONG BUY at ~0.3157
+2025-08-22 18:30:01,466 [INFO] [2025-08-22 15:30:00 UTC] BCHUSDT LONG BUY at ~597.12
+2025-08-22 18:30:01,466 [INFO] [2025-08-22 15:30:00 UTC] MEWUSDT LONG BUY at ~0.003089
+2025-08-22 18:30:01,466 [INFO] [2025-08-22 15:30:00 UTC] FXSUSDT LONG BUY at ~2.8811
+2025-08-22 18:30:01,575 [INFO] [2025-08-22 15:30:00 UTC] TURBOUSDT LONG BUY at ~0.0043675
+2025-08-22 18:30:01,576 [INFO] [2025-08-22 15:30:00 UTC] FILUSDT LONG BUY at ~2.484
+2025-08-22 18:30:01,576 [INFO] [2025-08-22 15:30:00 UTC] PENGUUSDT LONG BUY at ~0.033524
+2025-08-22 18:30:01,656 [INFO] [2025-08-22 15:30:00 UTC] ETCUSDT LONG BUY at ~22.483
+2025-08-22 18:30:01,657 [INFO] [2025-08-22 15:30:00 UTC] OMUSDT LONG BUY at ~0.24122
+2025-08-22 18:30:01,705 [INFO] [2025-08-22 15:30:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.10612
+2025-08-22 18:30:01,706 [INFO] [2025-08-22 15:30:00 UTC] BRETTUSDT LONG BUY at ~0.05544
+2025-08-22 18:30:01,706 [INFO] [2025-08-22 15:30:00 UTC] PHBUSDT LONG BUY at ~0.5837
+2025-08-22 18:30:01,713 [INFO] [2025-08-22 15:30:00 UTC] VIRTUALUSDT LONG BUY at ~1.3006
+2025-08-22 18:30:01,856 [INFO] [2025-08-22 15:30:00 UTC] VIRTUALUSDT LONG BUY at ~1.3006
+2025-08-22 18:30:01,856 [INFO] [2025-08-22 15:30:00 UTC] POPCATUSDT LONG BUY at ~0.2906
+2025-08-22 18:30:01,857 [INFO] [2025-08-22 15:30:00 UTC] SYNUSDT LONG BUY at ~0.1382
+2025-08-22 18:30:01,896 [INFO] [2025-08-22 15:30:00 UTC] NOTUSDT LONG BUY at ~0.001925
+2025-08-22 18:30:01,932 [INFO] [2025-08-22 15:30:00 UTC] NEIROUSDT LONG BUY at ~0.0003812
+2025-08-22 18:30:01,933 [INFO] [2025-08-22 15:30:00 UTC] NEIROUSDT LONG BUY at ~0.0003812
+2025-08-22 18:30:02,039 [INFO] [2025-08-22 15:30:00 UTC] THEUSDT LONG BUY at ~0.4041
+2025-08-22 18:30:02,083 [INFO] [2025-08-22 15:30:00 UTC] NTRNUSDT LONG BUY at ~0.09558
+2025-08-22 18:30:02,447 [INFO] [2025-08-22 15:30:00 UTC] SAGAUSDT Order failed: APIError(code=-2019): Margin is insufficient.
+2025-08-22 18:30:02,778 [INFO] [2025-08-22 15:30:00 UTC] FETUSDT Order failed: APIError(code=-2019): Margin is insufficient.
+2025-08-22 18:39:36,366 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-08-22 18:39:37,335 [INFO] [Combined WS] Connected to 224 streams
+2025-08-22 18:45:01,511 [INFO] [2025-08-22 15:45:00 UTC] SLERFUSDT Order failed: APIError(code=-2019): Margin is insufficient.
+2025-08-22 18:45:01,572 [INFO] [2025-08-22 15:45:00 UTC] COWUSDT Order failed: APIError(code=-2019): Margin is insufficient.
+2025-08-22 18:45:23,136 [INFO] Stopped by user.
+2025-08-22 18:55:57,034 [INFO] [Combined WS] Connected to 224 streams
+2025-08-22 19:00:01,310 [INFO] [2025-08-22 16:00:00 UTC] TURBOUSDT skipped (max positions reached).
+2025-08-22 19:00:01,317 [INFO] [2025-08-22 16:00:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 19:00:01,320 [INFO] [2025-08-22 16:00:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-08-22 19:00:01,338 [INFO] [2025-08-22 16:00:00 UTC] TIAUSDT skipped (max positions reached).
+2025-08-22 19:00:01,373 [INFO] [2025-08-22 16:00:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 19:00:01,388 [INFO] [2025-08-22 16:00:00 UTC] ONDOUSDT skipped (max positions reached).
+2025-08-22 19:00:01,390 [INFO] [2025-08-22 16:00:00 UTC] ETHFIUSDT LONG BUY at ~1.2218 | Open positions: 10
+2025-08-22 19:00:01,653 [INFO] [2025-08-22 16:00:00 UTC] MEWUSDT skipped (max positions reached).
+2025-08-22 19:00:01,682 [INFO] [2025-08-22 16:00:00 UTC] FXSUSDT skipped (max positions reached).
+2025-08-22 19:00:01,804 [INFO] [2025-08-22 16:00:00 UTC] 1000BONKUSDT LONG BUY at ~0.022825 | Open positions: 10
+2025-08-22 19:00:01,805 [INFO] [2025-08-22 16:00:00 UTC] FETUSDT LONG BUY at ~0.6896 | Open positions: 10
+2025-08-22 19:00:01,895 [INFO] [2025-08-22 16:00:00 UTC] BCHUSDT LONG BUY at ~595.96 | Open positions: 10
+2025-08-22 19:00:01,992 [INFO] [2025-08-22 16:00:00 UTC] BSWUSDT LONG BUY at ~0.02837 | Open positions: 10
+2025-08-22 19:00:02,125 [INFO] [2025-08-22 16:00:00 UTC] MANAUSDT skipped (max positions reached).
+2025-08-22 19:00:02,344 [INFO] [2025-08-22 16:00:00 UTC] CKBUSDT skipped (max positions reached).
+2025-08-22 19:00:02,504 [INFO] [2025-08-22 16:00:00 UTC] SAGAUSDT skipped (max positions reached).
+2025-08-22 19:00:02,541 [INFO] [2025-08-22 16:00:00 UTC] WIFUSDT LONG BUY at ~0.8827 | Open positions: 10
+2025-08-22 19:00:02,541 [INFO] [2025-08-22 16:00:00 UTC] TONUSDT LONG BUY at ~3.3279 | Open positions: 10
+2025-08-22 19:00:02,543 [INFO] [2025-08-22 16:00:00 UTC] SOLUSDT LONG BUY at ~193.45 | Open positions: 10
+2025-08-22 19:00:02,716 [INFO] [2025-08-22 16:00:00 UTC] BTCUSDT LONG BUY at ~116319.3 | Open positions: 10
+2025-08-22 19:00:02,947 [INFO] [2025-08-22 16:00:00 UTC] AXSUSDT skipped (max positions reached).
+2025-08-22 19:00:03,053 [INFO] [2025-08-22 16:00:00 UTC] KSMUSDT skipped (max positions reached).
+2025-08-22 19:00:03,109 [INFO] [2025-08-22 16:00:00 UTC] XVGUSDT skipped (max positions reached).
+2025-08-22 19:00:04,469 [INFO] [2025-08-22 16:00:00 UTC] ENAUSDT LONG BUY at ~0.7246 | Open positions: 10
+2025-08-22 19:10:00,424 [INFO] [2025-08-22 16:10:00 UTC] HYPERUSDT skipped (max positions reached).
+2025-08-22 19:10:00,610 [INFO] [2025-08-22 16:10:00 UTC] BROCCOLIF3BUSDT skipped (max positions reached).
+2025-08-22 19:15:00,262 [INFO] [2025-08-22 16:15:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-08-22 19:15:00,359 [INFO] [2025-08-22 16:15:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-22 19:15:00,362 [INFO] [2025-08-22 16:15:00 UTC] GOATUSDT skipped (max positions reached).
+2025-08-22 19:15:00,372 [INFO] [2025-08-22 16:15:00 UTC] BRETTUSDT skipped (max positions reached).
+2025-08-22 19:15:00,375 [INFO] [2025-08-22 16:15:00 UTC] WLDUSDT skipped (max positions reached).
+2025-08-22 19:15:00,531 [INFO] [2025-08-22 16:15:00 UTC] ADAUSDT skipped (max positions reached).
+2025-08-22 19:15:00,534 [INFO] [2025-08-22 16:15:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-08-22 19:15:00,538 [INFO] [2025-08-22 16:15:00 UTC] WIFUSDT skipped (max positions reached).
+2025-08-22 19:15:00,540 [INFO] [2025-08-22 16:15:00 UTC] TURBOUSDT skipped (max positions reached).
+2025-08-22 19:15:00,543 [INFO] [2025-08-22 16:15:00 UTC] SOLUSDT skipped (max positions reached).
+2025-08-22 19:15:00,546 [INFO] [2025-08-22 16:15:00 UTC] AVAXUSDT skipped (max positions reached).
+2025-08-22 19:15:00,554 [INFO] [2025-08-22 16:15:00 UTC] PNUTUSDT skipped (max positions reached).
+2025-08-22 19:15:00,557 [INFO] [2025-08-22 16:15:00 UTC] 1000BONKUSDT skipped (max positions reached).
+2025-08-22 19:15:00,559 [INFO] [2025-08-22 16:15:00 UTC] VIRTUALUSDT skipped (max positions reached).
+2025-08-22 19:15:00,649 [INFO] [2025-08-22 16:15:00 UTC] IPUSDT skipped (max positions reached).
+2025-08-22 19:15:00,699 [INFO] [2025-08-22 16:15:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-22 19:15:00,943 [INFO] [2025-08-22 16:15:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-22 19:15:01,537 [INFO] [2025-08-22 16:15:00 UTC] THEUSDT skipped (max positions reached).
+2025-08-22 19:15:01,695 [INFO] [2025-08-22 16:15:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-08-22 19:15:02,463 [INFO] [2025-08-22 16:15:00 UTC] SLERFUSDT skipped (max positions reached).
+2025-08-22 19:30:00,286 [INFO] [2025-08-22 16:30:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 19:30:00,455 [INFO] [2025-08-22 16:30:00 UTC] AEROUSDT skipped (max positions reached).
+2025-08-22 19:30:00,470 [INFO] [2025-08-22 16:30:00 UTC] POPCATUSDT skipped (max positions reached).
+2025-08-22 19:30:00,477 [INFO] [2025-08-22 16:30:00 UTC] ETHUSDT skipped (max positions reached).
+2025-08-22 19:30:00,480 [INFO] [2025-08-22 16:30:00 UTC] ENAUSDT skipped (max positions reached).
+2025-08-22 19:30:00,484 [INFO] [2025-08-22 16:30:00 UTC] BCHUSDT skipped (max positions reached).
+2025-08-22 19:30:00,776 [INFO] [2025-08-22 16:30:00 UTC] ARBUSDT skipped (max positions reached).
+2025-08-22 19:30:00,782 [INFO] [2025-08-22 16:30:00 UTC] SEIUSDT skipped (max positions reached).
+2025-08-22 19:30:00,787 [INFO] [2025-08-22 16:30:00 UTC] XRPUSDT skipped (max positions reached).
+2025-08-22 19:30:00,794 [INFO] [2025-08-22 16:30:00 UTC] PENGUUSDT skipped (max positions reached).
+2025-08-22 19:30:00,797 [INFO] [2025-08-22 16:30:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-22 19:30:00,812 [INFO] [2025-08-22 16:30:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-22 19:30:00,832 [INFO] [2025-08-22 16:30:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 19:30:00,864 [INFO] [2025-08-22 16:30:00 UTC] BNBUSDT skipped (max positions reached).
+2025-08-22 19:30:00,891 [INFO] [2025-08-22 16:30:00 UTC] TRXUSDT skipped (max positions reached).
+2025-08-22 19:30:00,895 [INFO] [2025-08-22 16:30:00 UTC] WIFUSDT skipped (max positions reached).
+2025-08-22 19:30:01,169 [INFO] [2025-08-22 16:30:00 UTC] AVAXUSDT skipped (max positions reached).
+2025-08-22 19:30:01,178 [INFO] [2025-08-22 16:30:00 UTC] 1000BONKUSDT skipped (max positions reached).
+2025-08-22 19:30:01,211 [INFO] [2025-08-22 16:30:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-08-22 19:30:01,225 [INFO] [2025-08-22 16:30:00 UTC] TIAUSDT skipped (max positions reached).
+2025-08-22 19:30:01,231 [INFO] [2025-08-22 16:30:00 UTC] LINKUSDT skipped (max positions reached).
+2025-08-22 19:30:01,240 [INFO] [2025-08-22 16:30:00 UTC] ONDOUSDT skipped (max positions reached).
+2025-08-22 19:30:01,244 [INFO] [2025-08-22 16:30:00 UTC] UNIUSDT skipped (max positions reached).
+2025-08-22 19:30:01,520 [INFO] [2025-08-22 16:30:00 UTC] TURBOUSDT skipped (max positions reached).
+2025-08-22 19:30:01,531 [INFO] [2025-08-22 16:30:00 UTC] SUSHIUSDT skipped (max positions reached).
+2025-08-22 19:30:01,541 [INFO] [2025-08-22 16:30:00 UTC] VIRTUALUSDT skipped (max positions reached).
+2025-08-22 19:30:01,548 [INFO] [2025-08-22 16:30:00 UTC] BRETTUSDT skipped (max positions reached).
+2025-08-22 19:30:01,561 [INFO] [2025-08-22 16:30:00 UTC] SPXUSDT skipped (max positions reached).
+2025-08-22 19:30:01,572 [INFO] [2025-08-22 16:30:00 UTC] SANDUSDT skipped (max positions reached).
+2025-08-22 19:30:01,576 [INFO] [2025-08-22 16:30:00 UTC] MOODENGUSDT skipped (max positions reached).
+2025-08-22 19:30:01,585 [INFO] [2025-08-22 16:30:00 UTC] DOTUSDT skipped (max positions reached).
+2025-08-22 19:30:01,589 [INFO] [2025-08-22 16:30:00 UTC] VETUSDT skipped (max positions reached).
+2025-08-22 19:30:01,707 [INFO] [2025-08-22 16:30:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-08-22 19:30:01,710 [INFO] [2025-08-22 16:30:00 UTC] CAKEUSDT skipped (max positions reached).
+2025-08-22 19:30:01,725 [INFO] [2025-08-22 16:30:00 UTC] FILUSDT skipped (max positions reached).
+2025-08-22 19:30:01,850 [INFO] [2025-08-22 16:30:00 UTC] QNTUSDT skipped (max positions reached).
+2025-08-22 19:30:01,855 [INFO] [2025-08-22 16:30:00 UTC] TAOUSDT skipped (max positions reached).
+2025-08-22 19:30:01,943 [INFO] [2025-08-22 16:30:00 UTC] 1000SHIBUSDT skipped (max positions reached).
+2025-08-22 19:30:02,048 [INFO] [2025-08-22 16:30:00 UTC] FETUSDT skipped (max positions reached).
+2025-08-22 19:30:02,054 [INFO] [2025-08-22 16:30:00 UTC] THEUSDT skipped (max positions reached).
+2025-08-22 19:30:02,126 [INFO] [2025-08-22 16:30:00 UTC] NTRNUSDT skipped (max positions reached).
+2025-08-22 19:30:02,252 [INFO] [2025-08-22 16:30:00 UTC] RSRUSDT skipped (max positions reached).
+2025-08-22 19:30:02,477 [INFO] [2025-08-22 16:30:00 UTC] NOTUSDT skipped (max positions reached).
+2025-08-22 19:30:02,492 [INFO] [2025-08-22 16:30:00 UTC] AUCTIONUSDT skipped (max positions reached).
+2025-08-22 19:30:02,618 [INFO] [2025-08-22 16:30:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-22 19:30:02,766 [INFO] [2025-08-22 16:30:00 UTC] STXUSDT skipped (max positions reached).
+2025-08-22 19:30:02,848 [INFO] [2025-08-22 16:30:00 UTC] AXSUSDT skipped (max positions reached).
+2025-08-22 19:30:03,180 [INFO] [2025-08-22 16:30:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-08-22 19:30:03,183 [INFO] [2025-08-22 16:30:00 UTC] BIGTIMEUSDT skipped (max positions reached).
+2025-08-22 19:30:03,187 [INFO] [2025-08-22 16:30:00 UTC] SAGAUSDT skipped (max positions reached).
+2025-08-22 19:30:03,212 [INFO] [2025-08-22 16:30:00 UTC] MEWUSDT skipped (max positions reached).
+2025-08-22 19:30:03,472 [INFO] [2025-08-22 16:30:00 UTC] PHBUSDT skipped (max positions reached).
+2025-08-22 19:30:03,484 [INFO] [2025-08-22 16:30:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-08-22 19:30:03,591 [INFO] [2025-08-22 16:30:00 UTC] METISUSDT skipped (max positions reached).
+2025-08-22 19:30:04,444 [INFO] [2025-08-22 16:30:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-22 19:45:00,648 [INFO] [2025-08-22 16:45:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-22 20:00:00,330 [INFO] [2025-08-22 17:00:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 20:00:00,338 [INFO] [2025-08-22 17:00:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 20:00:00,600 [INFO] [2025-08-22 17:00:00 UTC] ETHUSDT skipped (max positions reached).
+2025-08-22 20:00:00,604 [INFO] [2025-08-22 17:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-08-22 20:00:00,621 [INFO] [2025-08-22 17:00:00 UTC] TAOUSDT skipped (max positions reached).
+2025-08-22 20:00:00,624 [INFO] [2025-08-22 17:00:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 20:00:00,626 [INFO] [2025-08-22 17:00:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 20:00:00,633 [INFO] [2025-08-22 17:00:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-08-22 20:00:00,641 [INFO] [2025-08-22 17:00:00 UTC] INJUSDT skipped (max positions reached).
+2025-08-22 20:00:00,656 [INFO] [2025-08-22 17:00:00 UTC] ARBUSDT skipped (max positions reached).
+2025-08-22 20:00:00,947 [INFO] [2025-08-22 17:00:00 UTC] CAKEUSDT skipped (max positions reached).
+2025-08-22 20:00:00,957 [INFO] [2025-08-22 17:00:00 UTC] TURBOUSDT skipped (max positions reached).
+2025-08-22 20:00:00,959 [INFO] [2025-08-22 17:00:00 UTC] LQTYUSDT skipped (max positions reached).
+2025-08-22 20:00:00,969 [INFO] [2025-08-22 17:00:00 UTC] XVGUSDT skipped (max positions reached).
+2025-08-22 20:00:00,977 [INFO] [2025-08-22 17:00:00 UTC] AXSUSDT skipped (max positions reached).
+2025-08-22 20:00:00,989 [INFO] [2025-08-22 17:00:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-08-22 20:00:01,198 [INFO] [2025-08-22 17:00:00 UTC] FILUSDT skipped (max positions reached).
+2025-08-22 20:00:01,591 [INFO] [2025-08-22 17:00:00 UTC] SUSHIUSDT skipped (max positions reached).
+2025-08-22 20:00:01,607 [INFO] [2025-08-22 17:00:00 UTC] ETHWUSDT skipped (max positions reached).
+2025-08-22 20:00:01,782 [INFO] [2025-08-22 17:00:00 UTC] TIAUSDT skipped (max positions reached).
+2025-08-22 20:00:02,142 [INFO] [2025-08-22 17:00:00 UTC] NOTUSDT skipped (max positions reached).
+2025-08-22 20:00:02,320 [INFO] [2025-08-22 17:00:00 UTC] ONDOUSDT skipped (max positions reached).
+2025-08-22 20:00:02,325 [INFO] [2025-08-22 17:00:00 UTC] JASMYUSDT skipped (max positions reached).
+2025-08-22 20:00:02,386 [INFO] [2025-08-22 17:00:00 UTC] SANDUSDT skipped (max positions reached).
+2025-08-22 20:00:02,391 [INFO] [2025-08-22 17:00:00 UTC] MEWUSDT skipped (max positions reached).
+2025-08-22 20:00:02,539 [INFO] [2025-08-22 17:00:00 UTC] MKRUSDT skipped (max positions reached).
+2025-08-22 20:00:02,657 [INFO] [2025-08-22 17:00:00 UTC] STXUSDT skipped (max positions reached).
+2025-08-22 20:00:02,761 [INFO] [2025-08-22 17:00:00 UTC] SAGAUSDT skipped (max positions reached).
+2025-08-22 20:00:02,763 [INFO] [2025-08-22 17:00:00 UTC] CHZUSDT skipped (max positions reached).
+2025-08-22 20:00:02,766 [INFO] [2025-08-22 17:00:00 UTC] MANAUSDT skipped (max positions reached).
+2025-08-22 20:15:00,662 [INFO] [2025-08-22 17:15:00 UTC] BRETTUSDT skipped (max positions reached).
+2025-08-22 20:15:00,787 [INFO] [2025-08-22 17:15:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-22 20:15:00,792 [INFO] [2025-08-22 17:15:00 UTC] GOATUSDT skipped (max positions reached).
+2025-08-22 20:15:00,799 [INFO] [2025-08-22 17:15:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-22 20:15:00,894 [INFO] [2025-08-22 17:15:00 UTC] VIRTUALUSDT skipped (max positions reached).
+2025-08-22 20:15:00,963 [INFO] [2025-08-22 17:15:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 20:15:01,144 [INFO] [2025-08-22 17:15:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-22 20:15:01,466 [INFO] [2025-08-22 17:15:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-08-22 20:30:00,317 [INFO] [2025-08-22 17:30:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 20:30:00,571 [INFO] [2025-08-22 17:30:00 UTC] ETHUSDT skipped (max positions reached).
+2025-08-22 20:30:00,592 [INFO] [2025-08-22 17:30:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-22 20:30:00,627 [INFO] [2025-08-22 17:30:00 UTC] TURBOUSDT skipped (max positions reached).
+2025-08-22 20:30:00,837 [INFO] [2025-08-22 17:30:00 UTC] VIRTUALUSDT skipped (max positions reached).
+2025-08-22 20:30:00,840 [INFO] [2025-08-22 17:30:00 UTC] VIRTUALUSDT skipped (max positions reached).
+2025-08-22 20:30:00,848 [INFO] [2025-08-22 17:30:00 UTC] ARBUSDT skipped (max positions reached).
+2025-08-22 20:30:00,861 [INFO] [2025-08-22 17:30:00 UTC] XRPUSDT skipped (max positions reached).
+2025-08-22 20:30:00,882 [INFO] [2025-08-22 17:30:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 20:30:01,075 [INFO] [2025-08-22 17:30:00 UTC] MOODENGUSDT skipped (max positions reached).
+2025-08-22 20:30:01,078 [INFO] [2025-08-22 17:30:00 UTC] BNBUSDT skipped (max positions reached).
+2025-08-22 20:30:01,086 [INFO] [2025-08-22 17:30:00 UTC] 1000SHIBUSDT skipped (max positions reached).
+2025-08-22 20:30:01,260 [INFO] [2025-08-22 17:30:00 UTC] SUSHIUSDT skipped (max positions reached).
+2025-08-22 20:30:01,268 [INFO] [2025-08-22 17:30:00 UTC] GOATUSDT skipped (max positions reached).
+2025-08-22 20:30:01,276 [INFO] [2025-08-22 17:30:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-08-22 20:30:01,281 [INFO] [2025-08-22 17:30:00 UTC] POPCATUSDT skipped (max positions reached).
+2025-08-22 20:30:01,481 [INFO] [2025-08-22 17:30:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-22 20:30:01,485 [INFO] [2025-08-22 17:30:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-22 20:30:01,757 [INFO] [2025-08-22 17:30:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-22 20:30:01,762 [INFO] [2025-08-22 17:30:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-08-22 20:30:01,767 [INFO] [2025-08-22 17:30:00 UTC] SAGAUSDT skipped (max positions reached).
+2025-08-22 20:30:01,841 [INFO] [2025-08-22 17:30:00 UTC] FILUSDT skipped (max positions reached).
+2025-08-22 20:30:01,896 [INFO] [2025-08-22 17:30:00 UTC] XAIUSDT skipped (max positions reached).
+2025-08-22 20:30:01,949 [INFO] [2025-08-22 17:30:00 UTC] AXSUSDT skipped (max positions reached).
+2025-08-22 20:30:02,388 [INFO] [2025-08-22 17:30:00 UTC] NOTUSDT skipped (max positions reached).
+2025-08-22 20:30:02,440 [INFO] [2025-08-22 17:30:00 UTC] PHBUSDT skipped (max positions reached).
+2025-08-22 20:30:02,579 [INFO] [2025-08-22 17:30:00 UTC] BIGTIMEUSDT skipped (max positions reached).
+2025-08-22 21:00:00,361 [INFO] [2025-08-22 18:00:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-08-22 21:00:00,655 [INFO] [2025-08-22 18:00:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 21:00:00,663 [INFO] [2025-08-22 18:00:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 21:00:00,676 [INFO] [2025-08-22 18:00:00 UTC] ACHUSDT skipped (max positions reached).
+2025-08-22 21:00:00,988 [INFO] [2025-08-22 18:00:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 21:00:00,993 [INFO] [2025-08-22 18:00:00 UTC] CAKEUSDT skipped (max positions reached).
+2025-08-22 21:00:01,001 [INFO] [2025-08-22 18:00:00 UTC] ETHWUSDT skipped (max positions reached).
+2025-08-22 21:00:01,486 [INFO] [2025-08-22 18:00:00 UTC] SUSHIUSDT skipped (max positions reached).
+2025-08-22 21:00:01,489 [INFO] [2025-08-22 18:00:00 UTC] SUSHIUSDT skipped (max positions reached).
+2025-08-22 21:00:01,653 [INFO] [2025-08-22 18:00:00 UTC] BRETTUSDT skipped (max positions reached).
+2025-08-22 21:00:02,234 [INFO] [2025-08-22 18:00:00 UTC] PHBUSDT skipped (max positions reached).
+2025-08-22 21:15:00,504 [INFO] [2025-08-22 18:15:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-22 21:15:01,051 [INFO] [2025-08-22 18:15:00 UTC] BRETTUSDT skipped (max positions reached).
+2025-08-22 21:30:00,738 [INFO] [2025-08-22 18:30:00 UTC] AXSUSDT skipped (max positions reached).
+2025-08-22 21:30:01,538 [INFO] [2025-08-22 18:30:00 UTC] SAGAUSDT skipped (max positions reached).
+2025-08-22 21:30:01,675 [INFO] [2025-08-22 18:30:00 UTC] METISUSDT skipped (max positions reached).
+2025-08-22 22:00:00,819 [INFO] [2025-08-22 19:00:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 22:00:01,169 [INFO] [2025-08-22 19:00:00 UTC] KSMUSDT skipped (max positions reached).
+2025-08-22 22:00:01,204 [INFO] [2025-08-22 19:00:00 UTC] SUSHIUSDT skipped (max positions reached).
+2025-08-22 22:00:01,783 [INFO] [2025-08-22 19:00:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 22:00:01,806 [INFO] [2025-08-22 19:00:00 UTC] MANAUSDT skipped (max positions reached).
+2025-08-22 22:00:02,027 [INFO] [2025-08-22 19:00:00 UTC] SAGAUSDT skipped (max positions reached).
+2025-08-22 22:00:02,655 [INFO] [2025-08-22 19:00:00 UTC] AXSUSDT skipped (max positions reached).
+2025-08-22 22:30:01,439 [INFO] [2025-08-22 19:30:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-22 23:00:01,510 [INFO] [2025-08-22 20:00:00 UTC] BBUSDT skipped (max positions reached).
+2025-08-22 23:15:00,715 [INFO] [2025-08-22 20:15:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-22 23:30:00,960 [INFO] [2025-08-22 20:30:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-22 23:30:01,560 [INFO] [2025-08-22 20:30:00 UTC] ETHFIUSDT SELL at ~1.2882 | Held 9 candles | Open positions: 9
+2025-08-23 00:00:01,905 [INFO] [2025-08-22 21:00:00 UTC] BBUSDT LONG BUY at ~0.17522 | Open positions: 10
+2025-08-23 00:00:03,758 [INFO] [2025-08-22 21:00:00 UTC] BSWUSDT SELL at ~0.02724 | Held 10 candles | Open positions: 9
+2025-08-23 00:30:00,828 [INFO] [2025-08-22 21:30:00 UTC] XRPUSDT LONG BUY at ~3.0977 | Open positions: 10
+2025-08-23 00:30:01,028 [INFO] [2025-08-22 21:30:00 UTC] BRETTUSDT skipped (max positions reached).
+2025-08-23 02:30:00,741 [INFO] [2025-08-22 23:30:00 UTC] PENGUUSDT skipped (max positions reached).
+2025-08-23 03:00:01,139 [INFO] [2025-08-23 00:00:00 UTC] ZROUSDT skipped (max positions reached).
+2025-08-23 03:15:00,363 [INFO] [2025-08-23 00:15:00 UTC] OMNIUSDT skipped (max positions reached).
+2025-08-23 03:30:00,724 [INFO] [2025-08-23 00:30:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-23 03:30:01,278 [INFO] [2025-08-23 00:30:00 UTC] OMNIUSDT skipped (max positions reached).
+2025-08-23 03:30:01,901 [INFO] [2025-08-23 00:30:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-08-23 04:00:00,378 [INFO] [2025-08-23 01:00:00 UTC] OMNIUSDT skipped (max positions reached).
+2025-08-23 04:00:01,254 [INFO] [2025-08-23 01:00:00 UTC] VETUSDT skipped (max positions reached).
+2025-08-23 04:00:01,258 [INFO] [2025-08-23 01:00:00 UTC] VETUSDT skipped (max positions reached).
+2025-08-23 04:00:01,286 [INFO] [2025-08-23 01:00:00 UTC] CYBERUSDT skipped (max positions reached).
+2025-08-23 04:30:00,430 [INFO] [2025-08-23 01:30:00 UTC] GMXUSDT skipped (max positions reached).
+2025-08-23 05:00:00,328 [INFO] [2025-08-23 02:00:00 UTC] CYBERUSDT skipped (max positions reached).
+2025-08-23 05:00:02,018 [INFO] [2025-08-23 02:00:00 UTC] BCHUSDT SELL at ~594.01 | Held 10 candles | Open positions: 9
+2025-08-23 05:00:02,019 [INFO] [2025-08-23 02:00:00 UTC] BBUSDT SELL at ~0.16482 | Held 5 candles | Open positions: 8
+2025-08-23 06:00:01,612 [INFO] [2025-08-23 03:00:00 UTC] ENAUSDT LONG BUY at ~0.756 | Open positions: 9
+2025-08-23 06:00:01,876 [INFO] [2025-08-23 03:00:00 UTC] WIFUSDT SELL at ~0.891 | Held 11 candles | Open positions: 9
+2025-08-23 06:00:02,248 [INFO] [2025-08-23 03:00:00 UTC] TRXUSDT LONG BUY at ~0.36355 | Open positions: 10
+2025-08-23 06:00:02,555 [INFO] [2025-08-23 03:00:00 UTC] SAGAUSDT LONG BUY at ~0.2714 | Open positions: 10
+2025-08-23 07:00:02,458 [INFO] [2025-08-23 04:00:00 UTC] TONUSDT SELL at ~3.3604 | Held 12 candles | Open positions: 9
+2025-08-23 07:15:00,331 [INFO] [2025-08-23 04:15:00 UTC] ALCHUSDT skipped (max positions reached).
+2025-08-23 07:15:00,759 [INFO] [2025-08-23 04:15:00 UTC] ALCHUSDT LONG BUY at ~0.12409 | Open positions: 10
+2025-08-23 07:45:02,482 [INFO] [2025-08-23 04:45:00 UTC] SLERFUSDT skipped (max positions reached).
+2025-08-23 08:00:01,940 [INFO] [2025-08-23 05:00:00 UTC] ALCHUSDT skipped (max positions reached).
+2025-08-23 08:00:02,408 [INFO] [2025-08-23 05:00:00 UTC] ALCHUSDT SELL at ~0.12314 | Held 3 candles | Open positions: 9
+2025-08-23 08:15:00,984 [INFO] [2025-08-23 05:15:00 UTC] SLERFUSDT LONG BUY at ~0.08289 | Open positions: 10
+2025-08-23 08:20:00,357 [INFO] [2025-08-23 05:20:00 UTC] ALCHUSDT skipped (max positions reached).
+2025-08-23 08:30:01,244 [INFO] [2025-08-23 05:30:00 UTC] MEWUSDT skipped (max positions reached).
+2025-08-23 08:45:00,831 [INFO] [2025-08-23 05:45:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 08:45:01,146 [INFO] [2025-08-23 05:45:00 UTC] GRIFFAINUSDT skipped (max positions reached).
+2025-08-23 08:45:01,338 [INFO] [2025-08-23 05:45:00 UTC] BROCCOLIF3BUSDT skipped (max positions reached).
+2025-08-23 09:00:00,452 [INFO] [2025-08-23 06:00:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 09:00:00,455 [INFO] [2025-08-23 06:00:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 09:00:00,460 [INFO] [2025-08-23 06:00:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 09:00:00,858 [INFO] [2025-08-23 06:00:00 UTC] 1000CATUSDT skipped (max positions reached).
+2025-08-23 09:00:01,159 [INFO] [2025-08-23 06:00:00 UTC] 1000CATUSDT skipped (max positions reached).
+2025-08-23 09:00:01,537 [INFO] [2025-08-23 06:00:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-23 09:00:02,181 [INFO] [2025-08-23 06:00:00 UTC] BTCUSDT SELL at ~115920.0 | Held 14 candles | Open positions: 9
+2025-08-23 09:30:00,967 [INFO] [2025-08-23 06:30:00 UTC] 1000CATUSDT skipped (max positions reached).
+2025-08-23 09:30:00,971 [INFO] [2025-08-23 06:30:00 UTC] 1000CATUSDT skipped (max positions reached).
+2025-08-23 09:30:00,977 [INFO] [2025-08-23 06:30:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-23 09:30:01,186 [INFO] [2025-08-23 06:30:00 UTC] NOTUSDT LONG BUY at ~0.002075 | Open positions: 10
+2025-08-23 09:30:02,960 [INFO] [2025-08-23 06:30:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-23 09:45:00,854 [INFO] [2025-08-23 06:45:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 10:00:01,245 [INFO] [2025-08-23 07:00:00 UTC] 1000CATUSDT skipped (max positions reached).
+2025-08-23 10:00:01,250 [INFO] [2025-08-23 07:00:00 UTC] 1000CATUSDT skipped (max positions reached).
+2025-08-23 10:00:01,259 [INFO] [2025-08-23 07:00:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 10:00:01,267 [INFO] [2025-08-23 07:00:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 10:00:01,271 [INFO] [2025-08-23 07:00:00 UTC] NEIROETHUSDT skipped (max positions reached).
+2025-08-23 10:15:00,414 [INFO] [2025-08-23 07:15:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-23 10:30:00,654 [INFO] [2025-08-23 07:30:00 UTC] 1000CATUSDT skipped (max positions reached).
+2025-08-23 10:30:02,318 [INFO] [2025-08-23 07:30:00 UTC] TRXUSDT SELL at ~0.36051 | Held 9 candles | Open positions: 9
+2025-08-23 11:00:01,791 [INFO] [2025-08-23 08:00:00 UTC] ENAUSDT SELL at ~0.7352 | Held 10 candles | Open positions: 8
+2025-08-23 11:00:02,425 [INFO] [2025-08-23 08:00:00 UTC] ENAUSDT SELL at ~0.7352 | Held 16 candles | Open positions: 7
+2025-08-23 11:00:03,310 [INFO] [2025-08-23 08:00:00 UTC] TOKENUSDT LONG BUY at ~0.01514 | Open positions: 8
+2025-08-23 12:00:03,189 [INFO] [2025-08-23 09:00:00 UTC] NEIROETHUSDT LONG BUY at ~0.11669 | Open positions: 9
+2025-08-23 12:00:03,520 [INFO] [2025-08-23 09:00:00 UTC] NOTUSDT SELL at ~0.002056 | Held 5 candles | Open positions: 8
+2025-08-23 12:30:01,239 [INFO] [2025-08-23 09:30:00 UTC] XRPUSDT SELL at ~3.0453 | Held 24 candles | Open positions: 7
+2025-08-23 14:00:01,906 [INFO] [2025-08-23 11:00:00 UTC] 1000BONKUSDT SELL at ~0.022828 | Held 19 candles | Open positions: 6
+2025-08-23 14:15:02,619 [INFO] [2025-08-23 11:15:00 UTC] COWUSDT LONG BUY at ~0.3937 | Open positions: 7
+2025-08-23 14:30:01,746 [INFO] [2025-08-23 11:30:00 UTC] SAGAUSDT SELL at ~0.2749 | Held 17 candles | Open positions: 6
+2025-08-23 15:00:01,780 [INFO] [2025-08-23 12:00:00 UTC] COWUSDT SELL at ~0.3907 | Held 3 candles | Open positions: 5
+2025-08-23 15:15:01,077 [INFO] [2025-08-23 12:15:00 UTC] SLERFUSDT SELL at ~0.0813 | Held 28 candles | Open positions: 4
+2025-08-23 15:45:01,113 [INFO] [2025-08-23 12:45:00 UTC] VOXELUSDT LONG BUY at ~0.06034 | Open positions: 5
+2025-08-23 16:45:01,932 [INFO] [2025-08-23 13:45:00 UTC] VOXELUSDT SELL at ~0.05976 | Held 4 candles | Open positions: 4
+2025-08-23 17:00:01,363 [INFO] [2025-08-23 14:00:00 UTC] AAVEUSDT LONG BUY at ~367.11 | Open positions: 7
+2025-08-23 17:00:01,697 [INFO] [2025-08-23 14:00:00 UTC] AVAXUSDT LONG BUY at ~26.642 | Open positions: 7
+2025-08-23 17:00:02,455 [INFO] [2025-08-23 14:00:00 UTC] AAVEUSDT LONG BUY at ~367.11 | Open positions: 7
+2025-08-23 17:15:01,295 [INFO] [2025-08-23 14:15:00 UTC] IPUSDT LONG BUY at ~6.05099 | Open positions: 8
+2025-08-23 17:30:02,007 [INFO] [2025-08-23 14:30:00 UTC] PENDLEUSDT LONG BUY at ~6.2278 | Open positions: 9
+2025-08-23 18:00:02,993 [INFO] [2025-08-23 15:00:00 UTC] SYNUSDT LONG BUY at ~0.1421 | Open positions: 10
+2025-08-23 18:00:03,111 [INFO] [2025-08-23 15:00:00 UTC] NEIROETHUSDT SELL at ~0.11832 | Held 12 candles | Open positions: 9
+2025-08-23 19:00:02,501 [INFO] [2025-08-23 16:00:00 UTC] NOTUSDT LONG BUY at ~0.002038 | Open positions: 10
+2025-08-23 19:30:01,122 [INFO] [2025-08-23 16:30:00 UTC] ZROUSDT skipped (max positions reached).
+2025-08-23 20:00:02,026 [INFO] [2025-08-23 17:00:00 UTC] FETUSDT SELL at ~0.6837 | Held 25 candles | Open positions: 9
+2025-08-23 20:15:01,132 [INFO] [2025-08-23 17:15:00 UTC] 1MBABYDOGEUSDT LONG BUY at ~0.0013367 | Open positions: 10
+2025-08-23 20:15:01,258 [INFO] [2025-08-23 17:15:00 UTC] IPUSDT SELL at ~6.0252 | Held 12 candles | Open positions: 9
+2025-08-23 21:30:04,316 [INFO] [2025-08-23 18:30:00 UTC] NOTUSDT SELL at ~0.002013 | Held 5 candles | Open positions: 8
+2025-08-23 21:31:46,361 [INFO] Stopped by user.
+2025-08-24 13:47:31,653 [INFO] [Combined WS] Connected to 224 streams
+2025-08-24 15:45:00,847 [INFO] [2025-08-24 12:45:00 UTC] NEIROETHUSDT LONG BUY at ~0.12442 | Open positions: 1
+2025-08-24 15:45:02,259 [INFO] [2025-08-24 12:45:00 UTC] HYPERUSDT LONG BUY at ~0.3157 | Open positions: 2
+2025-08-24 16:00:03,551 [INFO] [2025-08-24 13:00:00 UTC] NEIROETHUSDT SELL at ~0.11951 | Held 1 candles | Open positions: 2
+2025-08-24 16:00:03,556 [INFO] [2025-08-24 13:00:00 UTC] NEIROETHUSDT LONG BUY at ~0.11951 | Open positions: 2
+2025-08-24 16:10:01,743 [INFO] [2025-08-24 13:10:00 UTC] HYPERUSDT SELL at ~0.3173 | Held 5 candles | Open positions: 1
+2025-08-24 16:25:00,636 [INFO] [2025-08-24 13:25:00 UTC] ALCHUSDT LONG BUY at ~0.10762 | Open positions: 2
+2025-08-24 16:30:01,721 [INFO] [2025-08-24 13:30:00 UTC] NTRNUSDT LONG BUY at ~0.10248 | Open positions: 6
+2025-08-24 16:30:01,903 [INFO] [2025-08-24 13:30:00 UTC] ALCHUSDT LONG BUY at ~0.10904 | Open positions: 6
+2025-08-24 16:30:02,094 [INFO] [2025-08-24 13:30:00 UTC] IPUSDT LONG BUY at ~5.9178 | Open positions: 6
+2025-08-24 16:30:02,095 [INFO] [2025-08-24 13:30:00 UTC] IPUSDT LONG BUY at ~5.9178 | Open positions: 6
+2025-08-24 18:01:01,307 [INFO] [Combined WS] Connected to 224 streams
+2025-08-24 18:15:00,824 [INFO] [2025-08-24 15:15:00 UTC] DEGENUSDT LONG BUY at ~0.003774 | Open positions: 2
+2025-08-24 18:15:00,824 [INFO] [2025-08-24 15:15:00 UTC] BROCCOLIF3BUSDT LONG BUY at ~0.011058 | Open positions: 2
+2025-08-24 18:30:01,505 [INFO] [2025-08-24 15:30:00 UTC] WIFUSDT LONG BUY at ~0.8838 | Open positions: 3
+2025-08-24 18:45:01,081 [INFO] [2025-08-24 15:45:00 UTC] BBUSDT LONG BUY at ~0.15205 | Open positions: 4
+2025-08-24 19:00:02,847 [INFO] [2025-08-24 16:00:00 UTC] DEGENUSDT SELL at ~0.003708 | Held 3 candles | Open positions: 3
+2025-08-24 19:15:01,602 [INFO] [2025-08-24 16:15:00 UTC] ALCHUSDT LONG BUY at ~0.1037 | Open positions: 4
+2025-08-24 19:45:01,395 [INFO] [2025-08-24 16:45:00 UTC] BBUSDT SELL at ~0.14822 | Held 4 candles | Open positions: 3
+2025-08-24 19:45:03,726 [INFO] [2025-08-24 16:45:00 UTC] BROCCOLIF3BUSDT SELL at ~0.011026 | Held 18 candles | Open positions: 2
+2025-08-24 20:00:01,021 [INFO] [2025-08-24 17:00:00 UTC] SPXUSDT LONG BUY at ~1.3283 | Open positions: 3
+2025-08-24 20:45:01,223 [INFO] [2025-08-24 17:45:00 UTC] NEIROUSDT LONG BUY at ~0.0003973 | Open positions: 8
+2025-08-24 20:45:01,223 [INFO] [2025-08-24 17:45:00 UTC] VIRTUALUSDT LONG BUY at ~1.2523 | Open positions: 8
+2025-08-24 20:45:01,397 [INFO] [2025-08-24 17:45:00 UTC] PNUTUSDT LONG BUY at ~0.23322 | Open positions: 8
+2025-08-24 20:45:01,398 [INFO] [2025-08-24 17:45:00 UTC] BRETTUSDT LONG BUY at ~0.05742 | Open positions: 8
+2025-08-24 20:45:01,525 [INFO] [2025-08-24 17:45:00 UTC] AIXBTUSDT LONG BUY at ~0.11926 | Open positions: 9
+2025-08-24 20:45:01,852 [INFO] [2025-08-24 17:45:00 UTC] HYPERUSDT LONG BUY at ~0.324 | Open positions: 9
+2025-08-24 20:45:02,238 [INFO] [2025-08-24 17:45:00 UTC] GRIFFAINUSDT LONG BUY at ~0.03756 | Open positions: 10
+2025-08-24 20:45:03,382 [INFO] [2025-08-24 17:45:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-24 21:00:01,463 [INFO] [2025-08-24 18:00:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-08-24 21:00:02,594 [INFO] [2025-08-24 18:00:00 UTC] POPCATUSDT skipped (max positions reached).
+2025-08-24 21:00:02,603 [INFO] [2025-08-24 18:00:00 UTC] KASUSDT skipped (max positions reached).
+2025-08-24 21:00:03,294 [INFO] [2025-08-24 18:00:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-24 21:00:03,434 [INFO] [2025-08-24 18:00:00 UTC] COWUSDT skipped (max positions reached).
+2025-08-24 21:00:03,881 [INFO] [2025-08-24 18:00:00 UTC] AEROUSDT skipped (max positions reached).
+2025-08-24 21:10:03,866 [INFO] [2025-08-24 18:10:00 UTC] HYPERUSDT SELL at ~0.3249 | Held 5 candles | Open positions: 9
+2025-08-24 21:30:00,780 [INFO] [2025-08-24 18:30:00 UTC] NTRNUSDT LONG BUY at ~0.10516 | Open positions: 10
+2025-08-24 21:30:01,059 [INFO] [2025-08-24 18:30:00 UTC] 1000BONKUSDT skipped (max positions reached).
+2025-08-24 21:30:01,143 [INFO] [2025-08-24 18:30:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-24 21:30:01,497 [INFO] [2025-08-24 18:30:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-24 21:30:01,509 [INFO] [2025-08-24 18:30:00 UTC] UXLINKUSDT skipped (max positions reached).
+2025-08-24 21:30:01,519 [INFO] [2025-08-24 18:30:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-24 21:30:01,545 [INFO] [2025-08-24 18:30:00 UTC] FXSUSDT skipped (max positions reached).
+2025-08-24 21:30:01,559 [INFO] [2025-08-24 18:30:00 UTC] FXSUSDT skipped (max positions reached).
+2025-08-24 21:30:01,777 [INFO] [2025-08-24 18:30:00 UTC] ILVUSDT skipped (max positions reached).
+2025-08-24 21:30:02,213 [INFO] [2025-08-24 18:30:00 UTC] GOATUSDT skipped (max positions reached).
+2025-08-24 21:45:00,748 [INFO] [2025-08-24 18:45:00 UTC] PNUTUSDT skipped (max positions reached).
+2025-08-24 21:45:00,762 [INFO] [2025-08-24 18:45:00 UTC] GOATUSDT skipped (max positions reached).
+2025-08-24 21:45:00,926 [INFO] [2025-08-24 18:45:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-24 21:45:01,885 [INFO] [2025-08-24 18:45:00 UTC] NOTUSDT skipped (max positions reached).
+2025-08-24 21:45:01,972 [INFO] [2025-08-24 18:45:00 UTC] UXLINKUSDT skipped (max positions reached).
+2025-08-24 22:00:00,840 [INFO] [2025-08-24 19:00:00 UTC] VETUSDT skipped (max positions reached).
+2025-08-24 22:00:00,844 [INFO] [2025-08-24 19:00:00 UTC] VETUSDT skipped (max positions reached).
+2025-08-24 22:00:00,851 [INFO] [2025-08-24 19:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-08-24 22:00:00,884 [INFO] [2025-08-24 19:00:00 UTC] XRPUSDT skipped (max positions reached).
+2025-08-24 22:00:00,915 [INFO] [2025-08-24 19:00:00 UTC] TAOUSDT skipped (max positions reached).
+2025-08-24 22:00:00,921 [INFO] [2025-08-24 19:00:00 UTC] TAOUSDT skipped (max positions reached).
+2025-08-24 22:00:01,458 [INFO] [2025-08-24 19:00:00 UTC] ETCUSDT skipped (max positions reached).
+2025-08-24 22:00:01,552 [INFO] [2025-08-24 19:00:00 UTC] ILVUSDT skipped (max positions reached).
+2025-08-24 22:00:02,000 [INFO] [2025-08-24 19:00:00 UTC] FXSUSDT skipped (max positions reached).
+2025-08-24 22:00:02,102 [INFO] [2025-08-24 19:00:00 UTC] VIRTUALUSDT skipped (max positions reached).
+2025-08-24 22:00:02,410 [INFO] [2025-08-24 19:00:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-24 22:00:02,422 [INFO] [2025-08-24 19:00:00 UTC] MOODENGUSDT skipped (max positions reached).
+2025-08-24 22:00:02,703 [INFO] [2025-08-24 19:00:00 UTC] POPCATUSDT skipped (max positions reached).
+2025-08-24 22:00:03,026 [INFO] [2025-08-24 19:00:00 UTC] SUPERUSDT skipped (max positions reached).
+2025-08-24 22:00:03,829 [INFO] [2025-08-24 19:00:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-24 22:15:00,413 [INFO] [2025-08-24 19:15:00 UTC] ADAUSDT skipped (max positions reached).
+2025-08-24 22:15:01,639 [INFO] [2025-08-24 19:15:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-08-24 22:30:01,125 [INFO] [2025-08-24 19:30:00 UTC] KASUSDT skipped (max positions reached).
+2025-08-24 22:30:01,479 [INFO] [2025-08-24 19:30:00 UTC] QNTUSDT skipped (max positions reached).
+2025-08-24 22:30:01,549 [INFO] [2025-08-24 19:30:00 UTC] GRIFFAINUSDT SELL at ~0.03838 | Held 35 candles | Open positions: 9
+2025-08-24 22:30:02,150 [INFO] [2025-08-24 19:30:00 UTC] VETUSDT skipped (max positions reached).
+2025-08-24 22:30:02,607 [INFO] [2025-08-24 19:30:00 UTC] FILUSDT LONG BUY at ~2.532 | Open positions: 10
+2025-08-24 22:35:05,794 [INFO] [2025-08-24 19:35:00 UTC] AIXBTUSDT SELL at ~0.11874 | Held 22 candles | Open positions: 9
+2025-08-24 22:40:01,311 [INFO] [2025-08-24 19:40:00 UTC] PNUTUSDT SELL at ~0.23013 | Held 23 candles | Open positions: 9
+2025-08-24 22:40:01,415 [INFO] [2025-08-24 19:40:00 UTC] IPUSDT LONG BUY at ~5.9972 | Open positions: 9
+2025-08-24 22:45:00,994 [INFO] [2025-08-24 19:45:00 UTC] HYPERUSDT LONG BUY at ~0.3275 | Open positions: 10
+2025-08-24 22:50:01,998 [INFO] [2025-08-24 19:50:00 UTC] HYPERUSDT SELL at ~0.326 | Held 1 candles | Open positions: 9
+2025-08-24 23:00:02,053 [INFO] [2025-08-24 20:00:00 UTC] FILUSDT SELL at ~2.462 | Held 1 candles | Open positions: 8
+2025-08-24 23:00:02,519 [INFO] [2025-08-24 20:00:00 UTC] ALCHUSDT SELL at ~0.10443 | Held 15 candles | Open positions: 7
+2025-08-24 23:05:01,787 [INFO] [2025-08-24 20:05:00 UTC] NEIROUSDT SELL at ~0.0003888 | Held 28 candles | Open positions: 6
+2025-08-24 23:30:01,138 [INFO] [2025-08-24 20:30:00 UTC] VETUSDT skipped (max positions reached).
+2025-08-24 23:30:01,360 [INFO] [2025-08-24 20:30:00 UTC] PHBUSDT skipped (max positions reached).
+2025-08-24 23:30:01,365 [INFO] [2025-08-24 20:30:00 UTC] AEROUSDT skipped (max positions reached).
+2025-08-24 23:30:01,392 [INFO] [2025-08-24 20:30:00 UTC] PNUTUSDT LONG BUY at ~0.2288 | Open positions: 10
+2025-08-24 23:30:01,393 [INFO] [2025-08-24 20:30:00 UTC] ARKUSDT LONG BUY at ~0.4724 | Open positions: 10
+2025-08-24 23:30:01,532 [INFO] [2025-08-24 20:30:00 UTC] NEIROUSDT skipped (max positions reached).
+2025-08-24 23:30:01,687 [INFO] [2025-08-24 20:30:00 UTC] WIFUSDT SELL at ~0.8716 | Held 10 candles | Open positions: 9
+2025-08-24 23:30:01,792 [INFO] [2025-08-24 20:30:00 UTC] ETHFIUSDT LONG BUY at ~1.2718 | Open positions: 9
+2025-08-24 23:30:01,792 [INFO] [2025-08-24 20:30:00 UTC] 1000BONKUSDT LONG BUY at ~0.022302 | Open positions: 9
+2025-08-24 23:30:02,136 [INFO] [2025-08-24 20:30:00 UTC] GOATUSDT skipped (max positions reached).
+2025-08-24 23:30:02,347 [INFO] [2025-08-24 20:30:00 UTC] PERPUSDT skipped (max positions reached).
+2025-08-24 23:30:02,348 [INFO] [2025-08-24 20:30:00 UTC] CKBUSDT LONG BUY at ~0.005091 | Open positions: 10
+2025-08-24 23:30:03,142 [INFO] [2025-08-24 20:30:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-08-24 23:30:03,147 [INFO] [2025-08-24 20:30:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-08-25 00:00:01,890 [INFO] [2025-08-24 21:00:00 UTC] ETHFIUSDT SELL at ~1.2653 | Held 1 candles | Open positions: 9
+2025-08-25 00:00:03,334 [INFO] [2025-08-24 21:00:00 UTC] IPUSDT SELL at ~5.96767 | Held 16 candles | Open positions: 8
+2025-08-25 00:30:00,854 [INFO] [2025-08-24 21:30:00 UTC] 1000BONKUSDT SELL at ~0.022125 | Held 4 candles | Open positions: 7
+2025-08-25 00:40:01,210 [INFO] [2025-08-24 21:40:00 UTC] BROCCOLIF3BUSDT LONG BUY at ~0.011053 | Open positions: 8
+2025-08-25 00:45:01,181 [INFO] [2025-08-24 21:45:00 UTC] PNUTUSDT SELL at ~0.22925 | Held 5 candles | Open positions: 7
+2025-08-25 01:05:00,791 [INFO] [2025-08-24 22:05:00 UTC] IPUSDT LONG BUY at ~6.1598 | Open positions: 8
+2025-08-25 01:15:00,707 [INFO] [2025-08-24 22:15:00 UTC] IPUSDT LONG BUY at ~6.4076 | Open positions: 9
+2025-08-25 01:15:01,634 [INFO] [2025-08-24 22:15:00 UTC] BROCCOLIF3BUSDT SELL at ~0.010971 | Held 7 candles | Open positions: 8
+2025-08-25 01:30:01,400 [INFO] [2025-08-24 22:30:00 UTC] SPXUSDT SELL at ~1.3027 | Held 11 candles | Open positions: 7
+2025-08-25 01:30:01,884 [INFO] [2025-08-24 22:30:00 UTC] VIRTUALUSDT SELL at ~1.2187 | Held 19 candles | Open positions: 6
+2025-08-25 01:30:02,604 [INFO] [2025-08-24 22:30:00 UTC] ARKUSDT SELL at ~0.4624 | Held 4 candles | Open positions: 5
+2025-08-25 03:15:01,211 [INFO] [2025-08-25 00:15:00 UTC] DIAUSDT LONG BUY at ~0.6969 | Open positions: 6
+2025-08-25 03:30:01,423 [INFO] [2025-08-25 00:30:00 UTC] VETUSDT LONG BUY at ~0.026315 | Open positions: 8
+2025-08-25 03:30:01,670 [INFO] [2025-08-25 00:30:00 UTC] DIAUSDT LONG BUY at ~0.7055 | Open positions: 8
+2025-08-25 03:45:01,342 [INFO] [2025-08-25 00:45:00 UTC] IPUSDT SELL at ~6.16964 | Held 10 candles | Open positions: 7
+2025-08-25 03:45:01,576 [INFO] [2025-08-25 00:45:00 UTC] BRETTUSDT SELL at ~0.05431 | Held 28 candles | Open positions: 6
+2025-08-25 04:00:01,686 [INFO] [2025-08-25 01:00:00 UTC] IPUSDT SELL at ~6.19562 | Held 35 candles | Open positions: 5
+2025-08-25 04:30:01,450 [INFO] [2025-08-25 01:30:00 UTC] AUCTIONUSDT LONG BUY at ~10.507 | Open positions: 6
+2025-08-25 06:00:03,984 [INFO] [2025-08-25 03:00:00 UTC] DIAUSDT SELL at ~0.6976 | Held 5 candles | Open positions: 5
+2025-08-25 07:00:02,462 [INFO] [2025-08-25 04:00:00 UTC] AUCTIONUSDT SELL at ~10.374 | Held 5 candles | Open positions: 5
+2025-08-25 07:00:02,736 [INFO] [2025-08-25 04:00:00 UTC] PHBUSDT LONG BUY at ~0.5933 | Open positions: 5
+2025-08-25 07:15:01,119 [INFO] [2025-08-25 04:15:00 UTC] DIAUSDT SELL at ~0.6912 | Held 16 candles | Open positions: 4
+2025-08-25 07:30:01,623 [INFO] [2025-08-25 04:30:00 UTC] NOTUSDT LONG BUY at ~0.001957 | Open positions: 6
+2025-08-25 07:30:01,995 [INFO] [2025-08-25 04:30:00 UTC] CFXUSDT LONG BUY at ~0.18933 | Open positions: 6
+2025-08-25 07:30:01,995 [INFO] [2025-08-25 04:30:00 UTC] NTRNUSDT SELL at ~0.10869 | Held 20 candles | Open positions: 5
+2025-08-25 08:00:01,508 [INFO] [2025-08-25 05:00:00 UTC] CKBUSDT LONG BUY at ~0.005135 | Open positions: 8
+2025-08-25 08:00:01,909 [INFO] [2025-08-25 05:00:00 UTC] TUSDT LONG BUY at ~0.01727 | Open positions: 8
+2025-08-25 08:00:02,306 [INFO] [2025-08-25 05:00:00 UTC] VIRTUALUSDT LONG BUY at ~1.2816 | Open positions: 8
+2025-08-25 08:00:03,223 [INFO] [2025-08-25 05:00:00 UTC] PHBUSDT LONG BUY at ~0.595 | Open positions: 9
+2025-08-25 08:00:04,058 [INFO] [2025-08-25 05:00:00 UTC] NOTUSDT SELL at ~0.001901 | Held 1 candles | Open positions: 8
+2025-08-25 09:00:01,462 [INFO] [2025-08-25 06:00:00 UTC] VETUSDT SELL at ~0.02615 | Held 11 candles | Open positions: 7
+2025-08-25 09:00:01,851 [INFO] [2025-08-25 06:00:00 UTC] CKBUSDT SELL at ~0.004979 | Held 19 candles | Open positions: 6
+2025-08-25 09:00:01,852 [INFO] [2025-08-25 06:00:00 UTC] CKBUSDT SELL at ~0.004979 | Held 1 candles | Open positions: 5
+2025-08-25 09:00:03,695 [INFO] [2025-08-25 06:00:00 UTC] TUSDT SELL at ~0.01688 | Held 1 candles | Open positions: 4
+2025-08-25 11:00:03,202 [INFO] [2025-08-25 08:00:00 UTC] VIRTUALUSDT SELL at ~1.223 | Held 12 candles | Open positions: 3
+2025-08-25 11:00:04,072 [INFO] [2025-08-25 08:00:00 UTC] CFXUSDT SELL at ~0.18029 | Held 7 candles | Open positions: 2
+2025-08-25 12:00:01,682 [INFO] [2025-08-25 09:00:00 UTC] PHBUSDT SELL at ~0.5928 | Held 4 candles | Open positions: 1
+2025-08-25 12:30:01,665 [INFO] [2025-08-25 09:30:00 UTC] PHBUSDT SELL at ~0.5899 | Held 11 candles | Open positions: 0
+2025-08-25 14:00:01,517 [INFO] [2025-08-25 11:00:00 UTC] NTRNUSDT LONG BUY at ~0.10558 | Open positions: 1
+2025-08-25 14:30:02,564 [INFO] [2025-08-25 11:30:00 UTC] NTRNUSDT SELL at ~0.10226 | Held 1 candles | Open positions: 0
+2025-08-25 14:32:47,372 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-08-25 14:32:48,462 [INFO] [Combined WS] Connected to 224 streams
+2025-08-25 15:15:02,483 [INFO] [2025-08-25 12:15:00 UTC] AIXBTUSDT LONG BUY at ~0.11035 | Open positions: 1
+2025-08-25 15:30:02,227 [INFO] [2025-08-25 12:30:00 UTC] OMUSDT LONG BUY at ~0.23108 | Open positions: 4
+2025-08-25 15:30:02,531 [INFO] [2025-08-25 12:30:00 UTC] RONINUSDT LONG BUY at ~0.5406 | Open positions: 4
+2025-08-25 15:30:02,581 [INFO] [2025-08-25 12:30:00 UTC] RONINUSDT LONG BUY at ~0.5406 | Open positions: 4
+2025-08-25 16:00:02,484 [INFO] [2025-08-25 13:00:00 UTC] OMUSDT LONG BUY at ~0.23187 | Open positions: 5
+2025-08-25 16:35:01,472 [INFO] [2025-08-25 13:35:00 UTC] AIXBTUSDT SELL at ~0.10955 | Held 16 candles | Open positions: 4
+2025-08-25 17:30:01,650 [INFO] [2025-08-25 14:30:00 UTC] THEUSDT LONG BUY at ~0.376 | Open positions: 5
+2025-08-25 17:45:00,775 [INFO] [2025-08-25 14:45:00 UTC] WLDUSDT LONG BUY at ~0.9384 | Open positions: 6
+2025-08-25 17:45:01,221 [INFO] [2025-08-25 14:45:00 UTC] OMUSDT SELL at ~0.22854 | Held 9 candles | Open positions: 5
+2025-08-25 18:00:00,820 [INFO] [2025-08-25 15:00:00 UTC] WLDUSDT LONG BUY at ~0.9479 | Open positions: 6
+2025-08-25 18:30:02,733 [INFO] [2025-08-25 15:30:00 UTC] RONINUSDT SELL at ~0.5387 | Held 6 candles | Open positions: 5
+2025-08-25 18:30:02,736 [INFO] [2025-08-25 15:30:00 UTC] RONINUSDT SELL at ~0.5387 | Held 12 candles | Open positions: 4
+2025-08-25 19:00:02,358 [INFO] [2025-08-25 16:00:00 UTC] OMUSDT SELL at ~0.22754 | Held 3 candles | Open positions: 3
+2025-08-25 19:00:03,473 [INFO] [2025-08-25 16:00:00 UTC] THEUSDT SELL at ~0.3726 | Held 6 candles | Open positions: 2
+2025-08-25 19:08:54,470 [INFO] Stopped by user.
+2025-08-25 19:37:54,967 [INFO] [Combined WS] Connected to 36 streams
+2025-08-26 09:45:39,771 [INFO] [Combined WS] Connected to 36 streams
+2025-08-26 15:45:01,828 [INFO] [2025-08-26 12:45:00 UTC] SUIUSDT LONG BUY at ~3.428 | Open positions: 1
+2025-08-26 16:00:00,842 [INFO] [2025-08-26 13:00:00 UTC] ETHUSDT LONG BUY at ~4494.85 | Open positions: 7
+2025-08-26 16:00:00,952 [INFO] [2025-08-26 13:00:00 UTC] LINKUSDT LONG BUY at ~24.115 | Open positions: 9
+2025-08-26 16:00:00,978 [INFO] [2025-08-26 13:00:00 UTC] ARBUSDT LONG BUY at ~0.5339 | Open positions: 9
+2025-08-26 16:00:01,063 [INFO] [2025-08-26 13:00:00 UTC] MAGICUSDT LONG BUY at ~0.2079 | Open positions: 9
+2025-08-26 16:00:01,064 [INFO] [2025-08-26 13:00:00 UTC] INJUSDT LONG BUY at ~13.236 | Open positions: 9
+2025-08-26 16:00:01,224 [INFO] [2025-08-26 13:00:00 UTC] GMTUSDT LONG BUY at ~0.03998 | Open positions: 9
+2025-08-26 16:00:02,078 [INFO] [2025-08-26 13:00:00 UTC] STXUSDT LONG BUY at ~0.6362 | Open positions: 9
+2025-08-26 16:00:02,099 [INFO] [2025-08-26 13:00:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.09528 | Open positions: 9
+2025-08-26 16:30:02,280 [INFO] [2025-08-26 13:30:00 UTC] STXUSDT SELL at ~0.6329 | Held 1 candles | Open positions: 8
+2025-08-26 17:15:00,848 [INFO] [2025-08-26 14:15:00 UTC] SUIUSDT SELL at ~3.3865 | Held 6 candles | Open positions: 7
+2025-08-26 18:30:01,292 [INFO] [2025-08-26 15:30:00 UTC] NMRUSDT LONG BUY at ~9.697 | Open positions: 8
+2025-08-26 18:30:01,782 [INFO] [2025-08-26 15:30:00 UTC] GMTUSDT SELL at ~0.04008 | Held 5 candles | Open positions: 7
+2025-08-26 18:30:01,831 [INFO] [2025-08-26 15:30:00 UTC] MAGICUSDT SELL at ~0.2189 | Held 5 candles | Open positions: 6
+2025-08-26 18:30:01,893 [INFO] [2025-08-26 15:30:00 UTC] ARBUSDT SELL at ~0.535 | Held 5 candles | Open positions: 5
+2025-08-26 19:30:01,139 [INFO] [2025-08-26 16:30:00 UTC] LPTUSDT LONG BUY at ~6.668 | Open positions: 8
+2025-08-26 19:30:01,225 [INFO] [2025-08-26 16:30:00 UTC] MAGICUSDT LONG BUY at ~0.2214 | Open positions: 8
+2025-08-26 19:30:01,436 [INFO] [2025-08-26 16:30:00 UTC] GMTUSDT LONG BUY at ~0.04054 | Open positions: 8
+2025-08-26 21:00:00,796 [INFO] [2025-08-26 18:00:00 UTC] NMRUSDT SELL at ~11.588 | Held 5 candles | Open positions: 7
+2025-08-26 22:00:01,089 [INFO] [2025-08-26 19:00:00 UTC] MAGICUSDT SELL at ~0.2175 | Held 5 candles | Open positions: 6
+2025-08-26 22:00:02,431 [INFO] [2025-08-26 19:00:00 UTC] GMTUSDT SELL at ~0.04084 | Held 5 candles | Open positions: 5
+2025-08-26 23:15:00,702 [INFO] [2025-08-26 20:15:00 UTC] LPTUSDT SELL at ~6.636 | Held 15 candles | Open positions: 4
+2025-08-26 23:30:01,107 [INFO] [2025-08-26 20:30:00 UTC] ETHUSDT SELL at ~4599.99 | Held 15 candles | Open positions: 3
+2025-08-26 23:30:01,212 [INFO] [2025-08-26 20:30:00 UTC] INJUSDT SELL at ~13.592 | Held 15 candles | Open positions: 2
+2025-08-26 23:30:01,308 [INFO] [2025-08-26 20:30:00 UTC] LINKUSDT SELL at ~24.468 | Held 15 candles | Open positions: 1
+2025-08-26 23:30:03,519 [INFO] [2025-08-26 20:30:00 UTC] 1000FLOKIUSDT SELL at ~0.09818 | Held 15 candles | Open positions: 0
+2025-08-27 03:30:01,077 [INFO] [2025-08-27 00:30:00 UTC] PHBUSDT LONG BUY at ~0.566 | Open positions: 1
+2025-08-27 07:00:02,001 [INFO] [2025-08-27 04:00:00 UTC] SUIUSDT LONG BUY at ~3.4709 | Open positions: 2
+2025-08-27 08:30:00,879 [INFO] [2025-08-27 05:30:00 UTC] SUIUSDT SELL at ~3.4682 | Held 6 candles | Open positions: 1
+2025-08-27 08:44:26,360 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-08-27 08:44:28,066 [INFO] [Combined WS] Connected to 36 streams
+2025-08-27 09:45:00,649 [INFO] [2025-08-27 06:45:00 UTC] LPTUSDT LONG BUY at ~6.917 | Open positions: 2
+2025-08-27 11:00:02,003 [INFO] [2025-08-27 08:00:00 UTC] PHBUSDT SELL at ~0.5688 | Held 15 candles | Open positions: 1
+2025-08-27 13:30:01,207 [INFO] [2025-08-27 10:30:00 UTC] LPTUSDT SELL at ~7.714 | Held 15 candles | Open positions: 0
+2025-08-27 17:45:01,125 [INFO] [2025-08-27 14:45:00 UTC] SUIUSDT LONG BUY at ~3.4994 | Open positions: 1
+2025-08-27 18:15:00,772 [INFO] [2025-08-27 15:15:00 UTC] LPTUSDT LONG BUY at ~7.804 | Open positions: 2
+2025-08-27 19:15:01,217 [INFO] [2025-08-27 16:15:00 UTC] SUIUSDT SELL at ~3.4836 | Held 6 candles | Open positions: 1
+2025-08-27 19:45:00,715 [INFO] [2025-08-27 16:45:00 UTC] LPTUSDT SELL at ~7.85 | Held 6 candles | Open positions: 0
+2025-08-27 23:30:01,026 [INFO] [2025-08-27 20:30:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-08-27 23:30:01,038 [INFO] [2025-08-27 20:30:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-08-27 23:30:01,044 [INFO] [2025-08-27 20:30:00 UTC] BELUSDT skipped (max positions reached).
+2025-08-27 23:30:01,049 [INFO] [2025-08-27 20:30:00 UTC] GMXUSDT skipped (max positions reached).
+2025-08-27 23:30:01,231 [INFO] [2025-08-27 20:30:00 UTC] SUIUSDT LONG BUY at ~3.4885 | Open positions: 10
+2025-08-27 23:30:01,231 [INFO] [2025-08-27 20:30:00 UTC] LINKUSDT LONG BUY at ~24.266 | Open positions: 10
+2025-08-27 23:30:01,235 [INFO] [2025-08-27 20:30:00 UTC] TRBUSDT LONG BUY at ~33.731 | Open positions: 10
+2025-08-27 23:30:01,375 [INFO] [2025-08-27 20:30:00 UTC] ADAUSDT LONG BUY at ~0.8647 | Open positions: 10
+2025-08-27 23:30:01,635 [INFO] [2025-08-27 20:30:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.09724 | Open positions: 10
+2025-08-27 23:30:01,636 [INFO] [2025-08-27 20:30:00 UTC] MAGICUSDT LONG BUY at ~0.2101 | Open positions: 10
+2025-08-27 23:30:01,637 [INFO] [2025-08-27 20:30:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0101419 | Open positions: 10
+2025-08-27 23:30:01,658 [INFO] [2025-08-27 20:30:00 UTC] FETUSDT LONG BUY at ~0.6444 | Open positions: 10
+2025-08-27 23:30:01,658 [INFO] [2025-08-27 20:30:00 UTC] ROSEUSDT LONG BUY at ~0.02568 | Open positions: 10
+2025-08-27 23:30:01,678 [INFO] [2025-08-27 20:30:00 UTC] GMTUSDT LONG BUY at ~0.0411 | Open positions: 10
+2025-08-28 00:00:00,684 [INFO] [2025-08-27 21:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-08-28 00:00:00,976 [INFO] [2025-08-27 21:00:00 UTC] 1000FLOKIUSDT SELL at ~0.09771 | Held 1 candles | Open positions: 9
+2025-08-28 00:00:01,066 [INFO] [2025-08-27 21:00:00 UTC] ROSEUSDT SELL at ~0.02578 | Held 1 candles | Open positions: 8
+2025-08-28 00:00:02,014 [INFO] [2025-08-27 21:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012583 | Open positions: 9
+2025-08-28 00:30:00,765 [INFO] [2025-08-27 21:30:00 UTC] LINKUSDT SELL at ~24.127 | Held 2 candles | Open positions: 8
+2025-08-28 01:00:00,897 [INFO] [2025-08-27 22:00:00 UTC] FETUSDT SELL at ~0.6399 | Held 3 candles | Open positions: 7
+2025-08-28 01:00:01,000 [INFO] [2025-08-27 22:00:00 UTC] GMTUSDT SELL at ~0.04101 | Held 3 candles | Open positions: 6
+2025-08-28 01:00:01,578 [INFO] [2025-08-27 22:00:00 UTC] ADAUSDT SELL at ~0.8554 | Held 3 candles | Open positions: 5
+2025-08-28 01:00:01,881 [INFO] [2025-08-27 22:00:00 UTC] SUIUSDT SELL at ~3.4606 | Held 6 candles | Open positions: 4
+2025-08-28 01:00:01,977 [INFO] [2025-08-27 22:00:00 UTC] TRBUSDT SELL at ~33.454 | Held 3 candles | Open positions: 3
+2025-08-28 01:00:02,272 [INFO] [2025-08-27 22:00:00 UTC] 1000SHIBUSDT SELL at ~0.01249 | Held 1 candles | Open positions: 2
+2025-08-28 01:00:02,526 [INFO] [2025-08-27 22:00:00 UTC] 1000PEPEUSDT SELL at ~0.0100765 | Held 3 candles | Open positions: 1
+2025-08-28 01:30:03,199 [INFO] [2025-08-27 22:30:00 UTC] MAGICUSDT SELL at ~0.2064 | Held 4 candles | Open positions: 0
+2025-08-28 03:30:01,611 [INFO] [2025-08-28 00:30:00 UTC] PHBUSDT LONG BUY at ~0.5979 | Open positions: 1
+2025-08-28 04:00:01,939 [INFO] [2025-08-28 01:00:00 UTC] GMTUSDT LONG BUY at ~0.04234 | Open positions: 2
+2025-08-28 05:30:00,776 [INFO] [2025-08-28 02:30:00 UTC] LPTUSDT LONG BUY at ~8.861 | Open positions: 3
+2025-08-28 06:30:00,935 [INFO] [2025-08-28 03:30:00 UTC] GMTUSDT SELL at ~0.04488 | Held 5 candles | Open positions: 2
+2025-08-28 07:00:01,234 [INFO] [2025-08-28 04:00:00 UTC] GMTUSDT LONG BUY at ~0.0469 | Open positions: 3
+2025-08-28 09:15:00,696 [INFO] [2025-08-28 06:15:00 UTC] LPTUSDT SELL at ~8.557 | Held 15 candles | Open positions: 2
+2025-08-28 09:30:00,818 [INFO] [2025-08-28 06:30:00 UTC] GMTUSDT SELL at ~0.04387 | Held 5 candles | Open positions: 1
+2025-08-28 11:00:01,841 [INFO] [2025-08-28 08:00:00 UTC] PHBUSDT SELL at ~0.604 | Held 15 candles | Open positions: 0
+2025-08-28 11:30:01,972 [INFO] [2025-08-28 08:30:00 UTC] GMTUSDT LONG BUY at ~0.04479 | Open positions: 2
+2025-08-28 11:30:03,111 [INFO] [2025-08-28 08:30:00 UTC] RUNEUSDT LONG BUY at ~1.262 | Open positions: 2
+2025-08-28 12:04:29,401 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-08-28 12:04:30,654 [INFO] [Combined WS] Connected to 36 streams
+2025-08-28 14:00:02,594 [INFO] [2025-08-28 11:00:00 UTC] GMTUSDT SELL at ~0.0445 | Held 5 candles | Open positions: 1
+2025-08-28 15:00:02,027 [INFO] [2025-08-28 12:00:00 UTC] PHBUSDT LONG BUY at ~0.619 | Open positions: 2
+2025-08-28 15:30:01,986 [INFO] [2025-08-28 12:30:00 UTC] INJUSDT LONG BUY at ~13.825 | Open positions: 3
+2025-08-28 16:30:00,816 [INFO] [2025-08-28 13:30:00 UTC] ACHUSDT LONG BUY at ~0.021047 | Open positions: 4
+2025-08-28 17:00:00,773 [INFO] [2025-08-28 14:00:00 UTC] LINKUSDT LONG BUY at ~25.809 | Open positions: 5
+2025-08-28 17:30:01,884 [INFO] [2025-08-28 14:30:00 UTC] GMTUSDT LONG BUY at ~0.0449 | Open positions: 6
+2025-08-28 18:30:01,342 [INFO] [2025-08-28 15:30:00 UTC] PHBUSDT SELL at ~0.5998 | Held 7 candles | Open positions: 5
+2025-08-28 19:00:02,312 [INFO] [2025-08-28 16:00:00 UTC] RUNEUSDT SELL at ~1.252 | Held 15 candles | Open positions: 4
+2025-08-28 20:00:01,464 [INFO] [2025-08-28 17:00:00 UTC] GMTUSDT SELL at ~0.04357 | Held 5 candles | Open positions: 3
+2025-08-28 23:00:01,268 [INFO] [2025-08-28 20:00:00 UTC] ACHUSDT SELL at ~0.020383 | Held 13 candles | Open positions: 2
+2025-08-28 23:00:01,738 [INFO] [2025-08-28 20:00:00 UTC] INJUSDT SELL at ~13.768 | Held 15 candles | Open positions: 1
+2025-08-29 00:00:00,864 [INFO] [2025-08-28 21:00:00 UTC] LINKUSDT SELL at ~24.557 | Held 14 candles | Open positions: 0
+2025-08-29 02:30:03,949 [INFO] [2025-08-28 23:30:00 UTC] ROSEUSDT LONG BUY at ~0.02642 | Open positions: 1
+2025-08-29 04:30:01,308 [INFO] [2025-08-29 01:30:00 UTC] ROSEUSDT SELL at ~0.02598 | Held 4 candles | Open positions: 0
+2025-08-29 10:16:12,089 [INFO] Stopped by user.
+2025-08-29 13:05:16,697 [INFO] [Combined WS] Connected to 36 streams
+2025-08-29 15:30:00,807 [INFO] [2025-08-29 12:30:00 UTC] ZECUSDT LONG BUY at ~43.5 | Open positions: 1
+2025-08-29 15:45:00,546 [INFO] [2025-08-29 12:45:00 UTC] SUIUSDT LONG BUY at ~3.3494 | Open positions: 2
+2025-08-29 16:00:00,526 [INFO] [2025-08-29 13:00:00 UTC] SOLUSDT LONG BUY at ~211.8 | Open positions: 3
+2025-08-29 16:00:01,104 [INFO] [2025-08-29 13:00:00 UTC] FETUSDT LONG BUY at ~0.6297 | Open positions: 5
+2025-08-29 16:00:01,661 [INFO] [2025-08-29 13:00:00 UTC] STXUSDT LONG BUY at ~0.6364 | Open positions: 6
+2025-08-29 16:00:02,836 [INFO] [2025-08-29 13:00:00 UTC] TRBUSDT LONG BUY at ~33.653 | Open positions: 6
+2025-08-29 16:30:00,504 [INFO] [2025-08-29 13:30:00 UTC] SOLUSDT SELL at ~210.87 | Held 1 candles | Open positions: 5
+2025-08-29 17:00:01,188 [INFO] [2025-08-29 14:00:00 UTC] SUIUSDT SELL at ~3.316 | Held 5 candles | Open positions: 4
+2025-08-29 17:00:01,329 [INFO] [2025-08-29 14:00:00 UTC] STXUSDT SELL at ~0.6261 | Held 2 candles | Open positions: 3
+2025-08-29 17:00:01,897 [INFO] [2025-08-29 14:00:00 UTC] TRBUSDT SELL at ~33.055 | Held 2 candles | Open positions: 2
+2025-08-29 18:00:03,024 [INFO] [2025-08-29 15:00:00 UTC] ZECUSDT SELL at ~43.19 | Held 5 candles | Open positions: 1
+2025-08-29 18:00:03,364 [INFO] [2025-08-29 15:00:00 UTC] FETUSDT SELL at ~0.6171 | Held 4 candles | Open positions: 0
+2025-08-30 06:30:00,914 [INFO] [2025-08-30 03:30:00 UTC] HIGHUSDT LONG BUY at ~0.5387 | Open positions: 1
+2025-08-30 07:00:01,105 [INFO] [2025-08-30 04:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012368 | Open positions: 2
+2025-08-30 08:15:00,507 [INFO] [2025-08-30 05:15:00 UTC] LPTUSDT LONG BUY at ~7.312 | Open positions: 3
+2025-08-30 10:07:22,312 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-08-30 10:07:23,890 [INFO] [Combined WS] Connected to 36 streams
+2025-08-30 10:30:00,670 [INFO] [2025-08-30 07:30:00 UTC] MAGICUSDT LONG BUY at ~0.2159 | Open positions: 4
+2025-08-30 11:52:12,203 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-08-30 11:52:22,322 [INFO] [Combined WS] Connection error: . Reconnecting in 0.2s...
+2025-08-30 11:52:32,540 [INFO] [Combined WS] Connection error: . Reconnecting in 0.5s...
+2025-08-30 11:52:41,206 [INFO] [Combined WS] Connected to 36 streams
+2025-08-30 12:00:00,845 [INFO] [2025-08-30 09:00:00 UTC] LPTUSDT SELL at ~7.215 | Held 15 candles | Open positions: 3
+2025-08-30 13:00:00,776 [INFO] [2025-08-30 10:00:00 UTC] MAGICUSDT SELL at ~0.2069 | Held 5 candles | Open positions: 2
+2025-08-30 16:30:03,727 [INFO] [2025-08-30 13:30:00 UTC] HIGHUSDT SELL at ~0.5241 | Held 20 candles | Open positions: 1
+2025-08-30 18:30:02,442 [INFO] [2025-08-30 15:30:00 UTC] ACHUSDT LONG BUY at ~0.020284 | Open positions: 2
+2025-08-30 21:30:01,964 [INFO] [2025-08-30 18:30:00 UTC] ACHUSDT SELL at ~0.020043 | Held 6 candles | Open positions: 1
+2025-08-30 22:00:03,686 [INFO] [2025-08-30 19:00:00 UTC] 1000SHIBUSDT SELL at ~0.012318 | Held 15 candles | Open positions: 0
+2025-08-31 04:30:00,684 [INFO] [2025-08-31 01:30:00 UTC] API3USDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-08-31 05:00:00,512 [INFO] [2025-08-31 02:00:00 UTC] API3USDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-08-31 05:30:00,499 [INFO] [2025-08-31 02:30:00 UTC] API3USDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-08-31 06:30:01,677 [INFO] [2025-08-31 03:30:00 UTC] MAGICUSDT LONG BUY at ~0.2068 | Open positions: 4
+2025-08-31 06:30:03,433 [INFO] [2025-08-31 03:30:00 UTC] QNTUSDT LONG BUY at ~106.07 | Open positions: 5
+2025-08-31 08:00:01,481 [INFO] [2025-08-31 05:00:00 UTC] ARBUSDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-08-31 09:00:01,348 [INFO] [2025-08-31 06:00:00 UTC] MAGICUSDT SELL at ~0.2044 | Held 5 candles | Open positions: 5
+2025-08-31 10:27:54,119 [INFO] Stopped by user.
+2025-08-31 10:28:22,161 [INFO] [Combined WS] Connected to 36 streams
+2025-08-31 13:10:19,900 [INFO] Stopped by user.
+2025-08-31 16:53:51,814 [INFO] [Combined WS] Connected to 36 streams
+2025-09-01 11:00:01,690 [INFO] [2025-09-01 08:00:00 UTC] SUIUSDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-09-01 11:00:01,873 [INFO] [2025-09-01 08:00:00 UTC] EGLDUSDT LONG BUY at ~14.411 | Open positions: 8
+2025-09-01 11:00:01,874 [INFO] [2025-09-01 08:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012413 | Open positions: 8
+2025-09-01 11:00:01,875 [INFO] [2025-09-01 08:00:00 UTC] ADAUSDT LONG BUY at ~0.8379 | Open positions: 8
+2025-09-01 11:00:01,875 [INFO] [2025-09-01 08:00:00 UTC] DOGEUSDT LONG BUY at ~0.2179 | Open positions: 8
+2025-09-01 11:00:01,875 [INFO] [2025-09-01 08:00:00 UTC] FETUSDT LONG BUY at ~0.6152 | Open positions: 8
+2025-09-01 11:00:01,876 [INFO] [2025-09-01 08:00:00 UTC] TRBUSDT LONG BUY at ~33.753 | Open positions: 8
+2025-09-01 11:00:01,876 [INFO] [2025-09-01 08:00:00 UTC] LINKUSDT LONG BUY at ~23.589 | Open positions: 8
+2025-09-01 11:15:00,683 [INFO] [2025-09-01 08:15:00 UTC] SUIUSDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-09-01 11:30:01,050 [INFO] [2025-09-01 08:30:00 UTC] INJUSDT LONG BUY at ~12.967 | Open positions: 10
+2025-09-01 12:00:00,277 [INFO] [2025-09-01 09:00:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-09-01 12:00:00,438 [INFO] [2025-09-01 09:00:00 UTC] LQTYUSDT skipped (max positions reached).
+2025-09-01 13:00:00,986 [INFO] [2025-09-01 10:00:00 UTC] INJUSDT SELL at ~12.959 | Held 3 candles | Open positions: 9
+2025-09-01 13:00:02,113 [INFO] [2025-09-01 10:00:00 UTC] DOGEUSDT SELL at ~0.21794 | Held 2 candles | Open positions: 8
+2025-09-01 13:15:00,585 [INFO] [2025-09-01 10:15:00 UTC] SUIUSDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-09-01 13:30:00,738 [INFO] [2025-09-01 10:30:00 UTC] ADAUSDT SELL at ~0.832 | Held 5 candles | Open positions: 8
+2025-09-01 13:30:01,020 [INFO] [2025-09-01 10:30:00 UTC] FETUSDT SELL at ~0.6099 | Held 5 candles | Open positions: 7
+2025-09-01 13:30:01,070 [INFO] [2025-09-01 10:30:00 UTC] TRBUSDT SELL at ~33.468 | Held 5 candles | Open positions: 6
+2025-09-01 14:00:01,974 [INFO] [2025-09-01 11:00:00 UTC] 1000SHIBUSDT SELL at ~0.012307 | Held 3 candles | Open positions: 5
+2025-09-01 16:43:09,513 [INFO] [Combined WS] Connected to 36 streams
+2025-09-02 06:30:01,465 [INFO] [2025-09-02 03:30:00 UTC] HFTUSDT LONG BUY at ~0.08074 | Open positions: 1
+2025-09-02 12:22:20,159 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-02 12:22:21,682 [INFO] [Combined WS] Connected to 36 streams
+2025-09-02 14:00:00,565 [INFO] [2025-09-02 11:00:00 UTC] HFTUSDT SELL at ~0.08405 | Held 15 candles | Open positions: 0
+2025-09-02 15:00:01,840 [INFO] [2025-09-02 12:00:00 UTC] RSRUSDT LONG BUY at ~0.007635 | Open positions: 1
+2025-09-02 16:30:01,171 [INFO] [2025-09-02 13:30:00 UTC] INJUSDT LONG BUY at ~12.567 | Open positions: 2
+2025-09-02 16:45:00,832 [INFO] [2025-09-02 13:45:00 UTC] SUIUSDT LONG BUY at ~3.2643 | Open positions: 3
+2025-09-02 17:00:00,583 [INFO] [2025-09-02 14:00:00 UTC] AAVEUSDT skipped (max positions reached).
+2025-09-02 17:00:00,587 [INFO] [2025-09-02 14:00:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-09-02 17:00:00,590 [INFO] [2025-09-02 14:00:00 UTC] ARBUSDT skipped (max positions reached).
+2025-09-02 17:00:00,594 [INFO] [2025-09-02 14:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-09-02 17:00:00,597 [INFO] [2025-09-02 14:00:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-09-02 17:00:00,604 [INFO] [2025-09-02 14:00:00 UTC] ETHUSDT skipped (max positions reached).
+2025-09-02 17:00:00,616 [INFO] [2025-09-02 14:00:00 UTC] FETUSDT skipped (max positions reached).
+2025-09-02 17:00:00,620 [INFO] [2025-09-02 14:00:00 UTC] 1000LUNCUSDT skipped (max positions reached).
+2025-09-02 17:00:00,622 [INFO] [2025-09-02 14:00:00 UTC] STXUSDT skipped (max positions reached).
+2025-09-02 17:00:00,640 [INFO] [2025-09-02 14:00:00 UTC] HIGHUSDT skipped (max positions reached).
+2025-09-02 17:00:00,644 [INFO] [2025-09-02 14:00:00 UTC] PHBUSDT skipped (max positions reached).
+2025-09-02 17:00:00,656 [INFO] [2025-09-02 14:00:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-09-02 17:00:00,732 [INFO] [2025-09-02 14:00:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-09-02 17:00:00,733 [INFO] [2025-09-02 14:00:00 UTC] TRBUSDT LONG BUY at ~32.991 | Open positions: 10
+2025-09-02 17:00:00,746 [INFO] [2025-09-02 14:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012396 | Open positions: 10
+2025-09-02 17:00:00,767 [INFO] [2025-09-02 14:00:00 UTC] SOLUSDT LONG BUY at ~203.99 | Open positions: 10
+2025-09-02 17:00:00,791 [INFO] [2025-09-02 14:00:00 UTC] ADAUSDT LONG BUY at ~0.8235 | Open positions: 10
+2025-09-02 17:00:00,793 [INFO] [2025-09-02 14:00:00 UTC] LQTYUSDT LONG BUY at ~0.7758 | Open positions: 10
+2025-09-02 17:00:00,812 [INFO] [2025-09-02 14:00:00 UTC] HFTUSDT LONG BUY at ~0.08574 | Open positions: 10
+2025-09-02 17:00:00,847 [INFO] [2025-09-02 14:00:00 UTC] GMTUSDT LONG BUY at ~0.04115 | Open positions: 10
+2025-09-02 17:30:00,159 [INFO] [2025-09-02 14:30:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-09-02 17:30:00,326 [INFO] [2025-09-02 14:30:00 UTC] STXUSDT skipped (max positions reached).
+2025-09-02 17:30:00,510 [INFO] [2025-09-02 14:30:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-09-02 17:30:01,928 [INFO] [2025-09-02 14:30:00 UTC] RSRUSDT SELL at ~0.007618 | Held 5 candles | Open positions: 9
+2025-09-02 18:30:00,618 [INFO] [2025-09-02 15:30:00 UTC] SUIUSDT SELL at ~3.2615 | Held 7 candles | Open positions: 8
+2025-09-02 18:30:00,946 [INFO] [2025-09-02 15:30:00 UTC] ADAUSDT SELL at ~0.8189 | Held 3 candles | Open positions: 7
+2025-09-02 19:00:01,341 [INFO] [2025-09-02 16:00:00 UTC] TRBUSDT SELL at ~32.389 | Held 4 candles | Open positions: 6
+2025-09-02 19:30:02,484 [INFO] [2025-09-02 16:30:00 UTC] GMTUSDT SELL at ~0.04046 | Held 5 candles | Open positions: 5
+2025-09-02 22:30:01,328 [INFO] [2025-09-02 20:00:00 UTC] INJUSDT SELL at ~12.754 | Held 13 candles | Open positions: 4
+2025-09-03 00:03:05,800 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-03 00:03:07,176 [INFO] [Combined WS] Connected to 36 streams
+2025-09-03 00:05:43,763 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-03 00:05:53,896 [INFO] [Combined WS] Connection error: . Reconnecting in 0.2s...
+2025-09-03 00:05:55,347 [INFO] [Combined WS] Connected to 36 streams
+2025-09-03 00:30:00,612 [INFO] [2025-09-02 21:30:00 UTC] HFTUSDT SELL at ~0.08861 | Held 15 candles | Open positions: 3
+2025-09-03 01:00:01,236 [INFO] [2025-09-02 22:00:00 UTC] HFTUSDT LONG BUY at ~0.08999 | Open positions: 4
+2025-09-03 03:30:01,018 [INFO] [2025-09-03 00:30:00 UTC] STXUSDT LONG BUY at ~0.6359 | Open positions: 5
+2025-09-03 04:30:00,950 [INFO] [2025-09-03 01:30:00 UTC] LQTYUSDT SELL at ~0.7724 | Held 23 candles | Open positions: 4
+2025-09-03 06:00:00,676 [INFO] [2025-09-03 03:00:00 UTC] LQTYUSDT LONG BUY at ~0.805 | Open positions: 6
+2025-09-03 06:00:00,678 [INFO] [2025-09-03 03:00:00 UTC] LQTYUSDT LONG BUY at ~0.805 | Open positions: 6
+2025-09-03 06:30:01,482 [INFO] [2025-09-03 03:30:00 UTC] STXUSDT SELL at ~0.6314 | Held 6 candles | Open positions: 5
+2025-09-03 08:00:00,820 [INFO] [2025-09-03 05:00:00 UTC] 1000SHIBUSDT SELL at ~0.012396 | Held 15 candles | Open positions: 4
+2025-09-03 08:30:00,819 [INFO] [2025-09-03 05:30:00 UTC] HFTUSDT SELL at ~0.09247 | Held 15 candles | Open positions: 3
+2025-09-03 11:30:00,511 [INFO] [2025-09-03 08:30:00 UTC] HFTUSDT LONG BUY at ~0.0957 | Open positions: 5
+2025-09-03 11:30:00,799 [INFO] [2025-09-03 08:30:00 UTC] ZECUSDT LONG BUY at ~42.31 | Open positions: 5
+2025-09-03 13:29:13,540 [INFO] [Combined WS] Connected to 36 streams
+2025-09-03 13:30:00,764 [INFO] [2025-09-03 10:30:00 UTC] LQTYUSDT LONG BUY at ~0.8191 | Open positions: 1
+2025-09-03 14:00:03,103 [INFO] [2025-09-03 11:00:00 UTC] LQTYUSDT LONG BUY at ~0.8171 | Open positions: 2
+2025-09-03 16:30:01,071 [INFO] [2025-09-03 13:30:00 UTC] ACHUSDT LONG BUY at ~0.019566 | Open positions: 3
+2025-09-03 17:00:00,756 [INFO] [2025-09-03 14:00:00 UTC] INJUSDT LONG BUY at ~13.329 | Open positions: 4
+2025-09-03 17:45:00,491 [INFO] [2025-09-03 14:45:00 UTC] LPTUSDT LONG BUY at ~6.866 | Open positions: 5
+2025-09-03 18:00:00,728 [INFO] [2025-09-03 15:00:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0099368 | Open positions: 6
+2025-09-03 18:30:01,026 [INFO] [2025-09-03 15:30:00 UTC] ROSEUSDT LONG BUY at ~0.02461 | Open positions: 7
+2025-09-03 21:30:01,225 [INFO] [2025-09-03 18:30:00 UTC] LPTUSDT SELL at ~6.884 | Held 15 candles | Open positions: 6
+2025-09-03 21:45:00,584 [INFO] [2025-09-03 18:45:00 UTC] LPTUSDT LONG BUY at ~7.073 | Open positions: 7
+2025-09-04 00:00:03,514 [INFO] [2025-09-03 21:00:00 UTC] ACHUSDT SELL at ~0.020018 | Held 15 candles | Open positions: 6
+2025-09-04 00:30:00,905 [INFO] [2025-09-03 21:30:00 UTC] INJUSDT SELL at ~13.337 | Held 15 candles | Open positions: 5
+2025-09-04 01:30:01,424 [INFO] [2025-09-03 22:30:00 UTC] LPTUSDT SELL at ~7.118 | Held 15 candles | Open positions: 4
+2025-09-04 02:00:03,581 [INFO] [2025-09-03 23:00:00 UTC] LQTYUSDT SELL at ~0.825 | Held 25 candles | Open positions: 3
+2025-09-04 05:00:01,485 [INFO] [2025-09-04 02:00:00 UTC] LQTYUSDT SELL at ~0.8192 | Held 15 candles | Open positions: 2
+2025-09-04 05:30:00,601 [INFO] [2025-09-04 02:30:00 UTC] STXUSDT LONG BUY at ~0.6423 | Open positions: 3
+2025-09-04 06:30:01,211 [INFO] [2025-09-04 03:30:00 UTC] 1000PEPEUSDT SELL at ~0.0097776 | Held 25 candles | Open positions: 2
+2025-09-04 06:30:01,874 [INFO] [2025-09-04 03:30:00 UTC] STXUSDT SELL at ~0.6373 | Held 2 candles | Open positions: 1
+2025-09-04 07:00:03,537 [INFO] [2025-09-04 04:00:00 UTC] ROSEUSDT SELL at ~0.02411 | Held 25 candles | Open positions: 0
+2025-09-04 16:49:11,117 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-04 16:49:12,610 [INFO] [Combined WS] Connected to 36 streams
+2025-09-04 23:30:03,642 [INFO] [2025-09-04 20:30:00 UTC] QNTUSDT LONG BUY at ~100.84 | Open positions: 1
+2025-09-05 05:21:00,178 [INFO] [Combined WS] Connection error: no close frame received or sent. Reconnecting in 0.1s...
+2025-09-05 05:21:01,523 [INFO] [Combined WS] Connected to 36 streams
+2025-09-05 06:30:01,901 [INFO] [2025-09-05 03:30:00 UTC] QNTUSDT SELL at ~100.24 | Held 14 candles | Open positions: 0
+2025-09-05 07:16:00,165 [INFO] [Combined WS] Connection error: no close frame received or sent. Reconnecting in 0.1s...
+2025-09-05 07:16:01,482 [INFO] [Combined WS] Connected to 36 streams
+2025-09-05 11:00:01,317 [INFO] [2025-09-05 08:00:00 UTC] LINKUSDT LONG BUY at ~23.061 | Open positions: 1
+2025-09-05 11:00:01,671 [INFO] [2025-09-05 08:00:00 UTC] ACHUSDT LONG BUY at ~0.019581 | Open positions: 2
+2025-09-05 12:00:00,582 [INFO] [2025-09-05 09:00:00 UTC] HFTUSDT LONG BUY at ~0.10156 | Open positions: 3
+2025-09-05 12:15:00,560 [INFO] [2025-09-05 09:15:00 UTC] LPTUSDT LONG BUY at ~6.922 | Open positions: 4
+2025-09-05 15:00:01,818 [INFO] [2025-09-05 12:00:00 UTC] PHBUSDT LONG BUY at ~0.5565 | Open positions: 5
+2025-09-05 15:45:00,599 [INFO] [2025-09-05 12:45:00 UTC] SUIUSDT LONG BUY at ~3.4119 | Open positions: 6
+2025-09-05 16:00:00,262 [INFO] [2025-09-05 13:00:00 UTC] ARBUSDT skipped (max positions reached).
+2025-09-05 16:00:00,266 [INFO] [2025-09-05 13:00:00 UTC] API3USDT skipped (max positions reached).
+2025-09-05 16:00:00,357 [INFO] [2025-09-05 13:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-09-05 16:00:00,360 [INFO] [2025-09-05 13:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-09-05 16:00:00,377 [INFO] [2025-09-05 13:00:00 UTC] TRBUSDT skipped (max positions reached).
+2025-09-05 16:00:00,418 [INFO] [2025-09-05 13:00:00 UTC] 1000PEPEUSDT skipped (max positions reached).
+2025-09-05 16:00:00,428 [INFO] [2025-09-05 13:00:00 UTC] AAVEUSDT skipped (max positions reached).
+2025-09-05 16:00:00,444 [INFO] [2025-09-05 13:00:00 UTC] ADAUSDT skipped (max positions reached).
+2025-09-05 16:00:00,456 [INFO] [2025-09-05 13:00:00 UTC] STXUSDT skipped (max positions reached).
+2025-09-05 16:00:00,550 [INFO] [2025-09-05 13:00:00 UTC] SOLUSDT skipped (max positions reached).
+2025-09-05 16:00:00,586 [INFO] [2025-09-05 13:00:00 UTC] INJUSDT skipped (max positions reached).
+2025-09-05 16:00:00,589 [INFO] [2025-09-05 13:00:00 UTC] HIGHUSDT skipped (max positions reached).
+2025-09-05 16:00:00,604 [INFO] [2025-09-05 13:00:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-09-05 16:00:00,604 [INFO] [2025-09-05 13:00:00 UTC] GMTUSDT LONG BUY at ~0.04181 | Open positions: 10
+2025-09-05 16:00:00,605 [INFO] [2025-09-05 13:00:00 UTC] QNTUSDT LONG BUY at ~102.15 | Open positions: 10
+2025-09-05 16:00:00,605 [INFO] [2025-09-05 13:00:00 UTC] ETHUSDT LONG BUY at ~4469.39 | Open positions: 10
+2025-09-05 16:00:00,611 [INFO] [2025-09-05 13:00:00 UTC] ROSEUSDT LONG BUY at ~0.02459 | Open positions: 10
+2025-09-05 16:00:00,734 [INFO] [2025-09-05 13:00:00 UTC] BELUSDT skipped (max positions reached).
+2025-09-05 16:00:00,829 [INFO] [2025-09-05 13:00:00 UTC] 1000SHIBUSDT skipped (max positions reached).
+2025-09-05 16:00:00,910 [INFO] [2025-09-05 13:00:00 UTC] FETUSDT skipped (max positions reached).
+2025-09-05 16:00:00,922 [INFO] [2025-09-05 13:00:00 UTC] GMXUSDT skipped (max positions reached).
+2025-09-05 16:00:00,969 [INFO] [2025-09-05 13:00:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-09-05 16:00:01,746 [INFO] [2025-09-05 13:00:00 UTC] MAGICUSDT skipped (max positions reached).
+2025-09-05 16:00:01,774 [INFO] [2025-09-05 13:00:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-09-05 16:00:01,975 [INFO] [2025-09-05 13:00:00 UTC] LPTUSDT SELL at ~6.971 | Held 15 candles | Open positions: 9
+2025-09-05 16:00:03,168 [INFO] [2025-09-05 13:00:00 UTC] 1000LUNCUSDT skipped (max positions reached).
+2025-09-05 16:00:03,401 [INFO] [2025-09-05 13:00:00 UTC] RSRUSDT LONG BUY at ~0.007676 | Open positions: 10
+2025-09-05 16:30:00,896 [INFO] [2025-09-05 13:30:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-09-05 17:30:00,728 [INFO] [2025-09-05 14:30:00 UTC] SUIUSDT SELL at ~3.3546 | Held 7 candles | Open positions: 9
+2025-09-05 17:30:00,825 [INFO] [2025-09-05 14:30:00 UTC] LINKUSDT SELL at ~22.388 | Held 13 candles | Open positions: 8
+2025-09-05 17:30:00,857 [INFO] [2025-09-05 14:30:00 UTC] ACHUSDT SELL at ~0.019206 | Held 13 candles | Open positions: 7
+2025-09-05 18:00:00,548 [INFO] [2025-09-05 15:00:00 UTC] ETHUSDT SELL at ~4271.0 | Held 4 candles | Open positions: 6
+2025-09-05 18:00:02,268 [INFO] [2025-09-05 15:00:00 UTC] PHBUSDT SELL at ~0.5355 | Held 6 candles | Open positions: 5
+2025-09-05 18:13:34,117 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-05 18:13:35,470 [INFO] [Combined WS] Connected to 36 streams
+2025-09-05 18:30:02,686 [INFO] [2025-09-05 16:00:00 UTC] RSRUSDT SELL at ~0.007431 | Held 6 candles | Open positions: 4
+2025-09-05 18:30:03,370 [INFO] [2025-09-05 15:30:00 UTC] GMTUSDT SELL at ~0.04103 | Held 5 candles | Open positions: 3
+2025-09-05 19:00:01,402 [INFO] [2025-09-05 16:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012293 | Open positions: 4
+2025-09-05 19:30:01,154 [INFO] [2025-09-05 16:30:00 UTC] HFTUSDT SELL at ~0.10049 | Held 15 candles | Open positions: 3
+2025-09-05 20:30:01,243 [INFO] [2025-09-05 17:30:00 UTC] QNTUSDT SELL at ~101.29 | Held 9 candles | Open positions: 2
+2025-09-06 03:30:03,608 [INFO] [2025-09-06 00:30:00 UTC] ROSEUSDT SELL at ~0.02415 | Held 23 candles | Open positions: 1
+2025-09-06 06:00:01,395 [INFO] [2025-09-06 03:00:00 UTC] NMRUSDT LONG BUY at ~13.878 | Open positions: 2
+2025-09-06 08:30:00,616 [INFO] [2025-09-06 05:30:00 UTC] NMRUSDT SELL at ~15.067 | Held 5 candles | Open positions: 1
+2025-09-06 09:00:02,510 [INFO] [2025-09-06 06:00:00 UTC] 1000SHIBUSDT SELL at ~0.012299 | Held 14 candles | Open positions: 0
+2025-09-06 09:15:00,509 [INFO] [2025-09-06 06:15:00 UTC] LPTUSDT LONG BUY at ~6.992 | Open positions: 1
+2025-09-06 11:30:00,634 [INFO] [2025-09-06 08:30:00 UTC] API3USDT LONG BUY at ~1.0212 | Open positions: 2
+2025-09-06 13:00:00,921 [INFO] [2025-09-06 10:00:00 UTC] LPTUSDT SELL at ~7.025 | Held 15 candles | Open positions: 1
+2025-09-06 13:30:01,265 [INFO] [2025-09-06 10:30:00 UTC] HIGHUSDT LONG BUY at ~0.5061 | Open positions: 2
+2025-09-06 14:00:00,502 [INFO] [2025-09-06 11:00:00 UTC] API3USDT SELL at ~0.98 | Held 5 candles | Open positions: 1
+2025-09-06 15:00:01,651 [INFO] [2025-09-06 12:00:00 UTC] HIGHUSDT SELL at ~0.507 | Held 3 candles | Open positions: 0
+2025-09-06 16:15:01,235 [INFO] [2025-09-06 13:15:00 UTC] LPTUSDT LONG BUY at ~7.117 | Open positions: 1
+2025-09-06 18:30:00,560 [INFO] [2025-09-06 15:30:00 UTC] NMRUSDT LONG BUY at ~20.28 | Open positions: 3
+2025-09-06 18:30:00,746 [INFO] [2025-09-06 15:30:00 UTC] TRBUSDT LONG BUY at ~34.887 | Open positions: 3
+2025-09-06 19:30:01,377 [INFO] [2025-09-06 16:30:00 UTC] API3USDT LONG BUY at ~1.0111 | Open positions: 4
+2025-09-06 20:00:00,904 [INFO] [2025-09-06 17:00:00 UTC] LPTUSDT SELL at ~7.085 | Held 15 candles | Open positions: 3
+2025-09-06 20:30:00,563 [INFO] [2025-09-06 17:30:00 UTC] TRBUSDT SELL at ~33.923 | Held 4 candles | Open positions: 2
+2025-09-06 21:00:00,590 [INFO] [2025-09-06 18:00:00 UTC] NMRUSDT SELL at ~19.663 | Held 5 candles | Open positions: 1
+2025-09-06 22:00:00,592 [INFO] [2025-09-06 19:00:00 UTC] API3USDT SELL at ~1.0763 | Held 5 candles | Open positions: 1
+2025-09-06 22:00:00,834 [INFO] [2025-09-06 19:00:00 UTC] HIGHUSDT LONG BUY at ~0.5115 | Open positions: 1
+2025-09-06 22:00:03,718 [INFO] [2025-09-06 19:00:00 UTC] ZECUSDT LONG BUY at ~43.19 | Open positions: 2
+2025-09-06 23:00:01,785 [INFO] [2025-09-06 20:00:00 UTC] HIGHUSDT SELL at ~0.5042 | Held 2 candles | Open positions: 1
+2025-09-07 00:00:00,660 [INFO] [2025-09-06 21:00:00 UTC] API3USDT LONG BUY at ~1.0494 | Open positions: 2
+2025-09-07 00:00:01,994 [INFO] [2025-09-06 21:00:00 UTC] GMXUSDT LONG BUY at ~14.226 | Open positions: 3
+2025-09-07 00:30:01,455 [INFO] [2025-09-06 21:30:00 UTC] ZECUSDT SELL at ~44.59 | Held 5 candles | Open positions: 2
+2025-09-07 01:00:00,826 [INFO] [2025-09-06 22:00:00 UTC] ZECUSDT LONG BUY at ~45.45 | Open positions: 3
+2025-09-07 02:30:00,966 [INFO] [2025-09-06 23:30:00 UTC] API3USDT SELL at ~1.0592 | Held 5 candles | Open positions: 2
+2025-09-07 03:30:00,763 [INFO] [2025-09-07 00:30:00 UTC] ZECUSDT SELL at ~46.29 | Held 5 candles | Open positions: 2
+2025-09-07 03:30:00,782 [INFO] [2025-09-07 00:30:00 UTC] API3USDT LONG BUY at ~1.0696 | Open positions: 2
+2025-09-07 04:30:01,471 [INFO] [2025-09-07 01:30:00 UTC] ZECUSDT LONG BUY at ~46.88 | Open positions: 3
+2025-09-07 06:00:00,567 [INFO] [2025-09-07 03:00:00 UTC] API3USDT SELL at ~1.0768 | Held 5 candles | Open positions: 2
+2025-09-07 07:00:02,184 [INFO] [2025-09-07 04:00:00 UTC] ZECUSDT SELL at ~46.68 | Held 5 candles | Open positions: 1
+2025-09-07 09:00:02,191 [INFO] [2025-09-07 06:00:00 UTC] INJUSDT LONG BUY at ~13.201 | Open positions: 2
+2025-09-07 11:30:02,097 [INFO] [2025-09-07 08:30:00 UTC] RUNEUSDT LONG BUY at ~1.206 | Open positions: 3
+2025-09-07 16:30:00,664 [INFO] [2025-09-07 13:30:00 UTC] FETUSDT LONG BUY at ~0.6313 | Open positions: 5
+2025-09-07 16:30:00,848 [INFO] [2025-09-07 13:30:00 UTC] ZECUSDT LONG BUY at ~47.9 | Open positions: 5
+2025-09-07 16:30:03,549 [INFO] [2025-09-07 13:30:00 UTC] INJUSDT SELL at ~13.06 | Held 15 candles | Open positions: 4
+2025-09-07 17:30:00,537 [INFO] [2025-09-07 14:30:00 UTC] DOGEUSDT LONG BUY at ~0.22168 | Open positions: 5
+2025-09-07 17:30:03,475 [INFO] [2025-09-07 14:30:00 UTC] GMXUSDT SELL at ~14.315 | Held 35 candles | Open positions: 4
+2025-09-07 18:00:00,599 [INFO] [2025-09-07 15:00:00 UTC] DOGEUSDT LONG BUY at ~0.22262 | Open positions: 5
+2025-09-07 19:00:01,678 [INFO] [2025-09-07 16:00:00 UTC] HIGHUSDT LONG BUY at ~0.5107 | Open positions: 6
+2025-09-07 19:00:01,935 [INFO] [2025-09-07 16:00:00 UTC] ZECUSDT SELL at ~47.6 | Held 5 candles | Open positions: 5
+2025-09-07 19:00:02,255 [INFO] [2025-09-07 16:00:00 UTC] FETUSDT SELL at ~0.6308 | Held 5 candles | Open positions: 4
+2025-09-07 19:30:01,275 [INFO] [2025-09-07 16:30:00 UTC] MAGICUSDT LONG BUY at ~0.203 | Open positions: 5
+2025-09-07 20:00:00,616 [INFO] [2025-09-07 17:00:00 UTC] MAGICUSDT SELL at ~0.2008 | Held 1 candles | Open positions: 4
+2025-09-07 20:30:03,962 [INFO] [2025-09-07 17:30:00 UTC] HIGHUSDT SELL at ~0.5061 | Held 3 candles | Open positions: 3
+2025-09-07 23:30:00,749 [INFO] [2025-09-07 20:30:00 UTC] RUNEUSDT SELL at ~1.204 | Held 24 candles | Open positions: 2
+2025-09-08 06:00:00,975 [INFO] [2025-09-08 03:00:00 UTC] ZECUSDT LONG BUY at ~49.95 | Open positions: 4
+2025-09-08 06:00:01,558 [INFO] [2025-09-08 03:00:00 UTC] STXUSDT LONG BUY at ~0.6382 | Open positions: 4
+2025-09-08 06:30:00,769 [INFO] [2025-09-08 03:30:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0100231 | Open positions: 5
+2025-09-08 06:30:01,655 [INFO] [2025-09-08 03:30:00 UTC] RUNEUSDT LONG BUY at ~1.234 | Open positions: 6
+2025-09-08 06:30:03,226 [INFO] [2025-09-08 03:30:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.09354 | Open positions: 7
+2025-09-08 08:30:01,002 [INFO] [2025-09-08 05:30:00 UTC] ZECUSDT SELL at ~49.19 | Held 5 candles | Open positions: 6
+2025-09-08 08:30:03,451 [INFO] [2025-09-08 05:30:00 UTC] PHBUSDT LONG BUY at ~0.5555 | Open positions: 7
+2025-09-08 09:00:01,381 [INFO] [2025-09-08 06:00:00 UTC] STXUSDT SELL at ~0.636 | Held 6 candles | Open positions: 7
+2025-09-08 09:00:01,617 [INFO] [2025-09-08 06:00:00 UTC] ROSEUSDT LONG BUY at ~0.02468 | Open positions: 7
+2025-09-08 10:54:46,700 [INFO] Stopped by user.
+2025-09-22 23:45:48,190 [INFO] [Combined WS] Connected to 36 streams
+2025-09-23 03:30:01,183 [INFO] [2025-09-23 00:30:00 UTC] EGLDUSDT LONG BUY at ~13.118 | Open positions: 1
+2025-09-23 05:00:02,643 [INFO] [2025-09-23 02:00:00 UTC] EGLDUSDT SELL at ~12.891 | Held 3 candles | Open positions: 0
+2025-09-23 09:10:56,555 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-23 09:11:05,426 [INFO] [Combined WS] Connected to 36 streams
+2025-09-23 09:30:00,636 [INFO] [2025-09-23 06:30:00 UTC] NMRUSDT LONG BUY at ~16.158 | Open positions: 1
+2025-09-23 10:00:03,692 [INFO] [2025-09-23 07:00:00 UTC] 1000LUNCUSDT LONG BUY at ~0.05582 | Open positions: 2
+2025-09-23 11:15:01,141 [INFO] [2025-09-23 08:15:00 UTC] LPTUSDT LONG BUY at ~6.329 | Open positions: 3
+2025-09-23 12:00:00,702 [INFO] [2025-09-23 09:00:00 UTC] NMRUSDT SELL at ~16.539 | Held 5 candles | Open positions: 2
+2025-09-23 15:00:01,075 [INFO] [2025-09-23 12:00:00 UTC] LPTUSDT SELL at ~6.363 | Held 15 candles | Open positions: 1
+2025-09-23 17:10:23,450 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-23 17:10:24,822 [INFO] [Combined WS] Connected to 36 streams
+2025-09-23 17:30:00,988 [INFO] [2025-09-23 14:30:00 UTC] GMXUSDT LONG BUY at ~15.549 | Open positions: 2
+2025-09-23 18:28:48,113 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-23 18:28:52,843 [INFO] [Combined WS] Connected to 36 streams
+2025-09-23 18:30:00,587 [INFO] [2025-09-23 15:30:00 UTC] ZECUSDT LONG BUY at ~52.72 | Open positions: 3
+2025-09-23 21:00:03,100 [INFO] [2025-09-23 18:00:00 UTC] ZECUSDT SELL at ~53.47 | Held 5 candles | Open positions: 2
+2025-09-23 22:00:03,724 [INFO] [2025-09-23 19:00:00 UTC] 1000LUNCUSDT SELL at ~0.05508 | Held 12 candles | Open positions: 1
+2025-09-24 02:30:01,001 [INFO] [2025-09-23 23:30:00 UTC] ZECUSDT LONG BUY at ~54.84 | Open positions: 2
+2025-09-24 04:00:03,582 [INFO] [2025-09-24 01:00:00 UTC] 1000LUNCUSDT LONG BUY at ~0.05605 | Open positions: 3
+2025-09-24 05:00:00,658 [INFO] [2025-09-24 02:00:00 UTC] ZECUSDT SELL at ~54.81 | Held 5 candles | Open positions: 2
+2025-09-24 09:00:01,929 [INFO] [2025-09-24 06:00:00 UTC] QNTUSDT LONG BUY at ~97.88 | Open positions: 3
+2025-09-24 10:00:00,853 [INFO] [2025-09-24 07:00:00 UTC] LINKUSDT LONG BUY at ~21.738 | Open positions: 4
+2025-09-24 11:00:01,517 [INFO] [2025-09-24 08:00:00 UTC] GMXUSDT SELL at ~17.234 | Held 35 candles | Open positions: 3
+2025-09-24 11:30:00,582 [INFO] [2025-09-24 08:30:00 UTC] LINKUSDT SELL at ~21.628 | Held 3 candles | Open positions: 2
+2025-09-24 14:30:01,056 [INFO] [2025-09-24 11:30:00 UTC] PHBUSDT LONG BUY at ~0.5085 | Open positions: 3
+2025-09-24 16:00:01,048 [INFO] [2025-09-24 13:00:00 UTC] GMXUSDT LONG BUY at ~17.746 | Open positions: 4
+2025-09-24 18:00:00,656 [INFO] [2025-09-24 15:00:00 UTC] DOGEUSDT LONG BUY at ~0.24864 | Open positions: 5
+2025-09-24 18:30:01,306 [INFO] [2025-09-24 15:30:00 UTC] INJUSDT LONG BUY at ~12.572 | Open positions: 6
+2025-09-24 19:00:02,515 [INFO] [2025-09-24 16:00:00 UTC] 1000LUNCUSDT SELL at ~0.05564 | Held 15 candles | Open positions: 5
+2025-09-24 20:00:01,073 [INFO] [2025-09-24 17:00:00 UTC] ZECUSDT LONG BUY at ~58.47 | Open positions: 6
+2025-09-24 21:51:13,467 [INFO] You are NOT in hedge mode. Please enable it.
+2025-09-24 22:00:03,559 [INFO] [2025-09-24 19:00:00 UTC] PHBUSDT SELL at ~0.5156 | Held 15 candles | Open positions: 5
+2025-09-24 22:30:00,579 [INFO] [2025-09-24 19:30:00 UTC] ZECUSDT SELL at ~59.96 | Held 5 candles | Open positions: 4
+2025-09-24 23:00:02,307 [INFO] [2025-09-24 20:00:00 UTC] ZECUSDT LONG BUY at ~60.45 | Open positions: 5
+2025-09-25 01:00:03,965 [INFO] [2025-09-24 22:00:00 UTC] INJUSDT SELL at ~12.379 | Held 13 candles | Open positions: 4
+2025-09-25 01:30:00,978 [INFO] [2025-09-24 22:30:00 UTC] ZECUSDT SELL at ~58.81 | Held 5 candles | Open positions: 3
+2025-09-25 02:00:01,853 [INFO] [2025-09-24 23:00:00 UTC] QNTUSDT SELL at ~97.36 | Held 34 candles | Open positions: 2
+2025-09-25 03:30:00,932 [INFO] [2025-09-25 00:30:00 UTC] DOGEUSDT SELL at ~0.23949 | Held 19 candles | Open positions: 1
+2025-09-25 04:00:01,171 [INFO] [2025-09-25 01:00:00 UTC] GMXUSDT SELL at ~17.259 | Held 24 candles | Open positions: 0
+2025-09-25 13:00:01,284 [INFO] [2025-09-25 10:00:00 UTC] ZECUSDT LONG BUY at ~59.85 | Open positions: 1
+2025-09-25 15:30:02,556 [INFO] [2025-09-25 12:30:00 UTC] ZECUSDT SELL at ~58.05 | Held 5 candles | Open positions: 0
+2025-09-25 16:00:02,046 [INFO] [2025-09-25 13:00:00 UTC] STXUSDT LONG BUY at ~0.577 | Open positions: 1
+2025-09-25 19:30:02,334 [INFO] [2025-09-25 16:30:00 UTC] STXUSDT SELL at ~0.5749 | Held 7 candles | Open positions: 0
+2025-09-26 11:30:01,878 [INFO] [2025-09-26 08:30:00 UTC] MAGICUSDT LONG BUY at ~0.1738 | Open positions: 1
+2025-09-26 13:00:02,464 [INFO] [2025-09-26 10:00:00 UTC] QNTUSDT LONG BUY at ~91.7 | Open positions: 2
+2025-09-26 13:30:03,376 [INFO] [2025-09-26 10:30:00 UTC] MAGICUSDT SELL at ~0.1678 | Held 4 candles | Open positions: 1
+2025-09-26 14:30:00,985 [INFO] [2025-09-26 11:30:00 UTC] QNTUSDT SELL at ~88.57 | Held 3 candles | Open positions: 0
+2025-09-26 15:45:00,639 [INFO] [2025-09-26 12:45:00 UTC] LPTUSDT LONG BUY at ~5.995 | Open positions: 2
+2025-09-26 15:45:00,649 [INFO] [2025-09-26 12:45:00 UTC] SUIUSDT LONG BUY at ~3.1493 | Open positions: 2
+2025-09-26 16:00:00,558 [INFO] [2025-09-26 13:00:00 UTC] SOLUSDT LONG BUY at ~196.55 | Open positions: 5
+2025-09-26 16:00:00,623 [INFO] [2025-09-26 13:00:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.08051 | Open positions: 5
+2025-09-26 16:00:01,871 [INFO] [2025-09-26 13:00:00 UTC] ARBUSDT LONG BUY at ~0.4103 | Open positions: 7
+2025-09-26 16:00:02,482 [INFO] [2025-09-26 13:00:00 UTC] RUNEUSDT LONG BUY at ~1.121 | Open positions: 7
+2025-09-26 16:00:02,925 [INFO] [2025-09-26 13:00:00 UTC] MAGICUSDT LONG BUY at ~0.1703 | Open positions: 7
+2025-09-26 16:15:03,436 [INFO] [2025-09-26 13:15:00 UTC] LPTUSDT SELL at ~5.952 | Held 2 candles | Open positions: 6
+2025-09-26 16:30:00,574 [INFO] [2025-09-26 13:30:00 UTC] SOLUSDT SELL at ~194.94 | Held 1 candles | Open positions: 5
+2025-09-26 16:30:00,688 [INFO] [2025-09-26 13:30:00 UTC] ARBUSDT SELL at ~0.408 | Held 1 candles | Open positions: 4
+2025-09-26 16:30:02,093 [INFO] [2025-09-26 13:30:00 UTC] MAGICUSDT SELL at ~0.1693 | Held 1 candles | Open positions: 3
+2025-09-26 17:15:00,631 [INFO] [2025-09-26 14:15:00 UTC] SUIUSDT SELL at ~3.1346 | Held 6 candles | Open positions: 2
+2025-09-26 17:30:01,416 [INFO] [2025-09-26 14:30:00 UTC] RUNEUSDT SELL at ~1.12 | Held 3 candles | Open positions: 1
+2025-09-26 20:30:01,122 [INFO] [2025-09-26 17:30:00 UTC] RUNEUSDT LONG BUY at ~1.146 | Open positions: 2
+2025-09-26 21:30:00,735 [INFO] [2025-09-26 18:30:00 UTC] EGLDUSDT LONG BUY at ~13.066 | Open positions: 3
+2025-09-26 23:00:01,068 [INFO] [2025-09-26 20:00:00 UTC] NMRUSDT LONG BUY at ~16.791 | Open positions: 4
+2025-09-26 23:30:03,579 [INFO] [2025-09-26 20:30:00 UTC] 1000FLOKIUSDT SELL at ~0.08286 | Held 15 candles | Open positions: 3
+2025-09-26 23:44:32,817 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-26 23:44:34,337 [INFO] [Combined WS] Connected to 36 streams
+2025-09-27 00:00:02,239 [INFO] [2025-09-26 21:00:00 UTC] RSRUSDT LONG BUY at ~0.005708 | Open positions: 4
+2025-09-27 01:30:03,098 [INFO] [2025-09-26 22:30:00 UTC] NMRUSDT SELL at ~16.571 | Held 5 candles | Open positions: 3
+2025-09-27 02:30:00,964 [INFO] [2025-09-26 23:30:00 UTC] RSRUSDT SELL at ~0.005729 | Held 5 candles | Open positions: 2
+2025-09-27 05:00:03,705 [INFO] [2025-09-27 02:00:00 UTC] EGLDUSDT SELL at ~13.042 | Held 15 candles | Open positions: 1
+2025-09-27 06:30:01,039 [INFO] [2025-09-27 03:30:00 UTC] HFTUSDT LONG BUY at ~0.07732 | Open positions: 2
+2025-09-27 11:30:00,964 [INFO] [2025-09-27 08:30:00 UTC] ACHUSDT LONG BUY at ~0.017897 | Open positions: 3
+2025-09-27 12:30:03,661 [INFO] [2025-09-27 09:30:00 UTC] ACHUSDT SELL at ~0.017836 | Held 2 candles | Open positions: 2
+2025-09-27 13:00:03,303 [INFO] [2025-09-27 10:00:00 UTC] GMXUSDT LONG BUY at ~16.744 | Open positions: 3
+2025-09-27 13:07:15,453 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-27 13:07:16,868 [INFO] [Combined WS] Connected to 36 streams
+2025-09-27 14:00:03,815 [INFO] [2025-09-27 11:00:00 UTC] HFTUSDT SELL at ~0.0758 | Held 15 candles | Open positions: 2
+2025-09-27 15:00:01,513 [INFO] [2025-09-27 12:00:00 UTC] RUNEUSDT SELL at ~1.13 | Held 37 candles | Open positions: 1
+2025-09-28 03:00:03,704 [INFO] [2025-09-28 00:00:00 UTC] GMXUSDT SELL at ~17.044 | Held 28 candles | Open positions: 0
+2025-09-28 08:00:02,842 [INFO] [2025-09-28 05:00:00 UTC] NMRUSDT LONG BUY at ~16.547 | Open positions: 1
+2025-09-28 10:30:01,010 [INFO] [2025-09-28 07:30:00 UTC] NMRUSDT SELL at ~16.438 | Held 5 candles | Open positions: 0
+2025-09-28 16:30:01,072 [INFO] [2025-09-28 13:30:00 UTC] MAGICUSDT LONG BUY at ~0.1711 | Open positions: 1
+2025-09-28 17:00:00,714 [INFO] [2025-09-28 14:00:00 UTC] LQTYUSDT LONG BUY at ~0.7205 | Open positions: 3
+2025-09-28 17:00:00,715 [INFO] [2025-09-28 14:00:00 UTC] LQTYUSDT LONG BUY at ~0.7205 | Open positions: 3
+2025-09-28 19:00:02,141 [INFO] [2025-09-28 16:00:00 UTC] MAGICUSDT SELL at ~0.1725 | Held 5 candles | Open positions: 2
+2025-09-28 19:30:00,590 [INFO] [2025-09-28 16:30:00 UTC] LINKUSDT LONG BUY at ~21.111 | Open positions: 3
+2025-09-29 01:30:00,568 [INFO] [2025-09-28 22:30:00 UTC] ETHUSDT LONG BUY at ~4106.18 | Open positions: 5
+2025-09-29 01:30:00,642 [INFO] [2025-09-28 22:30:00 UTC] RUNEUSDT LONG BUY at ~1.16 | Open positions: 6
+2025-09-29 01:30:00,945 [INFO] [2025-09-28 22:30:00 UTC] INJUSDT LONG BUY at ~12.084 | Open positions: 6
+2025-09-29 01:30:02,739 [INFO] [2025-09-28 22:30:00 UTC] ACHUSDT LONG BUY at ~0.018133 | Open positions: 7
+2025-09-29 03:00:02,019 [INFO] [2025-09-29 00:00:00 UTC] LINKUSDT SELL at ~21.668 | Held 15 candles | Open positions: 6
+2025-09-29 03:30:00,837 [INFO] [2025-09-29 00:30:00 UTC] ZECUSDT LONG BUY at ~63.57 | Open positions: 7
+2025-09-29 05:30:03,179 [INFO] [2025-09-29 02:30:00 UTC] LQTYUSDT SELL at ~0.7302 | Held 25 candles | Open positions: 6
+2025-09-29 06:00:00,930 [INFO] [2025-09-29 03:00:00 UTC] ZECUSDT SELL at ~65.66 | Held 5 candles | Open positions: 5
+2025-09-29 08:00:03,646 [INFO] [2025-09-29 05:00:00 UTC] LQTYUSDT SELL at ~0.7172 | Held 15 candles | Open positions: 4
+2025-09-29 09:00:00,544 [INFO] [2025-09-29 06:00:00 UTC] ETHUSDT SELL at ~4112.4 | Held 15 candles | Open positions: 3
+2025-09-29 09:00:02,923 [INFO] [2025-09-29 06:00:00 UTC] INJUSDT SELL at ~11.997 | Held 15 candles | Open positions: 2
+2025-09-29 09:00:03,576 [INFO] [2025-09-29 06:00:00 UTC] ACHUSDT SELL at ~0.01807 | Held 15 candles | Open positions: 1
+2025-09-29 11:00:01,741 [INFO] [2025-09-29 08:00:00 UTC] ZECUSDT LONG BUY at ~66.0 | Open positions: 2
+2025-09-29 13:30:01,216 [INFO] [2025-09-29 10:30:00 UTC] ZECUSDT SELL at ~68.61 | Held 5 candles | Open positions: 1
+2025-09-29 16:00:02,024 [INFO] [2025-09-29 13:00:00 UTC] RUNEUSDT SELL at ~1.133 | Held 29 candles | Open positions: 0
+2025-09-29 17:00:00,564 [INFO] [2025-09-29 14:00:00 UTC] LINKUSDT LONG BUY at ~21.342 | Open positions: 8
+2025-09-29 17:00:00,565 [INFO] [2025-09-29 14:00:00 UTC] LPTUSDT LONG BUY at ~6.129 | Open positions: 8
+2025-09-29 17:00:00,596 [INFO] [2025-09-29 14:00:00 UTC] ETHUSDT LONG BUY at ~4166.99 | Open positions: 8
+2025-09-29 17:00:00,733 [INFO] [2025-09-29 14:00:00 UTC] SOLUSDT LONG BUY at ~208.7 | Open positions: 9
+2025-09-29 17:00:00,733 [INFO] [2025-09-29 14:00:00 UTC] SUIUSDT LONG BUY at ~3.2717 | Open positions: 9
+2025-09-29 17:00:00,739 [INFO] [2025-09-29 14:00:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.08193 | Open positions: 9
+2025-09-29 17:00:00,823 [INFO] [2025-09-29 14:00:00 UTC] ZECUSDT LONG BUY at ~68.1 | Open positions: 9
+2025-09-29 17:00:00,977 [INFO] [2025-09-29 14:00:00 UTC] FETUSDT LONG BUY at ~0.5719 | Open positions: 9
+2025-09-29 17:00:00,999 [INFO] [2025-09-29 14:00:00 UTC] RUNEUSDT LONG BUY at ~1.151 | Open positions: 9
+2025-09-29 17:30:00,582 [INFO] [2025-09-29 14:30:00 UTC] ADAUSDT skipped (max positions reached).
+2025-09-29 17:30:00,761 [INFO] [2025-09-29 14:30:00 UTC] INJUSDT LONG BUY at ~12.098 | Open positions: 10
+2025-09-29 17:30:01,135 [INFO] [2025-09-29 14:30:00 UTC] ACHUSDT skipped (max positions reached).
+2025-09-29 17:30:03,196 [INFO] [2025-09-29 14:30:00 UTC] MAGICUSDT skipped (max positions reached).
+2025-09-29 18:00:00,676 [INFO] [2025-09-29 15:00:00 UTC] 1000LUNCUSDT skipped (max positions reached).
+2025-09-29 18:30:00,514 [INFO] [2025-09-29 15:30:00 UTC] NMRUSDT skipped (max positions reached).
+2025-09-29 18:30:00,833 [INFO] [2025-09-29 15:30:00 UTC] 1000FLOKIUSDT SELL at ~0.08243 | Held 3 candles | Open positions: 9
+2025-09-29 18:30:01,038 [INFO] [2025-09-29 15:30:00 UTC] INJUSDT SELL at ~12.053 | Held 2 candles | Open positions: 8
+2025-09-29 18:45:00,848 [INFO] [2025-09-29 15:45:00 UTC] SUIUSDT SELL at ~3.2859 | Held 7 candles | Open positions: 7
+2025-09-29 19:30:00,889 [INFO] [2025-09-29 16:30:00 UTC] ZECUSDT SELL at ~67.69 | Held 5 candles | Open positions: 6
+2025-09-29 19:30:01,796 [INFO] [2025-09-29 16:30:00 UTC] FETUSDT SELL at ~0.5734 | Held 5 candles | Open positions: 5
+2025-09-29 20:00:00,681 [INFO] [2025-09-29 17:00:00 UTC] LINKUSDT SELL at ~21.291 | Held 6 candles | Open positions: 4
+2025-09-29 20:00:03,597 [INFO] [2025-09-29 17:00:00 UTC] LPTUSDT SELL at ~6.092 | Held 12 candles | Open positions: 3
+2025-09-29 20:00:03,638 [INFO] [2025-09-29 17:00:00 UTC] RUNEUSDT SELL at ~1.147 | Held 6 candles | Open positions: 2
+2025-09-29 20:30:01,293 [INFO] [2025-09-29 17:30:00 UTC] SOLUSDT SELL at ~208.7 | Held 7 candles | Open positions: 1
+2025-09-30 00:00:01,018 [INFO] [2025-09-29 21:00:00 UTC] TRBUSDT LONG BUY at ~32.11 | Open positions: 2
+2025-09-30 00:30:00,682 [INFO] [2025-09-29 21:30:00 UTC] ETHUSDT SELL at ~4221.73 | Held 15 candles | Open positions: 1
+2025-09-30 02:30:00,937 [INFO] [2025-09-29 23:30:00 UTC] ZECUSDT LONG BUY at ~72.22 | Open positions: 2
+2025-09-30 02:30:00,937 [INFO] [2025-09-29 23:30:00 UTC] TRBUSDT SELL at ~31.298 | Held 5 candles | Open positions: 1
+2025-09-30 05:00:01,419 [INFO] [2025-09-30 02:00:00 UTC] ZECUSDT SELL at ~72.11 | Held 5 candles | Open positions: 0
+2025-09-30 09:30:03,671 [INFO] [2025-09-30 06:30:00 UTC] GMTUSDT LONG BUY at ~0.03771 | Open positions: 1
+2025-09-30 10:00:01,048 [INFO] [2025-09-30 07:00:00 UTC] GMTUSDT SELL at ~0.03764 | Held 1 candles | Open positions: 0
+2025-09-30 17:30:00,871 [INFO] [2025-09-30 14:30:00 UTC] ZECUSDT LONG BUY at ~69.61 | Open positions: 1
+2025-09-30 20:00:00,848 [INFO] [2025-09-30 17:00:00 UTC] ZECUSDT SELL at ~73.24 | Held 5 candles | Open positions: 0
+2025-09-30 20:45:00,647 [INFO] [2025-09-30 17:45:00 UTC] SUIUSDT LONG BUY at ~3.165 | Open positions: 1
+2025-10-01 01:00:01,237 [INFO] [2025-09-30 22:00:00 UTC] SUIUSDT SELL at ~3.2666 | Held 17 candles | Open positions: 0
+2025-10-01 10:30:00,930 [INFO] [2025-10-01 07:30:00 UTC] ZECUSDT LONG BUY at ~84.78 | Open positions: 1
+2025-10-01 11:45:00,759 [INFO] [2025-10-01 08:45:00 UTC] SUIUSDT LONG BUY at ~3.3567 | Open positions: 3
+2025-10-01 11:45:00,782 [INFO] [2025-10-01 08:45:00 UTC] LPTUSDT LONG BUY at ~6.292 | Open positions: 3
+2025-10-01 12:00:00,466 [INFO] [2025-10-01 09:00:00 UTC] HFTUSDT skipped (max positions reached).
+2025-10-01 12:00:00,470 [INFO] [2025-10-01 09:00:00 UTC] SOLUSDT skipped (max positions reached).
+2025-10-01 12:00:00,475 [INFO] [2025-10-01 09:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-10-01 12:00:00,479 [INFO] [2025-10-01 09:00:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-10-01 12:00:00,483 [INFO] [2025-10-01 09:00:00 UTC] LINKUSDT skipped (max positions reached).
+2025-10-01 12:00:00,488 [INFO] [2025-10-01 09:00:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-10-01 12:00:00,624 [INFO] [2025-10-01 09:00:00 UTC] AAVEUSDT skipped (max positions reached).
+2025-10-01 12:00:00,628 [INFO] [2025-10-01 09:00:00 UTC] ACHUSDT skipped (max positions reached).
+2025-10-01 12:00:00,640 [INFO] [2025-10-01 09:00:00 UTC] ROSEUSDT skipped (max positions reached).
+2025-10-01 12:00:00,644 [INFO] [2025-10-01 09:00:00 UTC] TRBUSDT skipped (max positions reached).
+2025-10-01 12:00:00,647 [INFO] [2025-10-01 09:00:00 UTC] BELUSDT skipped (max positions reached).
+2025-10-01 12:00:00,651 [INFO] [2025-10-01 09:00:00 UTC] ARBUSDT skipped (max positions reached).
+2025-10-01 12:00:00,655 [INFO] [2025-10-01 09:00:00 UTC] HIGHUSDT skipped (max positions reached).
+2025-10-01 12:00:00,753 [INFO] [2025-10-01 09:00:00 UTC] LQTYUSDT skipped (max positions reached).
+2025-10-01 12:00:00,760 [INFO] [2025-10-01 09:00:00 UTC] LQTYUSDT skipped (max positions reached).
+2025-10-01 12:00:00,765 [INFO] [2025-10-01 09:00:00 UTC] STXUSDT skipped (max positions reached).
+2025-10-01 12:00:00,769 [INFO] [2025-10-01 09:00:00 UTC] EGLDUSDT skipped (max positions reached).
+2025-10-01 12:00:00,774 [INFO] [2025-10-01 09:00:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-10-01 12:00:00,783 [INFO] [2025-10-01 09:00:00 UTC] 1000LUNCUSDT skipped (max positions reached).
+2025-10-01 12:00:01,194 [INFO] [2025-10-01 09:00:00 UTC] MAGICUSDT skipped (max positions reached).
+2025-10-01 12:00:01,212 [INFO] [2025-10-01 09:00:00 UTC] ADAUSDT LONG BUY at ~0.8288 | Open positions: 10
+2025-10-01 12:00:01,213 [INFO] [2025-10-01 09:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.01232 | Open positions: 10
+2025-10-01 12:00:01,231 [INFO] [2025-10-01 09:00:00 UTC] ETHUSDT LONG BUY at ~4289.99 | Open positions: 10
+2025-10-01 12:00:01,342 [INFO] [2025-10-01 09:00:00 UTC] INJUSDT LONG BUY at ~12.383 | Open positions: 10
+2025-10-01 12:00:01,348 [INFO] [2025-10-01 09:00:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0096418 | Open positions: 10
+2025-10-01 12:00:01,362 [INFO] [2025-10-01 09:00:00 UTC] FETUSDT LONG BUY at ~0.5578 | Open positions: 10
+2025-10-01 12:00:01,362 [INFO] [2025-10-01 09:00:00 UTC] GMTUSDT LONG BUY at ~0.03926 | Open positions: 10
+2025-10-01 12:00:02,099 [INFO] [2025-10-01 09:00:00 UTC] API3USDT skipped (max positions reached).
+2025-10-01 12:00:02,186 [INFO] [2025-10-01 09:00:00 UTC] RSRUSDT skipped (max positions reached).
+2025-10-01 12:00:03,200 [INFO] [2025-10-01 09:00:00 UTC] PHBUSDT skipped (max positions reached).
+2025-10-01 12:30:00,351 [INFO] [2025-10-01 09:30:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-10-01 12:30:00,362 [INFO] [2025-10-01 09:30:00 UTC] DOGEUSDT skipped (max positions reached).
+2025-10-01 12:30:00,413 [INFO] [2025-10-01 09:30:00 UTC] ROSEUSDT skipped (max positions reached).
+2025-10-01 12:30:00,463 [INFO] [2025-10-01 09:30:00 UTC] MAGICUSDT skipped (max positions reached).
+2025-10-01 12:30:00,526 [INFO] [2025-10-01 09:30:00 UTC] STXUSDT skipped (max positions reached).
+2025-10-01 12:30:00,778 [INFO] [2025-10-01 09:30:00 UTC] PHBUSDT skipped (max positions reached).
+2025-10-01 12:30:01,997 [INFO] [2025-10-01 09:30:00 UTC] GMXUSDT skipped (max positions reached).
+2025-10-01 12:30:02,417 [INFO] [2025-10-01 09:30:00 UTC] ACHUSDT skipped (max positions reached).
+2025-10-01 13:00:00,791 [INFO] [2025-10-01 10:00:00 UTC] ZECUSDT SELL at ~94.28 | Held 5 candles | Open positions: 9
+2025-10-01 13:30:03,706 [INFO] [2025-10-01 10:30:00 UTC] RSRUSDT LONG BUY at ~0.005899 | Open positions: 10
+2025-10-01 14:00:00,371 [INFO] [2025-10-01 11:00:00 UTC] ZECUSDT skipped (max positions reached).
+2025-10-01 14:00:00,618 [INFO] [2025-10-01 11:00:00 UTC] SUIUSDT SELL at ~3.3978 | Held 9 candles | Open positions: 9
+2025-10-01 14:30:00,641 [INFO] [2025-10-01 11:30:00 UTC] ADAUSDT SELL at ~0.8358 | Held 5 candles | Open positions: 9
+2025-10-01 14:30:00,775 [INFO] [2025-10-01 11:30:00 UTC] ZECUSDT LONG BUY at ~93.6 | Open positions: 9
+2025-10-01 14:30:00,939 [INFO] [2025-10-01 11:30:00 UTC] FETUSDT SELL at ~0.5656 | Held 5 candles | Open positions: 8
+2025-10-01 14:30:03,575 [INFO] [2025-10-01 11:30:00 UTC] GMTUSDT SELL at ~0.03915 | Held 5 candles | Open positions: 7
+2025-10-01 15:30:03,274 [INFO] [2025-10-01 12:30:00 UTC] LPTUSDT SELL at ~6.31 | Held 15 candles | Open positions: 6
+2025-10-01 16:00:00,958 [INFO] [2025-10-01 13:00:00 UTC] RSRUSDT SELL at ~0.005909 | Held 5 candles | Open positions: 5
+2025-10-01 17:00:01,762 [INFO] [2025-10-01 14:00:00 UTC] ZECUSDT SELL at ~89.81 | Held 5 candles | Open positions: 4
+2025-10-01 19:30:00,971 [INFO] [2025-10-01 16:30:00 UTC] ETHUSDT SELL at ~4330.56 | Held 15 candles | Open positions: 3
+2025-10-01 19:30:01,635 [INFO] [2025-10-01 16:30:00 UTC] INJUSDT SELL at ~12.475 | Held 15 candles | Open positions: 2
+2025-10-01 20:30:01,012 [INFO] [2025-10-01 17:30:00 UTC] ZECUSDT LONG BUY at ~98.83 | Open positions: 3
+2025-10-01 21:15:00,605 [INFO] [2025-10-01 18:15:00 UTC] LPTUSDT LONG BUY at ~6.626 | Open positions: 4
+2025-10-01 21:30:00,571 [INFO] [2025-10-01 18:30:00 UTC] API3USDT LONG BUY at ~0.7999 | Open positions: 5
+2025-10-01 23:00:01,200 [INFO] [2025-10-01 20:00:00 UTC] ZECUSDT SELL at ~118.62 | Held 5 candles | Open positions: 4
+2025-10-01 23:00:02,531 [INFO] [2025-10-01 20:00:00 UTC] ROSEUSDT LONG BUY at ~0.02684 | Open positions: 5
+2025-10-01 23:30:00,781 [INFO] [2025-10-01 20:30:00 UTC] RSRUSDT LONG BUY at ~0.006418 | Open positions: 6
+2025-10-02 00:00:02,400 [INFO] [2025-10-01 21:00:00 UTC] API3USDT SELL at ~0.8029 | Held 5 candles | Open positions: 6
+2025-10-02 00:00:02,526 [INFO] [2025-10-01 21:00:00 UTC] ZECUSDT LONG BUY at ~119.46 | Open positions: 6
+2025-10-02 01:00:00,853 [INFO] [2025-10-01 22:00:00 UTC] LPTUSDT SELL at ~6.492 | Held 15 candles | Open positions: 5
+2025-10-02 01:30:01,458 [INFO] [2025-10-01 22:30:00 UTC] GMXUSDT LONG BUY at ~15.778 | Open positions: 6
+2025-10-02 02:00:00,625 [INFO] [2025-10-01 23:00:00 UTC] RSRUSDT SELL at ~0.006821 | Held 5 candles | Open positions: 5
+2025-10-02 02:30:00,603 [INFO] [2025-10-01 23:30:00 UTC] ZECUSDT SELL at ~115.99 | Held 5 candles | Open positions: 4
+2025-10-02 02:30:01,044 [INFO] [2025-10-01 23:30:00 UTC] RSRUSDT LONG BUY at ~0.006861 | Open positions: 5
+2025-10-02 03:00:02,292 [INFO] [2025-10-02 00:00:00 UTC] 1000SHIBUSDT SELL at ~0.012388 | Held 15 candles | Open positions: 4
+2025-10-02 03:30:00,598 [INFO] [2025-10-02 00:30:00 UTC] DOGEUSDT LONG BUY at ~0.24912 | Open positions: 5
+2025-10-02 05:00:00,875 [INFO] [2025-10-02 02:00:00 UTC] RSRUSDT SELL at ~0.006797 | Held 5 candles | Open positions: 4
+2025-10-02 05:30:00,811 [INFO] [2025-10-02 02:30:00 UTC] EGLDUSDT LONG BUY at ~13.859 | Open positions: 5
+2025-10-02 06:00:00,724 [INFO] [2025-10-02 03:00:00 UTC] ZECUSDT LONG BUY at ~124.16 | Open positions: 6
+2025-10-02 06:00:02,292 [INFO] [2025-10-02 03:00:00 UTC] 1000LUNCUSDT LONG BUY at ~0.05695 | Open positions: 7
+2025-10-02 08:00:01,419 [INFO] [2025-10-02 05:00:00 UTC] RUNEUSDT LONG BUY at ~1.213 | Open positions: 8
+2025-10-02 08:15:00,880 [INFO] [2025-10-02 05:15:00 UTC] LPTUSDT LONG BUY at ~6.607 | Open positions: 9
+2025-10-02 08:30:01,211 [INFO] [2025-10-02 05:30:00 UTC] ZECUSDT SELL at ~145.04 | Held 5 candles | Open positions: 8
+2025-10-02 09:00:00,558 [INFO] [2025-10-02 06:00:00 UTC] ZECUSDT LONG BUY at ~152.77 | Open positions: 9
+2025-10-02 10:00:00,643 [INFO] [2025-10-02 07:00:00 UTC] MAGICUSDT skipped (max positions reached).
+2025-10-02 10:00:00,818 [INFO] [2025-10-02 07:00:00 UTC] API3USDT LONG BUY at ~0.8433 | Open positions: 10
+2025-10-02 10:30:00,450 [INFO] [2025-10-02 07:30:00 UTC] RSRUSDT skipped (max positions reached).
+2025-10-02 11:30:00,690 [INFO] [2025-10-02 08:30:00 UTC] ZECUSDT SELL at ~141.49 | Held 5 candles | Open positions: 9
+2025-10-02 11:30:03,591 [INFO] [2025-10-02 08:30:00 UTC] ROSEUSDT SELL at ~0.02698 | Held 25 candles | Open positions: 8
+2025-10-02 12:00:00,906 [INFO] [2025-10-02 09:00:00 UTC] LPTUSDT SELL at ~6.616 | Held 15 candles | Open positions: 7
+2025-10-02 12:30:01,014 [INFO] [2025-10-02 09:30:00 UTC] API3USDT SELL at ~0.8255 | Held 5 candles | Open positions: 6
+2025-10-02 13:00:01,998 [INFO] [2025-10-02 10:00:00 UTC] EGLDUSDT SELL at ~13.899 | Held 15 candles | Open positions: 5
+2025-10-02 16:00:01,325 [INFO] [2025-10-02 13:00:00 UTC] PHBUSDT LONG BUY at ~0.5315 | Open positions: 6
+2025-10-02 16:30:01,412 [INFO] [2025-10-02 13:30:00 UTC] GMXUSDT SELL at ~15.712 | Held 30 candles | Open positions: 5
+2025-10-02 17:00:00,915 [INFO] [2025-10-02 14:00:00 UTC] ZECUSDT LONG BUY at ~154.24 | Open positions: 6
+2025-10-02 17:30:00,720 [INFO] [2025-10-02 14:30:00 UTC] PHBUSDT SELL at ~0.5255 | Held 3 candles | Open positions: 5
+2025-10-02 18:00:00,685 [INFO] [2025-10-02 15:00:00 UTC] ZECUSDT SELL at ~140.07 | Held 2 candles | Open positions: 4
+2025-10-02 18:00:01,170 [INFO] [2025-10-02 15:00:00 UTC] RUNEUSDT SELL at ~1.195 | Held 20 candles | Open positions: 3
+2025-10-02 19:30:01,076 [INFO] [2025-10-02 16:30:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.08592 | Open positions: 6
+2025-10-02 19:30:01,107 [INFO] [2025-10-02 16:30:00 UTC] MAGICUSDT LONG BUY at ~0.1811 | Open positions: 6
+2025-10-02 19:30:01,129 [INFO] [2025-10-02 16:30:00 UTC] ADAUSDT LONG BUY at ~0.8585 | Open positions: 6
+2025-10-02 20:00:00,710 [INFO] [2025-10-02 17:00:00 UTC] MAGICUSDT SELL at ~0.1804 | Held 1 candles | Open positions: 6
+2025-10-02 20:00:00,944 [INFO] [2025-10-02 17:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012564 | Open positions: 6
+2025-10-02 21:00:03,832 [INFO] [2025-10-02 18:00:00 UTC] 1000LUNCUSDT SELL at ~0.05719 | Held 15 candles | Open positions: 5
+2025-10-02 22:00:00,826 [INFO] [2025-10-02 19:00:00 UTC] ADAUSDT SELL at ~0.8709 | Held 5 candles | Open positions: 4
+2025-10-02 22:30:00,619 [INFO] [2025-10-02 19:30:00 UTC] RUNEUSDT LONG BUY at ~1.226 | Open positions: 5
+2025-10-03 01:30:01,173 [INFO] [2025-10-02 22:30:00 UTC] 1000PEPEUSDT SELL at ~0.0102138 | Held 75 candles | Open positions: 4
+2025-10-03 03:00:01,845 [INFO] [2025-10-03 00:00:00 UTC] 1000FLOKIUSDT SELL at ~0.08794 | Held 15 candles | Open positions: 3
+2025-10-03 03:30:00,748 [INFO] [2025-10-03 00:30:00 UTC] RUNEUSDT SELL at ~1.211 | Held 10 candles | Open positions: 2
+2025-10-03 04:00:02,631 [INFO] [2025-10-03 01:00:00 UTC] 1000SHIBUSDT SELL at ~0.012544 | Held 8 candles | Open positions: 1
+2025-10-03 05:00:00,635 [INFO] [2025-10-03 02:00:00 UTC] DOGEUSDT SELL at ~0.25672 | Held 51 candles | Open positions: 0
+2025-10-03 08:30:00,955 [INFO] [2025-10-03 05:30:00 UTC] HIGHUSDT LONG BUY at ~0.4967 | Open positions: 1
+2025-10-03 12:30:03,637 [INFO] [2025-10-03 09:30:00 UTC] HIGHUSDT SELL at ~0.4926 | Held 8 candles | Open positions: 0
+2025-10-03 14:30:01,019 [INFO] [2025-10-03 11:30:00 UTC] NMRUSDT LONG BUY at ~17.431 | Open positions: 1
+2025-10-03 16:30:00,632 [INFO] [2025-10-03 13:30:00 UTC] AAVEUSDT LONG BUY at ~289.37 | Open positions: 2
+2025-10-03 17:00:02,615 [INFO] [2025-10-03 14:00:00 UTC] NMRUSDT SELL at ~17.184 | Held 5 candles | Open positions: 1
+2025-10-03 17:00:04,359 [INFO] [2025-10-03 14:00:00 UTC] AAVEUSDT SELL at ~287.25 | Held 1 candles | Open positions: 0
+2025-10-03 19:00:01,633 [INFO] [2025-10-03 16:00:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.08985 | Open positions: 4
+2025-10-03 19:00:02,059 [INFO] [2025-10-03 16:00:00 UTC] RUNEUSDT LONG BUY at ~1.23 | Open positions: 4
+2025-10-03 19:00:02,419 [INFO] [2025-10-03 16:00:00 UTC] INJUSDT LONG BUY at ~13.079 | Open positions: 4
+2025-10-03 19:00:02,447 [INFO] [2025-10-03 16:00:00 UTC] PHBUSDT LONG BUY at ~0.5288 | Open positions: 4
+2025-10-03 19:15:00,572 [INFO] [2025-10-03 16:15:00 UTC] SUIUSDT LONG BUY at ~3.6439 | Open positions: 5
+2025-10-03 19:30:00,653 [INFO] [2025-10-03 16:30:00 UTC] ADAUSDT LONG BUY at ~0.8851 | Open positions: 8
+2025-10-03 19:30:00,653 [INFO] [2025-10-03 16:30:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0103126 | Open positions: 8
+2025-10-03 19:30:00,657 [INFO] [2025-10-03 16:30:00 UTC] LINKUSDT LONG BUY at ~22.873 | Open positions: 8
+2025-10-03 19:30:01,011 [INFO] [2025-10-03 16:30:00 UTC] STXUSDT LONG BUY at ~0.6313 | Open positions: 10
+2025-10-03 19:30:01,212 [INFO] [2025-10-03 16:30:00 UTC] MAGICUSDT LONG BUY at ~0.1854 | Open positions: 10
+2025-10-03 20:00:00,463 [INFO] [2025-10-03 17:00:00 UTC] 1000SHIBUSDT skipped (max positions reached).
+2025-10-03 20:00:00,739 [INFO] [2025-10-03 17:00:00 UTC] 1000LUNCUSDT skipped (max positions reached).
+2025-10-03 20:15:00,645 [INFO] [2025-10-03 17:15:00 UTC] SUIUSDT SELL at ~3.5886 | Held 4 candles | Open positions: 9
+2025-10-03 20:30:00,967 [INFO] [2025-10-03 17:30:00 UTC] 1000PEPEUSDT SELL at ~0.0101135 | Held 2 candles | Open positions: 8
+2025-10-03 21:00:01,003 [INFO] [2025-10-03 18:00:00 UTC] LINKUSDT SELL at ~22.32 | Held 3 candles | Open positions: 7
+2025-10-03 21:00:01,124 [INFO] [2025-10-03 18:00:00 UTC] RUNEUSDT SELL at ~1.211 | Held 4 candles | Open positions: 6
+2025-10-03 22:00:01,845 [INFO] [2025-10-03 19:00:00 UTC] ADAUSDT SELL at ~0.872 | Held 5 candles | Open positions: 5
+2025-10-03 22:00:09,066 [INFO] [2025-10-03 19:00:00 UTC] MAGICUSDT SELL at ~0.1828 | Held 5 candles | Open positions: 4
+2025-10-03 22:30:00,991 [INFO] [2025-10-03 19:30:00 UTC] GMTUSDT LONG BUY at ~0.04099 | Open positions: 5
+2025-10-03 22:30:01,024 [INFO] [2025-10-03 19:30:00 UTC] STXUSDT SELL at ~0.6278 | Held 6 candles | Open positions: 4
+2025-10-03 23:30:00,729 [INFO] [2025-10-03 20:30:00 UTC] HIGHUSDT LONG BUY at ~0.4999 | Open positions: 5
+2025-10-04 01:00:02,353 [INFO] [2025-10-03 22:00:00 UTC] GMTUSDT SELL at ~0.0409 | Held 5 candles | Open positions: 4
+2025-10-04 02:30:01,292 [INFO] [2025-10-03 23:30:00 UTC] 1000FLOKIUSDT SELL at ~0.09648 | Held 15 candles | Open positions: 3
+2025-10-04 02:30:01,952 [INFO] [2025-10-03 23:30:00 UTC] INJUSDT SELL at ~13.389 | Held 15 candles | Open positions: 2
+2025-10-04 02:30:03,524 [INFO] [2025-10-03 23:30:00 UTC] PHBUSDT SELL at ~0.5275 | Held 15 candles | Open positions: 1
+2025-10-04 03:00:01,937 [INFO] [2025-10-04 00:00:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.09758 | Open positions: 2
+2025-10-04 09:00:01,164 [INFO] [2025-10-04 06:00:00 UTC] PHBUSDT LONG BUY at ~0.5349 | Open positions: 3
+2025-10-04 09:30:00,607 [INFO] [2025-10-04 06:30:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0101009 | Open positions: 4
+2025-10-04 10:00:01,176 [INFO] [2025-10-04 07:00:00 UTC] HIGHUSDT SELL at ~0.495 | Held 21 candles | Open positions: 3
+2025-10-04 10:30:00,761 [INFO] [2025-10-04 07:30:00 UTC] 1000FLOKIUSDT SELL at ~0.11517 | Held 15 candles | Open positions: 2
+2025-10-04 13:00:00,693 [INFO] [2025-10-04 10:00:00 UTC] 1000PEPEUSDT SELL at ~0.0099067 | Held 7 candles | Open positions: 1
+2025-10-04 13:00:00,899 [INFO] [2025-10-04 10:00:00 UTC] PHBUSDT SELL at ~0.5288 | Held 8 candles | Open positions: 0
+2025-10-04 14:30:00,603 [INFO] [2025-10-04 11:30:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.10969 | Open positions: 1
+2025-10-04 22:00:01,052 [INFO] [2025-10-04 19:00:00 UTC] 1000FLOKIUSDT SELL at ~0.10246 | Held 15 candles | Open positions: 0
+2025-10-04 23:31:34,312 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-04 23:31:35,659 [INFO] [Combined WS] Connected to 36 streams
+2025-10-04 23:32:35,679 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-04 23:32:37,067 [INFO] [Combined WS] Connected to 36 streams
+2025-10-05 03:30:00,980 [INFO] [2025-10-05 00:30:00 UTC] SUIUSDT LONG BUY at ~3.6731 | Open positions: 1
+2025-10-05 04:00:00,878 [INFO] [2025-10-05 01:00:00 UTC] SUIUSDT SELL at ~3.5839 | Held 2 candles | Open positions: 0
+2025-10-05 05:45:00,582 [INFO] [2025-10-05 02:45:00 UTC] SUIUSDT LONG BUY at ~3.6212 | Open positions: 1
+2025-10-05 05:45:01,385 [INFO] [2025-10-05 02:45:00 UTC] LPTUSDT LONG BUY at ~6.556 | Open positions: 2
+2025-10-05 06:00:00,838 [INFO] [2025-10-05 03:00:00 UTC] TRBUSDT LONG BUY at ~33.447 | Open positions: 10
+2025-10-05 06:00:00,839 [INFO] [2025-10-05 03:00:00 UTC] ADAUSDT LONG BUY at ~0.8591 | Open positions: 10
+2025-10-05 06:00:00,860 [INFO] [2025-10-05 03:00:00 UTC] DOGEUSDT LONG BUY at ~0.25657 | Open positions: 10
+2025-10-05 06:00:00,875 [INFO] [2025-10-05 03:00:00 UTC] SOLUSDT LONG BUY at ~231.04 | Open positions: 10
+2025-10-05 06:00:00,877 [INFO] [2025-10-05 03:00:00 UTC] LINKUSDT LONG BUY at ~22.438 | Open positions: 10
+2025-10-05 06:00:00,878 [INFO] [2025-10-05 03:00:00 UTC] ETHUSDT LONG BUY at ~4547.51 | Open positions: 10
+2025-10-05 06:00:00,884 [INFO] [2025-10-05 03:00:00 UTC] ARBUSDT LONG BUY at ~0.4411 | Open positions: 10
+2025-10-05 06:00:01,001 [INFO] [2025-10-05 03:00:00 UTC] MAGICUSDT LONG BUY at ~0.1806 | Open positions: 10
+2025-10-05 06:00:01,157 [INFO] [2025-10-05 03:00:00 UTC] HIGHUSDT skipped (max positions reached).
+2025-10-05 06:00:01,474 [INFO] [2025-10-05 03:00:00 UTC] PHBUSDT skipped (max positions reached).
+2025-10-05 06:00:01,940 [INFO] [2025-10-05 03:00:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-10-05 06:00:03,239 [INFO] [2025-10-05 03:00:00 UTC] ACHUSDT skipped (max positions reached).
+2025-10-05 06:30:00,321 [INFO] [2025-10-05 03:30:00 UTC] 1000FLOKIUSDT skipped (max positions reached).
+2025-10-05 07:30:01,570 [INFO] [2025-10-05 04:30:00 UTC] SUIUSDT SELL at ~3.6404 | Held 7 candles | Open positions: 9
+2025-10-05 08:00:00,322 [INFO] [2025-10-05 05:00:00 UTC] SUIUSDT skipped (max positions reached).
+2025-10-05 08:00:00,605 [INFO] [2025-10-05 05:00:00 UTC] ACHUSDT skipped (max positions reached).
+2025-10-05 08:00:00,716 [INFO] [2025-10-05 05:00:00 UTC] DOGEUSDT LONG BUY at ~0.26245 | Open positions: 10
+2025-10-05 08:30:00,801 [INFO] [2025-10-05 05:30:00 UTC] ACHUSDT skipped (max positions reached).
+2025-10-05 08:30:00,958 [INFO] [2025-10-05 05:30:00 UTC] ADAUSDT SELL at ~0.8727 | Held 5 candles | Open positions: 9
+2025-10-05 08:30:01,647 [INFO] [2025-10-05 05:30:00 UTC] TRBUSDT SELL at ~33.831 | Held 5 candles | Open positions: 8
+2025-10-05 08:30:03,603 [INFO] [2025-10-05 05:30:00 UTC] MAGICUSDT SELL at ~0.182 | Held 5 candles | Open positions: 7
+2025-10-05 09:30:01,623 [INFO] [2025-10-05 06:30:00 UTC] LPTUSDT SELL at ~6.626 | Held 15 candles | Open positions: 6
+2025-10-05 10:00:04,860 [INFO] [2025-10-05 07:00:00 UTC] EGLDUSDT LONG BUY at ~13.913 | Open positions: 7
+2025-10-05 13:00:00,670 [INFO] [2025-10-05 10:00:00 UTC] 1000SHIBUSDT LONG BUY at ~0.012855 | Open positions: 8
+2025-10-05 13:30:00,618 [INFO] [2025-10-05 10:30:00 UTC] ETHUSDT SELL at ~4536.0 | Held 15 candles | Open positions: 7
+2025-10-05 13:30:00,859 [INFO] [2025-10-05 10:30:00 UTC] LINKUSDT SELL at ~22.649 | Held 15 candles | Open positions: 6
+2025-10-05 16:30:00,839 [INFO] [2025-10-05 13:30:00 UTC] 1000PEPEUSDT LONG BUY at ~0.010007 | Open positions: 7
+2025-10-05 17:30:01,527 [INFO] [2025-10-05 14:30:00 UTC] EGLDUSDT SELL at ~13.892 | Held 15 candles | Open positions: 6
+2025-10-05 20:30:01,142 [INFO] [2025-10-05 17:30:00 UTC] ARBUSDT SELL at ~0.4414 | Held 29 candles | Open positions: 5
+2025-10-05 21:00:01,065 [INFO] [2025-10-05 18:00:00 UTC] DOGEUSDT SELL at ~0.25471 | Held 30 candles | Open positions: 4
+2025-10-05 21:30:00,695 [INFO] [2025-10-05 18:30:00 UTC] PHBUSDT LONG BUY at ~0.5892 | Open positions: 5
+2025-10-05 22:30:00,677 [INFO] [2025-10-05 19:30:00 UTC] SOLUSDT SELL at ~227.74 | Held 33 candles | Open positions: 4
+2025-10-06 00:00:00,956 [INFO] [2025-10-05 21:00:00 UTC] 1000SHIBUSDT SELL at ~0.012413 | Held 11 candles | Open positions: 3
+2025-10-06 01:00:00,766 [INFO] [2025-10-05 22:00:00 UTC] 1000PEPEUSDT SELL at ~0.0097883 | Held 17 candles | Open positions: 2
+2025-10-06 04:00:00,829 [INFO] [2025-10-06 01:00:00 UTC] DOGEUSDT SELL at ~0.25171 | Held 20 candles | Open positions: 1
+2025-10-06 04:30:00,772 [INFO] [2025-10-06 01:30:00 UTC] INJUSDT LONG BUY at ~13.335 | Open positions: 3
+2025-10-06 04:30:00,862 [INFO] [2025-10-06 01:30:00 UTC] NMRUSDT LONG BUY at ~16.996 | Open positions: 3
+2025-10-06 05:00:01,291 [INFO] [2025-10-06 02:00:00 UTC] PHBUSDT SELL at ~0.5701 | Held 15 candles | Open positions: 2
+2025-10-06 05:30:37,250 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-06 05:30:38,590 [INFO] [Combined WS] Connected to 36 streams
+2025-10-06 06:30:01,085 [INFO] [2025-10-06 03:30:00 UTC] NMRUSDT SELL at ~16.551 | Held 4 candles | Open positions: 1
+2025-10-06 12:00:02,683 [INFO] [2025-10-06 09:00:00 UTC] INJUSDT SELL at ~12.965 | Held 15 candles | Open positions: 0
+2025-10-06 15:30:01,571 [INFO] [2025-10-06 12:30:00 UTC] MAGICUSDT LONG BUY at ~0.18 | Open positions: 1
+2025-10-06 17:00:00,579 [INFO] [2025-10-06 14:00:00 UTC] ETHUSDT LONG BUY at ~4636.81 | Open positions: 3
+2025-10-06 17:00:00,619 [INFO] [2025-10-06 14:00:00 UTC] ARBUSDT LONG BUY at ~0.4593 | Open positions: 3
+2025-10-06 17:00:01,191 [INFO] [2025-10-06 14:00:00 UTC] ACHUSDT LONG BUY at ~0.019159 | Open positions: 5
+2025-10-06 17:00:01,273 [INFO] [2025-10-06 14:00:00 UTC] TRBUSDT LONG BUY at ~34.053 | Open positions: 5
+2025-10-06 17:12:33,767 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-06 17:12:35,127 [INFO] [Combined WS] Connected to 36 streams
+2025-10-06 17:30:00,801 [INFO] [2025-10-06 14:30:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0101336 | Open positions: 7
+2025-10-06 17:30:01,012 [INFO] [2025-10-06 14:30:00 UTC] PHBUSDT LONG BUY at ~0.5905 | Open positions: 7
+2025-10-06 18:00:00,647 [INFO] [2025-10-06 15:00:00 UTC] DOGEUSDT LONG BUY at ~0.2621 | Open positions: 8
+2025-10-06 18:00:01,840 [INFO] [2025-10-06 15:00:00 UTC] MAGICUSDT SELL at ~0.1815 | Held 5 candles | Open positions: 7
+2025-10-06 18:15:01,612 [INFO] [2025-10-06 15:15:00 UTC] SUIUSDT LONG BUY at ~3.6623 | Open positions: 8
+2025-10-06 18:30:00,634 [INFO] [2025-10-06 15:30:00 UTC] DOGEUSDT LONG BUY at ~0.2676 | Open positions: 10
+2025-10-06 18:30:00,634 [INFO] [2025-10-06 15:30:00 UTC] ADAUSDT LONG BUY at ~0.8798 | Open positions: 10
+2025-10-06 18:30:00,776 [INFO] [2025-10-06 15:30:00 UTC] GMXUSDT skipped (max positions reached).
+2025-10-06 19:30:00,740 [INFO] [2025-10-06 16:30:00 UTC] TRBUSDT SELL at ~34.098 | Held 5 candles | Open positions: 9
+2025-10-06 19:45:00,860 [INFO] [2025-10-06 16:45:00 UTC] SUIUSDT SELL at ~3.6493 | Held 6 candles | Open positions: 8
+2025-10-06 20:00:01,008 [INFO] [2025-10-06 17:00:00 UTC] MAGICUSDT LONG BUY at ~0.1834 | Open positions: 9
+2025-10-06 20:30:00,573 [INFO] [2025-10-06 17:30:00 UTC] LINKUSDT LONG BUY at ~23.294 | Open positions: 10
+2025-10-06 20:30:02,184 [INFO] [2025-10-06 17:30:00 UTC] SUIUSDT skipped (max positions reached).
+2025-10-06 21:00:00,720 [INFO] [2025-10-06 18:00:00 UTC] ADAUSDT SELL at ~0.8759 | Held 5 candles | Open positions: 9
+2025-10-06 21:30:03,682 [INFO] [2025-10-06 18:30:00 UTC] HFTUSDT LONG BUY at ~0.07709 | Open positions: 10
+2025-10-06 22:30:01,260 [INFO] [2025-10-06 19:30:00 UTC] MAGICUSDT SELL at ~0.1839 | Held 5 candles | Open positions: 9
+2025-10-06 23:00:02,327 [INFO] [2025-10-06 20:00:00 UTC] LPTUSDT LONG BUY at ~6.687 | Open positions: 10
+2025-10-07 00:30:00,645 [INFO] [2025-10-06 21:30:00 UTC] ETHUSDT SELL at ~4685.12 | Held 15 candles | Open positions: 9
+2025-10-07 00:30:03,573 [INFO] [2025-10-06 21:30:00 UTC] ACHUSDT SELL at ~0.019207 | Held 15 candles | Open positions: 8
+2025-10-07 01:00:02,339 [INFO] [2025-10-06 22:00:00 UTC] PHBUSDT SELL at ~0.6437 | Held 15 candles | Open positions: 7
+2025-10-07 02:45:02,759 [INFO] [2025-10-06 23:45:00 UTC] LPTUSDT SELL at ~6.632 | Held 15 candles | Open positions: 6
+2025-10-07 03:30:01,256 [INFO] [2025-10-07 00:30:00 UTC] STXUSDT LONG BUY at ~0.6456 | Open positions: 7
+2025-10-07 04:00:01,226 [INFO] [2025-10-07 01:00:00 UTC] LINKUSDT SELL at ~23.556 | Held 15 candles | Open positions: 6
+2025-10-07 04:30:01,161 [INFO] [2025-10-07 01:30:00 UTC] API3USDT LONG BUY at ~0.8133 | Open positions: 7
+2025-10-07 05:00:03,884 [INFO] [2025-10-07 02:00:00 UTC] HFTUSDT SELL at ~0.07727 | Held 15 candles | Open positions: 6
+2025-10-07 06:00:02,011 [INFO] [2025-10-07 03:00:00 UTC] ARBUSDT SELL at ~0.4585 | Held 26 candles | Open positions: 5
+2025-10-07 06:08:46,150 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-07 06:08:53,723 [INFO] [Combined WS] Connected to 36 streams
+2025-10-07 07:00:01,448 [INFO] [2025-10-07 04:00:00 UTC] API3USDT SELL at ~0.8574 | Held 5 candles | Open positions: 4
+2025-10-07 07:30:00,655 [INFO] [2025-10-07 04:30:00 UTC] API3USDT LONG BUY at ~0.9189 | Open positions: 5
+2025-10-07 08:00:01,269 [INFO] [2025-10-07 05:00:00 UTC] TRBUSDT LONG BUY at ~35.058 | Open positions: 6
+2025-10-07 09:30:00,695 [INFO] [2025-10-07 06:30:00 UTC] DOGEUSDT SELL at ~0.26242 | Held 30 candles | Open positions: 5
+2025-10-07 10:00:00,799 [INFO] [2025-10-07 07:00:00 UTC] API3USDT SELL at ~0.9082 | Held 5 candles | Open positions: 4
+2025-10-07 10:00:00,802 [INFO] [2025-10-07 07:00:00 UTC] TRBUSDT SELL at ~34.389 | Held 4 candles | Open positions: 3
+2025-10-07 10:00:01,175 [INFO] [2025-10-07 07:00:00 UTC] STXUSDT SELL at ~0.6517 | Held 13 candles | Open positions: 2
+2025-10-07 10:30:00,707 [INFO] [2025-10-07 07:30:00 UTC] 1000PEPEUSDT SELL at ~0.0099819 | Held 34 candles | Open positions: 2
+2025-10-07 10:30:00,899 [INFO] [2025-10-07 07:30:00 UTC] API3USDT LONG BUY at ~0.9168 | Open positions: 2
+2025-10-07 13:00:00,600 [INFO] [2025-10-07 10:00:00 UTC] API3USDT SELL at ~0.9543 | Held 5 candles | Open positions: 1
+2025-10-07 15:00:01,470 [INFO] [2025-10-07 12:00:00 UTC] DOGEUSDT SELL at ~0.26155 | Held 21 candles | Open positions: 2
+2025-10-07 15:00:01,471 [INFO] [2025-10-07 12:00:00 UTC] API3USDT LONG BUY at ~0.9686 | Open positions: 2
+2025-10-07 15:00:01,992 [INFO] [2025-10-07 12:00:00 UTC] 1000FLOKIUSDT LONG BUY at ~0.10916 | Open positions: 2
+2025-10-07 16:30:00,665 [INFO] [2025-10-07 13:30:00 UTC] INJUSDT LONG BUY at ~13.201 | Open positions: 3
+2025-10-07 17:00:00,669 [INFO] [2025-10-07 14:00:00 UTC] INJUSDT SELL at ~12.939 | Held 1 candles | Open positions: 2
+2025-10-07 17:30:01,427 [INFO] [2025-10-07 14:30:00 UTC] API3USDT SELL at ~0.9255 | Held 5 candles | Open positions: 1
+2025-10-07 18:00:02,022 [INFO] [2025-10-07 15:00:00 UTC] 1000FLOKIUSDT SELL at ~0.10239 | Held 6 candles | Open positions: 0
+2025-10-07 19:00:02,043 [INFO] [2025-10-07 16:00:00 UTC] API3USDT LONG BUY at ~0.8913 | Open positions: 1
+2025-10-07 21:30:01,198 [INFO] [2025-10-07 18:30:00 UTC] API3USDT SELL at ~0.8891 | Held 5 candles | Open positions: 0
+2025-10-08 00:30:00,625 [INFO] [2025-10-07 21:30:00 UTC] GMXUSDT LONG BUY at ~14.779 | Open positions: 1
+2025-10-08 01:00:01,382 [INFO] [2025-10-07 22:00:00 UTC] GMXUSDT SELL at ~14.301 | Held 1 candles | Open positions: 0
+2025-10-08 03:30:01,434 [INFO] [2025-10-08 00:30:00 UTC] STXUSDT LONG BUY at ~0.6047 | Open positions: 1
+2025-10-08 04:30:00,840 [INFO] [2025-10-08 01:30:00 UTC] API3USDT LONG BUY at ~0.9603 | Open positions: 2
+2025-10-08 05:00:00,606 [INFO] [2025-10-08 02:00:00 UTC] API3USDT SELL at ~0.9493 | Held 1 candles | Open positions: 1
+2025-10-08 05:30:00,745 [INFO] [2025-10-08 02:30:00 UTC] API3USDT LONG BUY at ~0.952 | Open positions: 2
+2025-10-08 06:00:00,686 [INFO] [2025-10-08 03:00:00 UTC] API3USDT SELL at ~0.9436 | Held 1 candles | Open positions: 1
+2025-10-08 06:30:00,607 [INFO] [2025-10-08 03:30:00 UTC] API3USDT LONG BUY at ~0.9622 | Open positions: 2
+2025-10-08 06:30:03,161 [INFO] [2025-10-08 03:30:00 UTC] STXUSDT SELL at ~0.5974 | Held 6 candles | Open positions: 1
+2025-10-08 09:00:00,598 [INFO] [2025-10-08 06:00:00 UTC] API3USDT SELL at ~0.9102 | Held 5 candles | Open positions: 0
+2025-10-08 13:01:53,618 [INFO] Stopped by user.
+2025-10-13 18:17:43,603 [INFO] [Combined WS] Connected to 53 streams
+2025-10-13 19:00:02,050 [INFO] [2025-10-13 16:00:00 UTC] MAGICUSDT LONG BUY at ~0.1543 | Open positions: 2
+2025-10-13 19:00:02,575 [INFO] [2025-10-13 16:00:00 UTC] UMAUSDT LONG BUY at ~1.138 | Open positions: 2
+2025-10-13 20:00:02,618 [INFO] [2025-10-13 17:00:00 UTC] SOLUSDT LONG BUY at ~200.0 | Open positions: 3
+2025-10-13 21:00:01,454 [INFO] [2025-10-13 18:00:00 UTC] MAGICUSDT SELL at ~0.1533 | Held 2 candles | Open positions: 2
+2025-10-14 08:00:01,191 [INFO] [2025-10-14 05:00:00 UTC] MAGICUSDT LONG BUY at ~0.1532 | Open positions: 3
+2025-10-14 08:30:01,076 [INFO] [2025-10-14 05:30:00 UTC] UMAUSDT SELL at ~1.17 | Held 27 candles | Open positions: 2
+2025-10-14 10:00:00,980 [INFO] [2025-10-14 07:00:00 UTC] MAGICUSDT SELL at ~0.1403 | Held 2 candles | Open positions: 1
+2025-10-14 12:00:02,165 [INFO] [2025-10-14 09:00:00 UTC] SOLUSDT SELL at ~196.04 | Held 32 candles | Open positions: 1
+2025-10-14 12:00:02,472 [INFO] [2025-10-14 09:00:00 UTC] RSRUSDT LONG BUY at ~0.005516 | Open positions: 1
+2025-10-14 13:30:02,409 [INFO] [2025-10-14 10:30:00 UTC] RSRUSDT SELL at ~0.005627 | Held 3 candles | Open positions: 0
+2025-10-14 18:30:00,775 [INFO] [2025-10-14 15:30:00 UTC] UMAUSDT LONG BUY at ~1.221 | Open positions: 1
+2025-10-14 19:00:02,551 [INFO] [2025-10-14 16:00:00 UTC] UMAUSDT SELL at ~1.192 | Held 1 candles | Open positions: 0
+2025-10-14 19:30:00,705 [INFO] [2025-10-14 16:30:00 UTC] SUIUSDT LONG BUY at ~2.8366 | Open positions: 2
+2025-10-14 19:30:00,948 [INFO] [2025-10-14 16:30:00 UTC] UMAUSDT LONG BUY at ~1.198 | Open positions: 2
+2025-10-14 20:00:00,730 [INFO] [2025-10-14 17:00:00 UTC] UMAUSDT SELL at ~1.202 | Held 1 candles | Open positions: 1
+2025-10-15 03:30:00,747 [INFO] [2025-10-15 00:30:00 UTC] SUIUSDT SELL at ~2.8019 | Held 32 candles | Open positions: 0
+2025-10-15 08:00:01,715 [INFO] [2025-10-15 05:00:00 UTC] YGGUSDT Order failed: APIError(code=-4131): The counterparty's best price does not meet the PERCENT_PRICE filter limit.
+2025-10-15 09:00:00,967 [INFO] [2025-10-15 06:00:00 UTC] YGGUSDT LONG BUY at ~0.2014 | Open positions: 2
+2025-10-15 11:00:02,118 [INFO] [2025-10-15 08:00:00 UTC] NMRUSDT LONG BUY at ~14.769 | Open positions: 4
+2025-10-15 11:00:02,121 [INFO] [2025-10-15 08:00:00 UTC] PHBUSDT LONG BUY at ~0.4972 | Open positions: 4
+2025-10-15 13:30:01,123 [INFO] [2025-10-15 10:30:00 UTC] NMRUSDT SELL at ~14.589 | Held 5 candles | Open positions: 3
+2025-10-15 13:31:09,183 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-15 13:31:10,750 [INFO] [Combined WS] Connected to 53 streams
+2025-10-15 23:00:02,002 [INFO] [2025-10-15 20:00:00 UTC] YGGUSDT SELL at ~0.1747 | Held 14 candles | Open positions: 2
+2025-10-16 05:30:00,840 [INFO] [2025-10-16 02:30:00 UTC] RSRUSDT LONG BUY at ~0.006969 | Open positions: 3
+2025-10-16 09:30:00,711 [INFO] [2025-10-16 06:30:00 UTC] NMRUSDT LONG BUY at ~14.639 | Open positions: 4
+2025-10-16 10:00:01,262 [INFO] [2025-10-16 07:00:00 UTC] RDNTUSDT LONG BUY at ~0.0212 | Open positions: 5
+2025-10-16 10:00:01,304 [INFO] [2025-10-16 07:00:00 UTC] NMRUSDT SELL at ~14.103 | Held 1 candles | Open positions: 4
+2025-10-16 13:00:01,019 [INFO] [2025-10-16 10:00:00 UTC] SUIUSDT LONG BUY at ~2.6839 | Open positions: 9
+2025-10-16 13:00:01,023 [INFO] [2025-10-16 10:00:00 UTC] AVAXUSDT LONG BUY at ~21.977 | Open positions: 9
+2025-10-16 13:00:01,311 [INFO] [2025-10-16 10:00:00 UTC] PHBUSDT SELL at ~0.4626 | Held 26 candles | Open positions: 9
+2025-10-16 13:00:01,394 [INFO] [2025-10-16 10:00:00 UTC] PERPUSDT LONG BUY at ~0.2326 | Open positions: 9
+2025-10-16 13:00:01,437 [INFO] [2025-10-16 10:00:00 UTC] TUSDT LONG BUY at ~0.01296 | Open positions: 9
+2025-10-16 13:00:02,160 [INFO] [2025-10-16 10:00:00 UTC] LQTYUSDT LONG BUY at ~0.5474 | Open positions: 9
+2025-10-16 13:00:02,530 [INFO] [2025-10-16 10:00:00 UTC] CKBUSDT skipped (max positions reached).
+2025-10-16 13:00:02,532 [INFO] [2025-10-16 10:00:00 UTC] ADAUSDT LONG BUY at ~0.6727 | Open positions: 10
+2025-10-16 13:00:03,348 [INFO] [2025-10-16 10:00:00 UTC] CKBUSDT LONG BUY at ~0.003443 | Open positions: 10
+2025-10-16 14:30:01,588 [INFO] [2025-10-16 11:30:00 UTC] TUSDT SELL at ~0.01294 | Held 3 candles | Open positions: 9
+2025-10-16 14:30:01,617 [INFO] [2025-10-16 11:30:00 UTC] SUIUSDT SELL at ~2.6964 | Held 6 candles | Open positions: 8
+2025-10-16 15:00:02,232 [INFO] [2025-10-16 12:00:00 UTC] RDNTUSDT SELL at ~0.02332 | Held 5 candles | Open positions: 7
+2025-10-16 17:30:00,958 [INFO] [2025-10-16 14:30:00 UTC] ADAUSDT SELL at ~0.6658 | Held 9 candles | Open positions: 6
+2025-10-16 17:30:00,984 [INFO] [2025-10-16 14:30:00 UTC] PERPUSDT SELL at ~0.2283 | Held 9 candles | Open positions: 5
+2025-10-16 18:00:00,846 [INFO] [2025-10-16 15:00:00 UTC] AVAXUSDT SELL at ~21.821 | Held 5 candles | Open positions: 4
+2025-10-16 18:00:03,598 [INFO] [2025-10-16 15:00:00 UTC] LQTYUSDT SELL at ~0.5419 | Held 5 candles | Open positions: 3
+2025-10-16 18:00:03,616 [INFO] [2025-10-16 15:00:00 UTC] CKBUSDT SELL at ~0.003427 | Held 10 candles | Open positions: 2
+2025-10-16 19:30:00,727 [INFO] [2025-10-16 16:30:00 UTC] RSRUSDT SELL at ~0.006436 | Held 28 candles | Open positions: 1
+2025-10-16 22:46:05,015 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-16 22:46:13,799 [INFO] [Combined WS] Connected to 53 streams
+2025-10-17 07:00:01,473 [INFO] [2025-10-17 04:00:00 UTC] MAGICUSDT LONG BUY at ~0.1519 | Open positions: 2
+2025-10-17 09:00:02,301 [INFO] [2025-10-17 06:00:00 UTC] MAGICUSDT SELL at ~0.1467 | Held 2 candles | Open positions: 1
+2025-10-17 15:00:02,340 [INFO] [2025-10-17 12:00:00 UTC] PHBUSDT LONG BUY at ~0.4911 | Open positions: 2
+2025-10-18 01:05:00,264 [INFO] [Combined WS] Connection error: no close frame received or sent. Reconnecting in 0.1s...
+2025-10-18 01:05:01,893 [INFO] [Combined WS] Connected to 53 streams
+2025-10-18 10:30:01,696 [INFO] [2025-10-18 07:30:00 UTC] CKBUSDT LONG BUY at ~0.003267 | Open positions: 3
+2025-10-18 10:30:03,503 [INFO] [2025-10-18 07:30:00 UTC] TUSDT LONG BUY at ~0.012 | Open positions: 4
+2025-10-18 11:30:01,327 [INFO] [2025-10-18 08:30:00 UTC] TUSDT SELL at ~0.01198 | Held 2 candles | Open positions: 3
+2025-10-18 13:00:02,329 [INFO] [2025-10-18 10:00:00 UTC] UMAUSDT LONG BUY at ~1.094 | Open positions: 4
+2025-10-18 16:00:05,728 [INFO] [2025-10-18 13:00:00 UTC] CKBUSDT SELL at ~0.003258 | Held 11 candles | Open positions: 3
+2025-10-18 21:00:02,644 [INFO] [2025-10-18 18:00:00 UTC] LQTYUSDT LONG BUY at ~0.5128 | Open positions: 4
+2025-10-18 21:30:02,960 [INFO] [2025-10-18 18:30:00 UTC] LQTYUSDT SELL at ~0.5099 | Held 1 candles | Open positions: 3
+2025-10-19 02:00:05,000 [INFO] [2025-10-18 23:00:00 UTC] PHBUSDT SELL at ~0.5326 | Held 35 candles | Open positions: 2
+2025-10-19 11:30:00,945 [INFO] [2025-10-19 08:30:00 UTC] UMAUSDT SELL at ~1.116 | Held 45 candles | Open positions: 1
+2025-10-19 12:45:02,502 [INFO] [2025-10-19 09:45:00 UTC] CKBUSDT LONG BUY at ~0.003249 | Open positions: 2
+2025-10-19 13:00:00,989 [INFO] [2025-10-19 10:00:00 UTC] FXSUSDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-10-19 13:00:01,247 [INFO] [2025-10-19 10:00:00 UTC] SEIUSDT LONG BUY at ~0.1935 | Open positions: 6
+2025-10-19 13:00:01,378 [INFO] [2025-10-19 10:00:00 UTC] SUIUSDT LONG BUY at ~2.4968 | Open positions: 6
+2025-10-19 13:00:01,644 [INFO] [2025-10-19 10:00:00 UTC] CKBUSDT LONG BUY at ~0.003272 | Open positions: 6
+2025-10-19 14:00:00,876 [INFO] [2025-10-19 11:00:00 UTC] AVAXUSDT LONG BUY at ~20.427 | Open positions: 7
+2025-10-19 15:00:01,838 [INFO] [2025-10-19 12:00:00 UTC] LQTYUSDT LONG BUY at ~0.532 | Open positions: 9
+2025-10-19 15:00:01,839 [INFO] [2025-10-19 12:00:00 UTC] LQTYUSDT LONG BUY at ~0.532 | Open positions: 9
+2025-10-19 16:00:01,385 [INFO] [2025-10-19 13:00:00 UTC] CKBUSDT SELL at ~0.003319 | Held 13 candles | Open positions: 9
+2025-10-19 16:00:02,748 [INFO] [2025-10-19 13:00:00 UTC] API3USDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-10-19 17:00:00,323 [INFO] [2025-10-19 14:00:00 UTC] STXUSDT skipped (max positions reached).
+2025-10-19 17:00:00,622 [INFO] [2025-10-19 14:00:00 UTC] HIGHUSDT skipped (max positions reached).
+2025-10-19 17:00:00,740 [INFO] [2025-10-19 14:00:00 UTC] STXUSDT LONG BUY at ~0.4572 | Open positions: 10
+2025-10-19 18:00:00,725 [INFO] [2025-10-19 15:00:00 UTC] STXUSDT skipped (max positions reached).
+2025-10-19 18:30:00,464 [INFO] [2025-10-19 15:30:00 UTC] FETUSDT skipped (max positions reached).
+2025-10-19 19:00:00,493 [INFO] [2025-10-19 16:00:00 UTC] FETUSDT skipped (max positions reached).
+2025-10-19 19:00:00,503 [INFO] [2025-10-19 16:00:00 UTC] FETUSDT skipped (max positions reached).
+2025-10-19 20:00:00,610 [INFO] [2025-10-19 17:00:00 UTC] FETUSDT skipped (max positions reached).
+2025-10-19 20:00:02,046 [INFO] [2025-10-19 17:00:00 UTC] STXUSDT SELL at ~0.4477 | Held 6 candles | Open positions: 9
+2025-10-19 20:30:02,334 [INFO] [2025-10-19 17:30:00 UTC] SEIUSDT SELL at ~0.1988 | Held 15 candles | Open positions: 8
+2025-10-19 20:30:03,577 [INFO] [2025-10-19 17:30:00 UTC] QNTUSDT LONG BUY at ~84.48 | Open positions: 9
+2025-10-19 22:00:01,238 [INFO] [2025-10-19 19:00:00 UTC] QNTUSDT SELL at ~84.21 | Held 3 candles | Open positions: 8
+2025-10-19 22:00:03,843 [INFO] [2025-10-19 19:00:00 UTC] CKBUSDT SELL at ~0.003378 | Held 18 candles | Open positions: 7
+2025-10-19 22:45:00,850 [INFO] [2025-10-19 19:45:00 UTC] SUIUSDT SELL at ~2.6057 | Held 39 candles | Open positions: 6
+2025-10-20 03:00:02,057 [INFO] [2025-10-20 00:00:00 UTC] LQTYUSDT SELL at ~0.5447 | Held 12 candles | Open positions: 5
+2025-10-20 03:00:02,070 [INFO] [2025-10-20 00:00:00 UTC] AVAXUSDT SELL at ~20.582 | Held 13 candles | Open positions: 4
+2025-10-20 07:00:01,557 [INFO] [2025-10-20 04:00:00 UTC] SUIUSDT LONG BUY at ~2.6252 | Open positions: 5
+2025-10-20 08:30:01,913 [INFO] [2025-10-20 05:30:00 UTC] LQTYUSDT SELL at ~0.5536 | Held 35 candles | Open positions: 4
+2025-10-20 09:00:01,247 [INFO] [2025-10-20 06:00:00 UTC] FXSUSDT LONG BUY at ~1.4277 | Open positions: 6
+2025-10-20 09:00:01,294 [INFO] [2025-10-20 06:00:00 UTC] FXSUSDT LONG BUY at ~1.4277 | Open positions: 6
+2025-10-20 10:00:01,807 [INFO] [2025-10-20 07:00:00 UTC] STXUSDT LONG BUY at ~0.4496 | Open positions: 7
+2025-10-20 10:45:00,898 [INFO] [2025-10-20 07:45:00 UTC] FXSUSDT SELL at ~1.4219 | Held 7 candles | Open positions: 6
+2025-10-20 12:30:01,340 [INFO] [2025-10-20 09:30:00 UTC] STXUSDT SELL at ~0.4449 | Held 5 candles | Open positions: 5
+2025-10-20 13:00:00,967 [INFO] [2025-10-20 10:00:00 UTC] QNTUSDT LONG BUY at ~87.35 | Open positions: 7
+2025-10-20 13:00:01,030 [INFO] [2025-10-20 10:00:00 UTC] TUSDT LONG BUY at ~0.01295 | Open positions: 7
+2025-10-20 13:30:01,482 [INFO] [2025-10-20 10:30:00 UTC] INJUSDT LONG BUY at ~8.849 | Open positions: 8
+2025-10-20 15:45:00,704 [INFO] [2025-10-20 12:45:00 UTC] SUIUSDT SELL at ~2.6219 | Held 35 candles | Open positions: 7
+2025-10-20 18:30:00,788 [INFO] [2025-10-20 15:30:00 UTC] JASMYUSDT LONG BUY at ~0.010798 | Open positions: 8
+2025-10-20 19:00:02,614 [INFO] [2025-10-20 16:00:00 UTC] QNTUSDT SELL at ~85.9 | Held 12 candles | Open positions: 7
+2025-10-20 19:00:02,633 [INFO] [2025-10-20 16:00:00 UTC] TUSDT SELL at ~0.01265 | Held 12 candles | Open positions: 6
+2025-10-20 21:00:02,216 [INFO] [2025-10-20 18:00:00 UTC] INJUSDT SELL at ~8.765 | Held 15 candles | Open positions: 5
+2025-10-20 22:00:02,201 [INFO] [2025-10-20 19:00:00 UTC] JASMYUSDT SELL at ~0.010405 | Held 7 candles | Open positions: 4
+2025-10-21 00:00:01,630 [INFO] [2025-10-20 21:00:00 UTC] FXSUSDT SELL at ~1.3974 | Held 30 candles | Open positions: 3
+2025-10-21 17:15:01,925 [INFO] [2025-10-21 14:15:00 UTC] SUIUSDT LONG BUY at ~2.5477 | Open positions: 4
+2025-10-21 17:30:02,092 [INFO] [2025-10-21 14:30:00 UTC] WLDUSDT LONG BUY at ~0.9153 | Open positions: 5
+2025-10-21 18:00:01,160 [INFO] [2025-10-21 15:00:00 UTC] AVAXUSDT skipped (max positions reached).
+2025-10-21 18:00:01,191 [INFO] [2025-10-21 15:00:00 UTC] ICPUSDT skipped (max positions reached).
+2025-10-21 18:00:01,195 [INFO] [2025-10-21 15:00:00 UTC] NEARUSDT skipped (max positions reached).
+2025-10-21 18:00:01,202 [INFO] [2025-10-21 15:00:00 UTC] WLDUSDT skipped (max positions reached).
+2025-10-21 18:00:02,059 [INFO] [2025-10-21 15:00:00 UTC] BTCUSDT LONG BUY at ~112127.5 | Open positions: 10
+2025-10-21 18:00:02,060 [INFO] [2025-10-21 15:00:00 UTC] DOTUSDT LONG BUY at ~3.128 | Open positions: 10
+2025-10-21 18:00:02,062 [INFO] [2025-10-21 15:00:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0072139 | Open positions: 10
+2025-10-21 18:00:02,062 [INFO] [2025-10-21 15:00:00 UTC] INJUSDT LONG BUY at ~8.972 | Open positions: 10
+2025-10-21 18:00:02,063 [INFO] [2025-10-21 15:00:00 UTC] ADAUSDT LONG BUY at ~0.674 | Open positions: 10
+2025-10-21 18:00:02,528 [INFO] [2025-10-21 15:00:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-10-21 18:30:00,641 [INFO] [2025-10-21 15:30:00 UTC] SEIUSDT skipped (max positions reached).
+2025-10-21 18:30:00,658 [INFO] [2025-10-21 15:30:00 UTC] ADAUSDT skipped (max positions reached).
+2025-10-21 18:30:01,091 [INFO] [2025-10-21 15:30:00 UTC] QNTUSDT skipped (max positions reached).
+2025-10-21 18:30:01,104 [INFO] [2025-10-21 15:30:00 UTC] RSRUSDT skipped (max positions reached).
+2025-10-21 18:30:02,138 [INFO] [2025-10-21 15:30:00 UTC] FXSUSDT skipped (max positions reached).
+2025-10-21 18:30:02,895 [INFO] [2025-10-21 15:30:00 UTC] PERPUSDT skipped (max positions reached).
+2025-10-21 19:00:00,479 [INFO] [2025-10-21 16:00:00 UTC] SOLUSDT skipped (max positions reached).
+2025-10-21 19:00:01,052 [INFO] [2025-10-21 16:00:00 UTC] AVAXUSDT skipped (max positions reached).
+2025-10-21 19:00:01,100 [INFO] [2025-10-21 16:00:00 UTC] NEARUSDT skipped (max positions reached).
+2025-10-21 19:00:01,133 [INFO] [2025-10-21 16:00:00 UTC] LQTYUSDT skipped (max positions reached).
+2025-10-21 19:00:01,137 [INFO] [2025-10-21 16:00:00 UTC] ICPUSDT skipped (max positions reached).
+2025-10-21 19:00:01,808 [INFO] [2025-10-21 16:00:00 UTC] SEIUSDT skipped (max positions reached).
+2025-10-21 19:00:02,203 [INFO] [2025-10-21 16:00:00 UTC] YFIUSDT skipped (max positions reached).
+2025-10-21 19:00:03,282 [INFO] [2025-10-21 16:00:00 UTC] RUNEUSDT skipped (max positions reached).
+2025-10-21 19:15:00,784 [INFO] [2025-10-21 16:15:00 UTC] 1000PEPEUSDT SELL at ~0.007344 | Held 5 candles | Open positions: 9
+2025-10-21 19:30:01,132 [INFO] [2025-10-21 16:30:00 UTC] RSRUSDT LONG BUY at ~0.006303 | Open positions: 10
+2025-10-21 20:00:00,868 [INFO] [2025-10-21 17:00:00 UTC] ZENUSDT skipped (max positions reached).
+2025-10-21 20:00:01,520 [INFO] [2025-10-21 17:00:00 UTC] ADAUSDT SELL at ~0.6701 | Held 2 candles | Open positions: 9
+2025-10-21 20:15:01,145 [INFO] [2025-10-21 17:15:00 UTC] 1000PEPEUSDT LONG BUY at ~0.0072357 | Open positions: 10
+2025-10-21 20:30:00,249 [INFO] [2025-10-21 17:30:00 UTC] SOLUSDT skipped (max positions reached).
+2025-10-21 21:30:01,098 [INFO] [2025-10-21 18:30:00 UTC] 1000PEPEUSDT SELL at ~0.0072 | Held 5 candles | Open positions: 9
+2025-10-21 23:00:01,283 [INFO] [2025-10-21 20:00:00 UTC] BTCUSDT SELL at ~111720.7 | Held 5 candles | Open positions: 8
+2025-10-22 01:30:02,284 [INFO] [2025-10-21 22:30:00 UTC] INJUSDT SELL at ~8.628 | Held 15 candles | Open positions: 7
+2025-10-22 01:45:01,147 [INFO] [2025-10-21 22:45:00 UTC] SUIUSDT SELL at ~2.5262 | Held 34 candles | Open positions: 6
+2025-10-22 02:30:00,711 [INFO] [2025-10-21 23:30:00 UTC] WLDUSDT SELL at ~0.8957 | Held 18 candles | Open positions: 5
+2025-10-22 10:57:12,726 [INFO] [Combined WS] Connected to 53 streams
+2025-10-22 14:30:00,911 [INFO] [2025-10-22 11:30:00 UTC] STXUSDT LONG BUY at ~0.4262 | Open positions: 1
+2025-10-22 17:45:00,637 [INFO] [2025-10-22 14:45:00 UTC] SUIUSDT LONG BUY at ~2.4261 | Open positions: 2
+2025-10-22 18:00:01,023 [INFO] [2025-10-22 15:00:00 UTC] BTCUSDT LONG BUY at ~108912.7 | Open positions: 3
+2025-10-22 20:00:00,946 [INFO] [2025-10-22 17:00:00 UTC] STXUSDT SELL at ~0.4258 | Held 11 candles | Open positions: 2
+2025-10-22 21:00:00,821 [INFO] [2025-10-22 18:00:00 UTC] BTCUSDT SELL at ~107743.4 | Held 3 candles | Open positions: 1
+2025-10-22 21:45:00,598 [INFO] [2025-10-22 18:45:00 UTC] SUIUSDT SELL at ~2.4072 | Held 16 candles | Open positions: 0
+2025-10-23 06:00:00,933 [INFO] [2025-10-23 03:00:00 UTC] MAGICUSDT LONG BUY at ~0.141 | Open positions: 1
+2025-10-23 08:00:00,523 [INFO] [2025-10-23 05:00:00 UTC] RUNEUSDT LONG BUY at ~0.853 | Open positions: 2
+2025-10-23 08:00:01,722 [INFO] [2025-10-23 05:00:00 UTC] MAGICUSDT SELL at ~0.1387 | Held 2 candles | Open positions: 1
+2025-10-23 10:00:00,606 [INFO] [2025-10-23 07:00:00 UTC] JASMYUSDT LONG BUY at ~0.010676 | Open positions: 2
+2025-10-23 12:30:00,601 [INFO] [2025-10-23 09:30:00 UTC] FETUSDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-10-23 13:00:01,964 [INFO] [2025-10-23 10:00:00 UTC] FETUSDT Order failed: APIError(code=-4164): Order's notional must be no smaller than 5 (unless you choose reduce only).
+2025-10-23 13:45:06,711 [INFO] Stopped by user.
+2025-10-28 17:59:43,472 [INFO] [Combined WS] Connected to 36 streams
+2025-10-28 17:59:59,715 [INFO] Stopped by user.
+2025-10-28 18:03:17,215 [INFO] [Combined WS] Connected to 36 streams
+2025-10-28 18:03:29,537 [INFO] Stopped by user.
+2025-10-28 18:40:06,202 [INFO] [Combined WS] Connected to 36 streams
+2025-10-28 18:40:17,384 [INFO] Stopped by user.
+2025-10-29 16:16:35,040 [INFO] [Combined WS] Connected to 36 streams
+2025-10-29 16:20:27,195 [INFO] [Combined WS] Connected to 36 streams
+2025-10-29 17:40:30,990 [INFO] [Combined WS] Connected to 30 streams

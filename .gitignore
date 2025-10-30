@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Secrets
+src/.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MacOS
+.DS_Store
+
+# Local data folders
+src/data/
+src/data_feather/
+
+# Live trading websocket data
+src/vwap_strategy/live_trading/websocketDataLong/
+src/vwap_strategy/live_trading/websocketDataShort/
+src/momentum_strategy/live_trading/websocketDataLong/
+src/momentum_strategy/live_trading/websocketDataRobustShort/
+src/momentum_strategy/live_trading/websocketDataShort/

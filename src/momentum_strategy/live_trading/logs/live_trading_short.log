@@ -1,0 +1,284 @@
+2025-09-27 20:02:23,144 [INFO] [Combined WS] Connected to 46 streams
+2025-09-27 20:15:03,309 [INFO] [2025-09-27 17:15:00 UTC] SUSDT SHORT SELL at ~0.2347 | Open positions: 1
+2025-09-28 01:15:01,110 [INFO] [2025-09-27 22:15:00 UTC] SUSDT SHORT BUY (cover) at ~0.2383 | Held 20 candles | Open positions: 0
+2025-09-28 02:23:26,106 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-28 02:23:27,542 [INFO] [Combined WS] Connected to 46 streams
+2025-09-28 02:30:03,666 [INFO] [2025-09-27 23:30:00 UTC] RIFUSDT SHORT SELL at ~0.05595 | Open positions: 1
+2025-09-28 04:30:00,727 [INFO] [2025-09-28 01:30:00 UTC] CATIUSDT SHORT SELL at ~0.08289 | Open positions: 2
+2025-09-28 04:45:03,632 [INFO] [2025-09-28 01:45:00 UTC] DEGENUSDT SHORT SELL at ~0.002822 | Open positions: 3
+2025-09-28 05:30:00,956 [INFO] [2025-09-28 02:30:00 UTC] CATIUSDT SHORT BUY (cover) at ~0.08348 | Held 2 candles | Open positions: 2
+2025-09-28 06:00:04,443 [INFO] [2025-09-28 03:00:00 UTC] BSVUSDT SHORT SELL at ~22.79 | Open positions: 3
+2025-09-28 11:00:02,832 [INFO] [2025-09-28 08:00:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002829 | Held 25 candles | Open positions: 2
+2025-09-28 12:00:01,087 [INFO] [2025-09-28 09:00:00 UTC] ACXUSDT SHORT SELL at ~0.1076 | Open positions: 3
+2025-09-28 13:00:00,984 [INFO] [2025-09-28 10:00:00 UTC] HIGHUSDT SHORT SELL at ~0.4576 | Open positions: 4
+2025-09-28 14:00:01,499 [INFO] [2025-09-28 11:00:00 UTC] ACXUSDT SHORT BUY (cover) at ~0.1084 | Held 2 candles | Open positions: 3
+2025-09-28 16:32:06,184 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-28 16:32:08,724 [INFO] [Combined WS] Connected to 46 streams
+2025-09-28 20:00:01,818 [INFO] [2025-09-28 17:00:00 UTC] HIGHUSDT SHORT BUY (cover) at ~0.4648 | Held 7 candles | Open positions: 2
+2025-09-28 20:30:03,799 [INFO] [2025-09-28 17:30:00 UTC] RIFUSDT SHORT BUY (cover) at ~0.05558 | Held 36 candles | Open positions: 1
+2025-09-28 23:00:01,624 [INFO] [2025-09-28 20:00:00 UTC] HIFIUSDT SHORT SELL at ~0.13767 | Open positions: 2
+2025-09-28 23:00:03,598 [INFO] [2025-09-28 20:00:00 UTC] BSVUSDT SHORT BUY (cover) at ~23.19 | Held 17 candles | Open positions: 1
+2025-09-29 00:00:00,597 [INFO] [2025-09-28 21:00:00 UTC] HIFIUSDT SHORT BUY (cover) at ~0.14391 | Held 1 candles | Open positions: 0
+2025-09-29 06:00:02,631 [INFO] [2025-09-29 03:00:00 UTC] NTRNUSDT SHORT SELL at ~0.08038 | Open positions: 1
+2025-09-29 09:00:00,535 [INFO] [2025-09-29 06:00:00 UTC] HIFIUSDT SHORT SELL at ~0.12529 | Open positions: 2
+2025-09-29 12:00:04,981 [INFO] [2025-09-29 09:00:00 UTC] NTRNUSDT SHORT BUY (cover) at ~0.0811 | Held 6 candles | Open positions: 1
+2025-09-29 13:45:03,565 [INFO] [2025-09-29 10:45:00 UTC] SUSDT SHORT SELL at ~0.2417 | Open positions: 2
+2025-09-29 14:00:00,938 [INFO] [2025-09-29 11:00:00 UTC] HIFIUSDT SHORT BUY (cover) at ~0.12882 | Held 5 candles | Open positions: 1
+2025-09-29 14:15:03,622 [INFO] [2025-09-29 11:15:00 UTC] DEGENUSDT SHORT SELL at ~0.00283 | Open positions: 2
+2025-09-29 14:30:02,286 [INFO] [2025-09-29 11:30:00 UTC] BOMEUSDT SHORT SELL at ~0.001599 | Open positions: 3
+2025-09-29 14:30:03,496 [INFO] [2025-09-29 11:30:00 UTC] AUCTIONUSDT SHORT SELL at ~8.528 | Open positions: 4
+2025-09-29 16:00:00,570 [INFO] [2025-09-29 13:00:00 UTC] HIFIUSDT SHORT SELL at ~0.11389 | Open positions: 5
+2025-09-29 16:00:00,907 [INFO] [2025-09-29 13:00:00 UTC] PIXELUSDT SHORT SELL at ~0.02651 | Open positions: 6
+2025-09-29 16:45:01,827 [INFO] [2025-09-29 13:45:00 UTC] SUSDT SHORT BUY (cover) at ~0.2422 | Held 12 candles | Open positions: 5
+2025-09-29 17:00:00,682 [INFO] [2025-09-29 14:00:00 UTC] AUCTIONUSDT SHORT BUY (cover) at ~8.56 | Held 5 candles | Open positions: 4
+2025-09-29 17:00:00,773 [INFO] [2025-09-29 14:00:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002886 | Held 11 candles | Open positions: 3
+2025-09-29 20:00:01,188 [INFO] [2025-09-29 17:00:00 UTC] DEGENUSDT SHORT SELL at ~0.002827 | Open positions: 5
+2025-09-29 20:00:03,425 [INFO] [2025-09-29 17:00:00 UTC] ACXUSDT SHORT SELL at ~0.1111 | Open positions: 5
+2025-09-29 20:30:01,152 [INFO] [2025-09-29 17:30:00 UTC] ZETAUSDT SHORT SELL at ~0.1638 | Open positions: 6
+2025-09-29 20:45:02,125 [INFO] [2025-09-29 17:45:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002847 | Held 3 candles | Open positions: 5
+2025-09-29 21:00:01,134 [INFO] [2025-09-29 18:00:00 UTC] HIFIUSDT SHORT BUY (cover) at ~0.11854 | Held 5 candles | Open positions: 4
+2025-09-29 21:00:03,633 [INFO] [2025-09-29 18:00:00 UTC] ZETAUSDT SHORT BUY (cover) at ~0.1657 | Held 1 candles | Open positions: 3
+2025-09-29 23:00:02,382 [INFO] [2025-09-29 20:00:00 UTC] ACXUSDT SHORT BUY (cover) at ~0.1118 | Held 3 candles | Open positions: 2
+2025-09-30 00:00:02,716 [INFO] [2025-09-29 21:00:00 UTC] BOMEUSDT SHORT BUY (cover) at ~0.001641 | Held 19 candles | Open positions: 1
+2025-09-30 00:30:03,646 [INFO] [2025-09-29 21:30:00 UTC] PIXELUSDT SHORT BUY (cover) at ~0.02733 | Held 17 candles | Open positions: 0
+2025-09-30 03:14:59,223 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-30 03:15:00,628 [INFO] [Combined WS] Connected to 46 streams
+2025-09-30 03:30:03,544 [INFO] [2025-09-30 00:30:00 UTC] DEGENUSDT SHORT SELL at ~0.002825 | Open positions: 1
+2025-09-30 04:00:00,962 [INFO] [2025-09-30 01:00:00 UTC] NTRNUSDT SHORT SELL at ~0.07574 | Open positions: 2
+2025-09-30 04:00:04,060 [INFO] [2025-09-30 01:00:00 UTC] CHESSUSDT SHORT SELL at ~0.0593 | Open positions: 3
+2025-09-30 09:30:01,040 [INFO] [2025-09-30 06:30:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002822 | Held 24 candles | Open positions: 2
+2025-09-30 10:00:03,941 [INFO] [2025-09-30 07:00:00 UTC] DEGENUSDT SHORT SELL at ~0.002814 | Open positions: 3
+2025-09-30 10:15:03,565 [INFO] [2025-09-30 07:15:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002822 | Held 1 candles | Open positions: 2
+2025-09-30 12:15:03,492 [INFO] [2025-09-30 09:15:00 UTC] DEGENUSDT SHORT SELL at ~0.002789 | Open positions: 3
+2025-09-30 13:00:01,170 [INFO] [2025-09-30 10:00:00 UTC] WAXPUSDT SHORT SELL at ~0.01707 | Open positions: 6
+2025-09-30 13:00:01,217 [INFO] [2025-09-30 10:00:00 UTC] POLYXUSDT SHORT SELL at ~0.11063 | Open positions: 6
+2025-09-30 13:00:01,792 [INFO] [2025-09-30 10:00:00 UTC] HIPPOUSDT SHORT SELL at ~0.003283 | Open positions: 6
+2025-09-30 13:00:03,518 [INFO] [2025-09-30 10:00:00 UTC] RONINUSDT SHORT SELL at ~0.4658 | Open positions: 7
+2025-09-30 14:00:00,812 [INFO] [2025-09-30 11:00:00 UTC] RONINUSDT SHORT BUY (cover) at ~0.4695 | Held 1 candles | Open positions: 6
+2025-09-30 14:30:00,597 [INFO] [2025-09-30 11:30:00 UTC] PORTALUSDT SHORT SELL at ~0.03512 | Open positions: 7
+2025-09-30 15:00:01,866 [INFO] [2025-09-30 12:00:00 UTC] XAIUSDT SHORT SELL at ~0.03967 | Open positions: 8
+2025-09-30 15:30:01,195 [INFO] [2025-09-30 12:30:00 UTC] AUCTIONUSDT SHORT SELL at ~8.278 | Open positions: 9
+2025-09-30 16:00:01,093 [INFO] [2025-09-30 13:00:00 UTC] AUCTIONUSDT SHORT SELL at ~8.265 | Open positions: 10
+2025-09-30 16:00:02,828 [INFO] [2025-09-30 13:00:00 UTC] GTCUSDT skipped (max positions reached).
+2025-09-30 16:00:03,442 [INFO] [2025-09-30 13:00:00 UTC] RONINUSDT skipped (max positions reached).
+2025-09-30 16:15:00,344 [INFO] [2025-09-30 13:15:00 UTC] SUSDT skipped (max positions reached).
+2025-09-30 16:30:03,530 [INFO] [2025-09-30 13:30:00 UTC] CHESSUSDT SHORT BUY (cover) at ~0.05861 | Held 25 candles | Open positions: 9
+2025-09-30 17:00:03,736 [INFO] [2025-09-30 14:00:00 UTC] HIPPOUSDT SHORT BUY (cover) at ~0.003269 | Held 4 candles | Open positions: 8
+2025-09-30 18:30:00,872 [INFO] [2025-09-30 15:30:00 UTC] SAGAUSDT SHORT SELL at ~0.1957 | Open positions: 9
+2025-09-30 18:30:01,273 [INFO] [2025-09-30 15:30:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002703 | Held 25 candles | Open positions: 8
+2025-09-30 18:30:01,798 [INFO] [2025-09-30 15:30:00 UTC] PIXELUSDT SHORT SELL at ~0.02547 | Open positions: 9
+2025-09-30 18:30:02,997 [INFO] [2025-09-30 15:30:00 UTC] CHESSUSDT SHORT SELL at ~0.05733 | Open positions: 10
+2025-09-30 18:30:03,240 [INFO] [2025-09-30 15:30:00 UTC] ACEUSDT skipped (max positions reached).
+2025-09-30 18:30:03,246 [INFO] [2025-09-30 15:30:00 UTC] MBOXUSDT skipped (max positions reached).
+2025-09-30 18:33:22,790 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-30 18:33:24,167 [INFO] [Combined WS] Connected to 46 streams
+2025-09-30 19:00:01,559 [INFO] [2025-09-30 16:00:00 UTC] MANTAUSDT skipped (max positions reached).
+2025-09-30 19:00:01,777 [INFO] [2025-09-30 16:00:00 UTC] NFPUSDT skipped (max positions reached).
+2025-09-30 19:00:01,782 [INFO] [2025-09-30 16:00:00 UTC] GALAUSDT skipped (max positions reached).
+2025-09-30 19:00:01,846 [INFO] [2025-09-30 16:00:00 UTC] RONINUSDT skipped (max positions reached).
+2025-09-30 19:00:03,240 [INFO] [2025-09-30 16:00:00 UTC] DYMUSDT skipped (max positions reached).
+2025-09-30 20:00:00,270 [INFO] [2025-09-30 17:00:00 UTC] MEMEUSDT skipped (max positions reached).
+2025-09-30 21:00:01,111 [INFO] [2025-09-30 18:00:00 UTC] AUCTIONUSDT SHORT BUY (cover) at ~8.091 | Held 5 candles | Open positions: 9
+2025-09-30 21:30:01,310 [INFO] [2025-09-30 18:30:00 UTC] SAGAUSDT SHORT BUY (cover) at ~0.202 | Held 6 candles | Open positions: 8
+2025-09-30 21:45:03,577 [INFO] [2025-09-30 18:45:00 UTC] DEGENUSDT SHORT SELL at ~0.002754 | Open positions: 9
+2025-09-30 22:30:03,640 [INFO] [2025-09-30 19:30:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002769 | Held 3 candles | Open positions: 8
+2025-09-30 22:48:42,091 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-09-30 22:48:43,490 [INFO] [Combined WS] Connected to 46 streams
+2025-09-30 23:00:03,676 [INFO] [2025-09-30 20:00:00 UTC] PIXELUSDT SHORT BUY (cover) at ~0.02656 | Held 9 candles | Open positions: 7
+2025-10-01 00:00:00,639 [INFO] [2025-09-30 21:00:00 UTC] AUCTIONUSDT SHORT BUY (cover) at ~8.362 | Held 17 candles | Open positions: 6
+2025-10-01 00:00:00,812 [INFO] [2025-09-30 21:00:00 UTC] XAIUSDT SHORT BUY (cover) at ~0.04027 | Held 9 candles | Open positions: 5
+2025-10-01 00:00:00,898 [INFO] [2025-09-30 21:00:00 UTC] PORTALUSDT SHORT BUY (cover) at ~0.03579 | Held 19 candles | Open positions: 4
+2025-10-01 00:00:01,045 [INFO] [2025-09-30 21:00:00 UTC] CHESSUSDT SHORT BUY (cover) at ~0.05934 | Held 11 candles | Open positions: 3
+2025-10-01 05:00:03,668 [INFO] [2025-10-01 02:00:00 UTC] NTRNUSDT SHORT BUY (cover) at ~0.07699 | Held 25 candles | Open positions: 2
+2025-10-01 12:00:01,223 [INFO] [2025-10-01 09:00:00 UTC] WAXPUSDT SHORT BUY (cover) at ~0.01757 | Held 23 candles | Open positions: 1
+2025-10-01 12:00:02,200 [INFO] [2025-10-01 09:00:00 UTC] POLYXUSDT SHORT BUY (cover) at ~0.11777 | Held 23 candles | Open positions: 0
+2025-10-01 18:00:03,644 [INFO] [2025-10-01 15:00:00 UTC] DEGENUSDT SHORT SELL at ~0.002926 | Open positions: 1
+2025-10-01 18:45:03,572 [INFO] [2025-10-01 15:45:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002947 | Held 3 candles | Open positions: 0
+2025-10-01 19:30:02,803 [INFO] [2025-10-01 16:30:00 UTC] ZETAUSDT SHORT SELL at ~0.1621 | Open positions: 1
+2025-10-01 22:00:01,134 [INFO] [2025-10-01 19:00:00 UTC] ZETAUSDT SHORT BUY (cover) at ~0.1645 | Held 5 candles | Open positions: 0
+2025-10-02 02:00:00,621 [INFO] [2025-10-01 23:00:00 UTC] HIPPOUSDT SHORT SELL at ~0.003048 | Open positions: 1
+2025-10-02 06:52:46,325 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-02 06:52:47,719 [INFO] [Combined WS] Connected to 46 streams
+2025-10-02 07:30:01,188 [INFO] [2025-10-02 04:30:00 UTC] CATIUSDT SHORT SELL at ~0.08438 | Open positions: 2
+2025-10-02 08:00:02,092 [INFO] [2025-10-02 05:00:00 UTC] HIPPOUSDT SHORT BUY (cover) at ~0.003052 | Held 6 candles | Open positions: 1
+2025-10-02 08:30:04,115 [INFO] [2025-10-02 05:30:00 UTC] CATIUSDT SHORT BUY (cover) at ~0.08505 | Held 2 candles | Open positions: 0
+2025-10-02 17:45:01,154 [INFO] [2025-10-02 14:45:00 UTC] DEGENUSDT SHORT SELL at ~0.002974 | Open positions: 1
+2025-10-02 18:00:00,707 [INFO] [2025-10-02 15:00:00 UTC] BOMEUSDT SHORT SELL at ~0.001692 | Open positions: 6
+2025-10-02 18:00:00,910 [INFO] [2025-10-02 15:00:00 UTC] PORTALUSDT SHORT SELL at ~0.03711 | Open positions: 7
+2025-10-02 18:00:01,040 [INFO] [2025-10-02 15:00:00 UTC] SUSDT SHORT SELL at ~0.2778 | Open positions: 7
+2025-10-02 18:00:01,043 [INFO] [2025-10-02 15:00:00 UTC] SAGAUSDT SHORT SELL at ~0.2142 | Open positions: 7
+2025-10-02 18:00:01,207 [INFO] [2025-10-02 15:00:00 UTC] CATIUSDT SHORT SELL at ~0.08205 | Open positions: 7
+2025-10-02 18:00:01,777 [INFO] [2025-10-02 15:00:00 UTC] AUCTIONUSDT SHORT SELL at ~8.588 | Open positions: 8
+2025-10-02 18:00:02,270 [INFO] [2025-10-02 15:00:00 UTC] PIXELUSDT SHORT SELL at ~0.02767 | Open positions: 8
+2025-10-02 18:00:03,570 [INFO] [2025-10-02 15:00:00 UTC] MBOXUSDT SHORT SELL at ~0.05718 | Open positions: 10
+2025-10-02 18:00:03,571 [INFO] [2025-10-02 15:00:00 UTC] ZETAUSDT SHORT SELL at ~0.1696 | Open positions: 10
+2025-10-02 18:30:00,541 [INFO] [2025-10-02 15:30:00 UTC] PORTALUSDT SHORT BUY (cover) at ~0.03761 | Held 1 candles | Open positions: 9
+2025-10-02 19:00:01,994 [INFO] [2025-10-02 16:00:00 UTC] ZETAUSDT SHORT BUY (cover) at ~0.1713 | Held 2 candles | Open positions: 8
+2025-10-02 19:00:02,137 [INFO] [2025-10-02 16:00:00 UTC] MBOXUSDT SHORT BUY (cover) at ~0.05752 | Held 2 candles | Open positions: 7
+2025-10-02 19:00:02,265 [INFO] [2025-10-02 16:00:00 UTC] CATIUSDT SHORT BUY (cover) at ~0.08237 | Held 2 candles | Open positions: 6
+2025-10-02 19:00:03,659 [INFO] [2025-10-02 16:00:00 UTC] PIXELUSDT SHORT BUY (cover) at ~0.02816 | Held 2 candles | Open positions: 5
+2025-10-02 19:15:02,528 [INFO] [2025-10-02 16:15:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.003033 | Held 6 candles | Open positions: 4
+2025-10-02 19:30:03,575 [INFO] [2025-10-02 16:30:00 UTC] SAGAUSDT SHORT BUY (cover) at ~0.2194 | Held 3 candles | Open positions: 3
+2025-10-02 20:30:02,843 [INFO] [2025-10-02 17:30:00 UTC] BOMEUSDT SHORT BUY (cover) at ~0.001736 | Held 5 candles | Open positions: 2
+2025-10-02 21:30:01,114 [INFO] [2025-10-02 18:30:00 UTC] SUSDT SHORT BUY (cover) at ~0.2816 | Held 14 candles | Open positions: 1
+2025-10-02 21:30:03,596 [INFO] [2025-10-02 18:30:00 UTC] AUCTIONUSDT SHORT BUY (cover) at ~8.751 | Held 7 candles | Open positions: 0
+2025-10-03 04:00:02,513 [INFO] [2025-10-03 01:00:00 UTC] ACXUSDT SHORT SELL at ~0.1189 | Open positions: 1
+2025-10-03 06:00:03,778 [INFO] [2025-10-03 03:00:00 UTC] ACXUSDT SHORT BUY (cover) at ~0.1199 | Held 2 candles | Open positions: 0
+2025-10-03 10:30:00,993 [INFO] [2025-10-03 07:30:00 UTC] 1000RATSUSDT SHORT SELL at ~0.02628 | Open positions: 1
+2025-10-03 11:13:21,530 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-03 11:13:22,978 [INFO] [Combined WS] Connected to 46 streams
+2025-10-03 13:00:03,717 [INFO] [2025-10-03 10:00:00 UTC] 1000RATSUSDT SHORT BUY (cover) at ~0.02703 | Held 5 candles | Open positions: 0
+2025-10-03 16:15:01,188 [INFO] [2025-10-03 13:15:00 UTC] DEGENUSDT SHORT SELL at ~0.002897 | Open positions: 1
+2025-10-03 17:30:02,138 [INFO] [2025-10-03 14:30:00 UTC] ACEUSDT SHORT SELL at ~0.4754 | Open positions: 2
+2025-10-03 18:00:01,046 [INFO] [2025-10-03 15:00:00 UTC] ACEUSDT SHORT BUY (cover) at ~0.4783 | Held 1 candles | Open positions: 1
+2025-10-03 18:45:03,543 [INFO] [2025-10-03 15:45:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.003001 | Held 10 candles | Open positions: 0
+2025-10-03 20:00:00,892 [INFO] [2025-10-03 17:00:00 UTC] MANTAUSDT SHORT SELL at ~0.1928 | Open positions: 1
+2025-10-03 20:30:00,732 [INFO] [2025-10-03 17:30:00 UTC] SAGAUSDT SHORT SELL at ~0.2182 | Open positions: 2
+2025-10-03 21:00:00,730 [INFO] [2025-10-03 18:00:00 UTC] 1000FLOKIUSDT SHORT SELL at ~0.08742 | Open positions: 5
+2025-10-03 21:00:00,812 [INFO] [2025-10-03 18:00:00 UTC] ORDIUSDT SHORT SELL at ~8.585 | Open positions: 5
+2025-10-03 21:00:01,183 [INFO] [2025-10-03 18:00:00 UTC] WLDUSDT SHORT SELL at ~1.3272 | Open positions: 5
+2025-10-03 21:00:02,680 [INFO] [2025-10-03 18:00:00 UTC] MEMEUSDT SHORT SELL at ~0.002507 | Open positions: 7
+2025-10-03 21:00:03,285 [INFO] [2025-10-03 18:00:00 UTC] DEGENUSDT SHORT SELL at ~0.002966 | Open positions: 10
+2025-10-03 21:00:03,777 [INFO] [2025-10-03 18:00:00 UTC] ACXUSDT SHORT SELL at ~0.1205 | Open positions: 10
+2025-10-03 21:00:03,799 [INFO] [2025-10-03 18:00:00 UTC] POLYXUSDT SHORT SELL at ~0.12232 | Open positions: 10
+2025-10-03 21:00:03,894 [INFO] [2025-10-03 18:00:00 UTC] GTCUSDT SHORT SELL at ~0.285 | Open positions: 10
+2025-10-03 21:15:02,416 [INFO] [2025-10-03 18:15:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002979 | Held 1 candles | Open positions: 9
+2025-10-03 21:30:00,618 [INFO] [2025-10-03 18:30:00 UTC] SAGAUSDT SHORT BUY (cover) at ~0.2183 | Held 2 candles | Open positions: 8
+2025-10-03 22:00:01,067 [INFO] [2025-10-03 19:00:00 UTC] ORDIUSDT SHORT BUY (cover) at ~8.768 | Held 1 candles | Open positions: 7
+2025-10-03 22:00:02,229 [INFO] [2025-10-03 19:00:00 UTC] MEMEUSDT SHORT BUY (cover) at ~0.002548 | Held 1 candles | Open positions: 6
+2025-10-03 22:00:03,719 [INFO] [2025-10-03 19:00:00 UTC] POLYXUSDT SHORT BUY (cover) at ~0.12351 | Held 1 candles | Open positions: 5
+2025-10-03 22:00:03,927 [INFO] [2025-10-03 19:00:00 UTC] GTCUSDT SHORT BUY (cover) at ~0.289 | Held 1 candles | Open positions: 4
+2025-10-03 23:00:01,390 [INFO] [2025-10-03 20:00:00 UTC] 1000FLOKIUSDT SHORT BUY (cover) at ~0.08914 | Held 2 candles | Open positions: 3
+2025-10-03 23:00:02,311 [INFO] [2025-10-03 20:00:00 UTC] ACXUSDT SHORT BUY (cover) at ~0.122 | Held 2 candles | Open positions: 2
+2025-10-04 00:00:00,677 [INFO] [2025-10-03 21:00:00 UTC] MANTAUSDT SHORT BUY (cover) at ~0.1943 | Held 4 candles | Open positions: 1
+2025-10-04 02:00:02,174 [INFO] [2025-10-03 23:00:00 UTC] WLDUSDT SHORT BUY (cover) at ~1.3469 | Held 5 candles | Open positions: 0
+2025-10-04 04:30:03,501 [INFO] [2025-10-04 01:30:00 UTC] SUSDT SHORT SELL at ~0.2783 | Open positions: 1
+2025-10-04 06:00:02,473 [INFO] [2025-10-04 03:00:00 UTC] AIUSDT SHORT SELL at ~0.12458 | Open positions: 2
+2025-10-04 11:11:04,018 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-04 11:11:05,386 [INFO] [Combined WS] Connected to 46 streams
+2025-10-04 12:00:00,639 [INFO] [2025-10-04 09:00:00 UTC] 1000FLOKIUSDT SHORT SELL at ~0.10912 | Open positions: 3
+2025-10-04 12:30:01,722 [INFO] [2025-10-04 09:30:00 UTC] SUSDT SHORT BUY (cover) at ~0.2793 | Held 32 candles | Open positions: 2
+2025-10-04 15:30:01,221 [INFO] [2025-10-04 12:30:00 UTC] ACEUSDT SHORT SELL at ~0.468 | Open positions: 3
+2025-10-04 18:00:00,771 [INFO] [2025-10-04 15:00:00 UTC] SUSDT SHORT SELL at ~0.274 | Open positions: 4
+2025-10-04 18:30:00,992 [INFO] [2025-10-04 15:30:00 UTC] SAGAUSDT SHORT SELL at ~0.2077 | Open positions: 5
+2025-10-04 18:45:01,222 [INFO] [2025-10-04 15:45:00 UTC] DEGENUSDT SHORT SELL at ~0.002875 | Open positions: 6
+2025-10-04 19:00:01,719 [INFO] [2025-10-04 16:00:00 UTC] DYMUSDT SHORT SELL at ~0.177 | Open positions: 8
+2025-10-04 19:00:01,720 [INFO] [2025-10-04 16:00:00 UTC] CHESSUSDT SHORT SELL at ~0.06028 | Open positions: 8
+2025-10-04 19:00:02,572 [INFO] [2025-10-04 16:00:00 UTC] CYBERUSDT SHORT SELL at ~1.663 | Open positions: 9
+2025-10-04 20:00:02,478 [INFO] [2025-10-04 17:00:00 UTC] 1000FLOKIUSDT SHORT BUY (cover) at ~0.10301 | Held 8 candles | Open positions: 8
+2025-10-04 21:00:00,685 [INFO] [2025-10-04 18:00:00 UTC] CYBERUSDT SHORT BUY (cover) at ~1.667 | Held 2 candles | Open positions: 7
+2025-10-04 23:32:14,907 [INFO] [Combined WS] Connection error: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 0.1s...
+2025-10-04 23:32:16,252 [INFO] [Combined WS] Connected to 46 streams
+2025-10-05 00:00:01,032 [INFO] [2025-10-04 21:00:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002886 | Held 21 candles | Open positions: 6
+2025-10-05 01:00:04,037 [INFO] [2025-10-04 22:00:00 UTC] SAGAUSDT SHORT BUY (cover) at ~0.2118 | Held 13 candles | Open positions: 5
+2025-10-05 02:00:04,900 [INFO] [2025-10-04 23:00:00 UTC] SUSDT SHORT BUY (cover) at ~0.2764 | Held 32 candles | Open positions: 4
+2025-10-05 03:00:02,545 [INFO] [2025-10-05 00:00:00 UTC] ACEUSDT SHORT BUY (cover) at ~0.4665 | Held 23 candles | Open positions: 3
+2025-10-05 06:00:01,502 [INFO] [2025-10-05 03:00:00 UTC] CHESSUSDT SHORT BUY (cover) at ~0.06194 | Held 22 candles | Open positions: 2
+2025-10-05 12:00:01,606 [INFO] [2025-10-05 09:00:00 UTC] DYMUSDT SHORT BUY (cover) at ~0.1904 | Held 17 candles | Open positions: 1
+2025-10-05 21:30:03,550 [INFO] [2025-10-05 18:30:00 UTC] RIFUSDT SHORT SELL at ~0.05643 | Open positions: 3
+2025-10-05 21:30:03,697 [INFO] [2025-10-05 18:30:00 UTC] MBOXUSDT SHORT SELL at ~0.05757 | Open positions: 3
+2025-10-05 23:30:04,119 [INFO] [2025-10-05 20:30:00 UTC] METISUSDT SHORT SELL at ~13.6 | Open positions: 4
+2025-10-06 02:00:00,582 [INFO] [2025-10-05 23:00:00 UTC] AIUSDT SHORT BUY (cover) at ~0.11904 | Held 44 candles | Open positions: 3
+2025-10-06 04:00:01,766 [INFO] [2025-10-06 01:00:00 UTC] DEGENUSDT SHORT SELL at ~0.002856 | Open positions: 4
+2025-10-06 04:30:02,597 [INFO] [2025-10-06 01:30:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002885 | Held 2 candles | Open positions: 3
+2025-10-06 05:00:03,280 [INFO] [2025-10-06 02:00:00 UTC] METISUSDT SHORT BUY (cover) at ~13.72 | Held 11 candles | Open positions: 2
+2025-10-06 06:00:00,613 [INFO] [2025-10-06 03:00:00 UTC] MAVUSDT SHORT SELL at ~0.05626 | Open positions: 3
+2025-10-06 07:00:03,483 [INFO] [2025-10-06 04:00:00 UTC] MBOXUSDT SHORT BUY (cover) at ~0.05861 | Held 19 candles | Open positions: 2
+2025-10-06 08:00:01,098 [INFO] [2025-10-06 05:00:00 UTC] NFPUSDT SHORT SELL at ~0.05971 | Open positions: 3
+2025-10-06 14:00:01,226 [INFO] [2025-10-06 11:00:00 UTC] NFPUSDT SHORT BUY (cover) at ~0.06102 | Held 6 candles | Open positions: 2
+2025-10-06 14:30:03,530 [INFO] [2025-10-06 11:30:00 UTC] RIFUSDT SHORT BUY (cover) at ~0.05646 | Held 34 candles | Open positions: 1
+2025-10-06 15:00:02,166 [INFO] [2025-10-06 12:00:00 UTC] SUSDT SHORT SELL at ~0.2747 | Open positions: 2
+2025-10-06 15:15:02,796 [INFO] [2025-10-06 12:15:00 UTC] SUSDT SHORT BUY (cover) at ~0.2763 | Held 1 candles | Open positions: 1
+2025-10-06 22:00:01,617 [INFO] [2025-10-06 19:00:00 UTC] MAVUSDT SHORT BUY (cover) at ~0.05959 | Held 16 candles | Open positions: 0
+2025-10-07 04:45:00,964 [INFO] [2025-10-07 01:45:00 UTC] DEGENUSDT SHORT SELL at ~0.002999 | Open positions: 1
+2025-10-07 07:30:00,638 [INFO] [2025-10-07 04:30:00 UTC] 1000RATSUSDT SHORT SELL at ~0.02619 | Open positions: 2
+2025-10-07 08:00:01,605 [INFO] [2025-10-07 05:00:00 UTC] 1000RATSUSDT SHORT SELL at ~0.0262 | Open positions: 3
+2025-10-07 11:00:04,323 [INFO] [2025-10-07 08:00:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002986 | Held 25 candles | Open positions: 2
+2025-10-07 11:15:00,920 [INFO] [2025-10-07 08:15:00 UTC] DEGENUSDT SHORT SELL at ~0.00297 | Open positions: 3
+2025-10-07 12:00:03,731 [INFO] [2025-10-07 09:00:00 UTC] BSVUSDT SHORT SELL at ~27.58 | Open positions: 4
+2025-10-07 12:45:03,608 [INFO] [2025-10-07 09:45:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.002988 | Held 6 candles | Open positions: 3
+2025-10-07 14:00:03,989 [INFO] [2025-10-07 11:00:00 UTC] 1000RATSUSDT SHORT BUY (cover) at ~0.02625 | Held 13 candles | Open positions: 2
+2025-10-07 14:30:02,351 [INFO] [2025-10-07 11:30:00 UTC] PIXELUSDT SHORT SELL at ~0.02795 | Open positions: 3
+2025-10-07 17:00:00,661 [INFO] [2025-10-07 14:00:00 UTC] ORDIUSDT SHORT SELL at ~8.733 | Open positions: 7
+2025-10-07 17:00:00,663 [INFO] [2025-10-07 14:00:00 UTC] SAGAUSDT SHORT SELL at ~0.2105 | Open positions: 7
+2025-10-07 17:00:00,664 [INFO] [2025-10-07 14:00:00 UTC] ORDIUSDT SHORT SELL at ~8.733 | Open positions: 7
+2025-10-07 17:00:00,708 [INFO] [2025-10-07 14:00:00 UTC] BOMEUSDT SHORT SELL at ~0.001763 | Open positions: 7
+2025-10-07 17:00:01,172 [INFO] [2025-10-07 14:00:00 UTC] 1000RATSUSDT SHORT BUY (cover) at ~0.02683 | Held 9 candles | Open positions: 7
+2025-10-07 17:00:01,328 [INFO] [2025-10-07 14:00:00 UTC] XAIUSDT SHORT SELL at ~0.04182 | Open positions: 8
+2025-10-07 17:00:01,602 [INFO] [2025-10-07 14:00:00 UTC] PORTALUSDT SHORT SELL at ~0.03851 | Open positions: 8
+2025-10-07 17:00:02,448 [INFO] [2025-10-07 14:00:00 UTC] AUCTIONUSDT SHORT SELL at ~8.525 | Open positions: 9
+2025-10-07 17:15:00,560 [INFO] [2025-10-07 14:15:00 UTC] SUSDT SHORT SELL at ~0.295 | Open positions: 10
+2025-10-07 17:15:00,629 [INFO] [2025-10-07 14:15:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-10-07 17:30:00,370 [INFO] [2025-10-07 14:30:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-10-07 17:30:00,512 [INFO] [2025-10-07 14:30:00 UTC] ZETAUSDT skipped (max positions reached).
+2025-10-07 18:00:00,190 [INFO] [2025-10-07 15:00:00 UTC] GMTUSDT skipped (max positions reached).
+2025-10-07 18:00:00,231 [INFO] [2025-10-07 15:00:00 UTC] ZETAUSDT skipped (max positions reached).
+2025-10-07 18:00:00,351 [INFO] [2025-10-07 15:00:00 UTC] GALAUSDT skipped (max positions reached).
+2025-10-07 18:00:00,365 [INFO] [2025-10-07 15:00:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-10-07 18:00:00,371 [INFO] [2025-10-07 15:00:00 UTC] MEMEUSDT skipped (max positions reached).
+2025-10-07 18:00:00,375 [INFO] [2025-10-07 15:00:00 UTC] WLDUSDT skipped (max positions reached).
+2025-10-07 18:00:00,384 [INFO] [2025-10-07 15:00:00 UTC] DYMUSDT skipped (max positions reached).
+2025-10-07 18:00:00,387 [INFO] [2025-10-07 15:00:00 UTC] WAXPUSDT skipped (max positions reached).
+2025-10-07 18:00:00,503 [INFO] [2025-10-07 15:00:00 UTC] MAVUSDT skipped (max positions reached).
+2025-10-07 18:00:00,525 [INFO] [2025-10-07 15:00:00 UTC] AUCTIONUSDT skipped (max positions reached).
+2025-10-07 18:00:00,590 [INFO] [2025-10-07 15:00:00 UTC] RONINUSDT skipped (max positions reached).
+2025-10-07 18:00:00,698 [INFO] [2025-10-07 15:00:00 UTC] MANTAUSDT skipped (max positions reached).
+2025-10-07 18:15:02,158 [INFO] [2025-10-07 15:15:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-10-07 18:30:00,246 [INFO] [2025-10-07 15:30:00 UTC] MBOXUSDT skipped (max positions reached).
+2025-10-07 18:30:00,285 [INFO] [2025-10-07 15:30:00 UTC] ACEUSDT skipped (max positions reached).
+2025-10-07 18:30:00,325 [INFO] [2025-10-07 15:30:00 UTC] ZETAUSDT skipped (max positions reached).
+2025-10-07 18:30:00,578 [INFO] [2025-10-07 15:30:00 UTC] GLMUSDT skipped (max positions reached).
+2025-10-07 18:30:00,836 [INFO] [2025-10-07 15:30:00 UTC] CHESSUSDT skipped (max positions reached).
+2025-10-07 18:30:03,270 [INFO] [2025-10-07 15:30:00 UTC] CATIUSDT skipped (max positions reached).
+2025-10-07 18:30:03,281 [INFO] [2025-10-07 15:30:00 UTC] METISUSDT skipped (max positions reached).
+2025-10-07 18:30:03,286 [INFO] [2025-10-07 15:30:00 UTC] RIFUSDT skipped (max positions reached).
+2025-10-07 18:45:00,793 [INFO] [2025-10-07 15:45:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-10-07 19:00:00,257 [INFO] [2025-10-07 16:00:00 UTC] HIPPOUSDT skipped (max positions reached).
+2025-10-07 19:00:01,485 [INFO] [2025-10-07 16:00:00 UTC] WOOUSDT skipped (max positions reached).
+2025-10-07 19:00:01,489 [INFO] [2025-10-07 16:00:00 UTC] WLDUSDT skipped (max positions reached).
+2025-10-07 19:00:01,510 [INFO] [2025-10-07 16:00:00 UTC] TRBUSDT skipped (max positions reached).
+2025-10-07 19:00:01,567 [INFO] [2025-10-07 16:00:00 UTC] DYMUSDT skipped (max positions reached).
+2025-10-07 19:00:01,625 [INFO] [2025-10-07 16:00:00 UTC] MAVUSDT skipped (max positions reached).
+2025-10-07 19:00:01,632 [INFO] [2025-10-07 16:00:00 UTC] GALAUSDT skipped (max positions reached).
+2025-10-07 19:00:01,803 [INFO] [2025-10-07 16:00:00 UTC] POLYXUSDT skipped (max positions reached).
+2025-10-07 19:00:01,805 [INFO] [2025-10-07 16:00:00 UTC] CHESSUSDT skipped (max positions reached).
+2025-10-07 19:00:01,822 [INFO] [2025-10-07 16:00:00 UTC] HIGHUSDT skipped (max positions reached).
+2025-10-07 19:00:02,081 [INFO] [2025-10-07 16:00:00 UTC] WAXPUSDT skipped (max positions reached).
+2025-10-07 19:00:02,086 [INFO] [2025-10-07 16:00:00 UTC] GTCUSDT skipped (max positions reached).
+2025-10-07 19:00:02,119 [INFO] [2025-10-07 16:00:00 UTC] AUCTIONUSDT skipped (max positions reached).
+2025-10-07 19:00:02,171 [INFO] [2025-10-07 16:00:00 UTC] MEMEUSDT skipped (max positions reached).
+2025-10-07 19:00:02,695 [INFO] [2025-10-07 16:00:00 UTC] ZETAUSDT skipped (max positions reached).
+2025-10-07 19:00:02,838 [INFO] [2025-10-07 16:00:00 UTC] GMTUSDT skipped (max positions reached).
+2025-10-07 19:00:03,238 [INFO] [2025-10-07 16:00:00 UTC] CATIUSDT skipped (max positions reached).
+2025-10-07 19:00:03,324 [INFO] [2025-10-07 16:00:00 UTC] RONINUSDT skipped (max positions reached).
+2025-10-07 19:00:03,329 [INFO] [2025-10-07 16:00:00 UTC] MANTAUSDT skipped (max positions reached).
+2025-10-07 19:00:03,340 [INFO] [2025-10-07 16:00:00 UTC] ACXUSDT skipped (max positions reached).
+2025-10-07 19:15:00,225 [INFO] [2025-10-07 16:15:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-10-07 19:30:00,660 [INFO] [2025-10-07 16:30:00 UTC] METISUSDT skipped (max positions reached).
+2025-10-07 19:30:00,662 [INFO] [2025-10-07 16:30:00 UTC] ZETAUSDT skipped (max positions reached).
+2025-10-07 19:30:02,012 [INFO] [2025-10-07 16:30:00 UTC] CATIUSDT skipped (max positions reached).
+2025-10-07 19:30:02,030 [INFO] [2025-10-07 16:30:00 UTC] DEGENUSDT skipped (max positions reached).
+2025-10-07 20:00:01,241 [INFO] [2025-10-07 17:00:00 UTC] SUSDT SHORT BUY (cover) at ~0.3011 | Held 11 candles | Open positions: 9
+2025-10-07 21:30:02,044 [INFO] [2025-10-07 18:30:00 UTC] METISUSDT SHORT SELL at ~12.79 | Open positions: 10
+2025-10-07 22:00:03,408 [INFO] [2025-10-07 19:00:00 UTC] NFPUSDT skipped (max positions reached).
+2025-10-08 03:00:00,272 [INFO] [2025-10-08 00:00:00 UTC] DASHUSDT skipped (max positions reached).
+2025-10-08 03:00:02,486 [INFO] [2025-10-08 00:00:00 UTC] PIXELUSDT SHORT BUY (cover) at ~0.02671 | Held 25 candles | Open positions: 9
+2025-10-08 04:00:01,167 [INFO] [2025-10-08 01:00:00 UTC] ZETAUSDT SHORT SELL at ~0.1779 | Open positions: 10
+2025-10-08 04:00:01,173 [INFO] [2025-10-08 01:00:00 UTC] METISUSDT SHORT BUY (cover) at ~12.74 | Held 13 candles | Open positions: 9
+2025-10-08 05:00:03,759 [INFO] [2025-10-08 02:00:00 UTC] AUCTIONUSDT SHORT BUY (cover) at ~8.345 | Held 24 candles | Open positions: 8
+2025-10-08 05:30:02,405 [INFO] [2025-10-08 02:30:00 UTC] SAGAUSDT SHORT BUY (cover) at ~0.2013 | Held 25 candles | Open positions: 7
+2025-10-08 05:30:03,363 [INFO] [2025-10-08 02:30:00 UTC] PORTALUSDT SHORT BUY (cover) at ~0.03732 | Held 25 candles | Open positions: 6
+2025-10-08 06:30:01,101 [INFO] [2025-10-08 03:30:00 UTC] 1000RATSUSDT SHORT SELL at ~0.02619 | Open positions: 7
+2025-10-08 08:30:02,369 [INFO] [2025-10-08 05:30:00 UTC] DEGENUSDT SHORT SELL at ~0.002795 | Open positions: 8
+2025-10-08 11:00:02,027 [INFO] [2025-10-08 08:00:00 UTC] 1000RATSUSDT SHORT BUY (cover) at ~0.02692 | Held 9 candles | Open positions: 7
+2025-10-08 11:45:03,502 [INFO] [2025-10-08 08:45:00 UTC] DEGENUSDT SHORT BUY (cover) at ~0.00285 | Held 13 candles | Open positions: 6
+2025-10-08 12:30:01,506 [INFO] [2025-10-08 09:30:00 UTC] ZETAUSDT SHORT BUY (cover) at ~0.1764 | Held 17 candles | Open positions: 5
+2025-10-08 13:00:01,020 [INFO] [2025-10-08 10:00:00 UTC] BSVUSDT SHORT BUY (cover) at ~25.26 | Held 25 candles | Open positions: 4
+2025-10-08 13:01:54,875 [INFO] Stopped by user.
+2025-10-29 15:43:13,439 [INFO] [Combined WS] Connected to 46 streams
+2025-10-29 15:43:22,107 [INFO] Stopped by user.
+2025-10-29 15:43:39,835 [INFO] [Combined WS] Connected to 46 streams
+2025-10-29 15:46:13,939 [INFO] [Combined WS] Connected to 46 streams
+2025-10-29 15:46:21,918 [INFO] Stopped by user.
+2025-10-29 16:20:34,802 [INFO] [Combined WS] Connected to 46 streams
+2025-10-29 17:45:09,626 [INFO] [Combined WS] Connected to 46 streams

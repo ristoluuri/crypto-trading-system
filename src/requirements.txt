@@ -1,0 +1,12 @@
+aiohttp==3.10.11
+google_api_python_client==2.176.0
+google_auth_oauthlib==1.2.2
+numba==0.62.1
+numpy==2.3.4
+pandas==2.3.3
+protobuf==6.33.0
+python-dotenv==1.2.1
+python_binance==1.0.29
+python_dateutil==2.9.0.post0
+Requests==2.32.5
+websockets==13.1
